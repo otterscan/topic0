@@ -1,0 +1,1 @@
+LPEvent(uint256 typeOfLP,address indexed userAddress,uint256 amount,uint256 timestamp)

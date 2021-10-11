@@ -1,0 +1,1 @@
+AddressSet(bytes32 id,address indexed newAddress,bool hasProxy)

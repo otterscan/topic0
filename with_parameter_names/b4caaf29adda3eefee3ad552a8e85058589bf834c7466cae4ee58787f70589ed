@@ -1,0 +1,1 @@
+Staked(address indexed user,uint256 amount,uint256 total,uint256 lockedUntil)

@@ -1,0 +1,1 @@
+SwapSuccess(bytes32 id,address swapper,address from_address,address to_address,uint256 from_value,uint256 to_value)

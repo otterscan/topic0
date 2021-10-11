@@ -1,0 +1,1 @@
+ERC721ControlledSet(address prizeStrategy,address erc721Controlled)

@@ -1,0 +1,1 @@
+UpdateAdminBalance(address indexed adminAddress,uint256 amount)

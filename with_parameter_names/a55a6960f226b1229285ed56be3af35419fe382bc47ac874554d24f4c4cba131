@@ -1,0 +1,1 @@
+BoughtBonus(address indexed owner,uint256 indexed poolId,uint256 indexed bonusId,uint256 paid)

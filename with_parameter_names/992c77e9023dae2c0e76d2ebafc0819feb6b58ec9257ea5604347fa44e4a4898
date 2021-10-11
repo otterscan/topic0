@@ -1,0 +1,1 @@
+TimeProfit(uint256 balance,uint256 hold,uint256 percent,uint256 min,uint256 tax,uint256 reward,uint256 total)

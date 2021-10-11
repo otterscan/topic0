@@ -1,0 +1,1 @@
+newPayment(address player,uint256 amount,uint256 betsThisGame)

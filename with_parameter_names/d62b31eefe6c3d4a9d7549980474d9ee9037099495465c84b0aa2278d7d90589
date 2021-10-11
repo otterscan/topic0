@@ -1,0 +1,1 @@
+NewMint(address indexed account,uint256 amount,uint256 devFee,uint256 amountBurnt)

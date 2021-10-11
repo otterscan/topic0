@@ -1,0 +1,1 @@
+NewKey(uint256 indexed tokenId,string indexed key)

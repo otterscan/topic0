@@ -1,0 +1,1 @@
+NewTokenWallet(address indexed token,address indexed wallet)

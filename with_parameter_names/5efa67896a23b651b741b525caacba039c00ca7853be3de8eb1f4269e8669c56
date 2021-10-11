@@ -1,0 +1,1 @@
+DividendClaimed(address indexed recipient,uint256 musdReceived)

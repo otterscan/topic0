@@ -1,0 +1,1 @@
+BulkBoosterCardIncreased(address indexed _to,uint256 _amountOfCards,uint256 _cardID)

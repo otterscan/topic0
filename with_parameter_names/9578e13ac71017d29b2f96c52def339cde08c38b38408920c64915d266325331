@@ -1,0 +1,1 @@
+PrizeAdded(address indexed by,address[] tokens,uint256[] ids)

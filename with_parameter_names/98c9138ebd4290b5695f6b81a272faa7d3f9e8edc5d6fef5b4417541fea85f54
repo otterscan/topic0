@@ -1,0 +1,1 @@
+MigrateLpToken(address indexed oldLpToken,address indexed newLpToken,uint256 indexed pid)

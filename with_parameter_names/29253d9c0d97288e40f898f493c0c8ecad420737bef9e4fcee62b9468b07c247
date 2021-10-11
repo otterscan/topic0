@@ -1,0 +1,1 @@
+RegUser(bool isExist,uint256 earning,uint256 recomendation,uint256 creationTime,uint256 total_Days,bool isRecomended,uint256 id)

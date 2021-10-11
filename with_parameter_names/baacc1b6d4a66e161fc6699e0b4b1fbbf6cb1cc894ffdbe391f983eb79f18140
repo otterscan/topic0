@@ -1,0 +1,1 @@
+Settle(address indexed agent,address indexed gauge,address indexed reward,uint256 vol,uint256 tip)

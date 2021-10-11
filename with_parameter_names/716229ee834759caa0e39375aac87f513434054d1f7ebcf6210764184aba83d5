@@ -1,0 +1,1 @@
+HouseOffered(uint256 indexed houseIndex,uint256 minValue,address indexed toAddress)

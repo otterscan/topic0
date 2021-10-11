@@ -1,0 +1,1 @@
+dailyPayoutEvent(address indexed _playerAddress,uint256 indexed amount,uint256 indexed timeStamp)

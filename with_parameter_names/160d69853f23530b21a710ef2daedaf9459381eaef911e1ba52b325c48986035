@@ -1,0 +1,1 @@
+VaultTransfer(address indexed oldVault,address indexed newVault,tuple[] coins,string memo)

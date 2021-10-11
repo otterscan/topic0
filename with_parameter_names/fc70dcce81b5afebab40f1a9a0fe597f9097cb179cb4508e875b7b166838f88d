@@ -1,0 +1,1 @@
+WalletBanStatusUpdated(address user,bool banned)

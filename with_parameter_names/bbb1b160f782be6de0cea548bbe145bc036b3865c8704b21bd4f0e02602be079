@@ -1,0 +1,1 @@
+BaseCurrencyChanged(address previousBaseCurrency,address newBaseCurrency,uint256 rate)

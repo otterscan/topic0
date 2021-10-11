@@ -1,0 +1,1 @@
+LogAuctionOwnerChanged(uint256 tokenid,address from,address to)

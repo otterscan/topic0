@@ -1,0 +1,1 @@
+FileRequestTicket(address sender,uint256 ticketID,uint8 dataType,bool subjective,uint256 timeRequested,uint256 responseTimeWindow,uint256 feePaid)

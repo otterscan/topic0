@@ -1,0 +1,1 @@
+newTokenBatchCreated(string tokenHash,string tokenBatchName,uint256 editionSize,uint256 price,uint256 tokenBatchIndex,address creator,uint256 timestamp)

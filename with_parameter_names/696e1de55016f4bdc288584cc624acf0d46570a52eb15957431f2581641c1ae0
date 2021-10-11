@@ -1,0 +1,1 @@
+UniverseToErc20Swap(address indexed user,address indexed swapToken,uint256 poolInAmount,uint256 ethOutAmount,uint256 erc20OutAmount)

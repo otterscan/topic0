@@ -1,0 +1,1 @@
+ObtainEvent(address buyAddress,uint256 amount,uint256 signId)

@@ -1,0 +1,1 @@
+Liquidated(string _name,address _account,address _token,uint256 _amount,address _collateralToken)

@@ -1,0 +1,1 @@
+Claimed(address indexed caller,uint256 windowIndex,address indexed account,uint256 accountIndex,uint256 amount,address indexed rewardToken)

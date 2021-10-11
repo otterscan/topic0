@@ -1,0 +1,1 @@
+DiggPegRewards(address indexed beneficiary,uint256 response,uint256 rate,uint256 indexed timestamp,uint256 indexed blockNumber)

@@ -1,0 +1,1 @@
+StakingPoolEarnedRewardsInEpoch(uint256 indexed epoch,bytes32 indexed poolId)

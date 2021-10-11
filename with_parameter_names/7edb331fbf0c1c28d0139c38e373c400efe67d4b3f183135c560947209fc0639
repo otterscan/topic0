@@ -1,0 +1,1 @@
+TributeToManager(address indexed caller,uint256 amount,string details)

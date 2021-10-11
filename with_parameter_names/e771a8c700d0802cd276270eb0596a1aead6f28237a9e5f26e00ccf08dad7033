@@ -1,0 +1,1 @@
+Sell(address indexed seller,uint256 calculatedEtherTransfer,uint256 soldToken,uint256 sellPrice,uint256 sellPriceAfterSell,uint256 circultedSupplyBeforeSell,uint256 circultedSupplyAfterSell)

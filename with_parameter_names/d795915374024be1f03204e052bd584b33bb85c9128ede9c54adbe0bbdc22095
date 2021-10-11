@@ -1,0 +1,1 @@
+Claimed(address indexed sender,address indexed recipient,uint256 net,uint256 tax,uint256 total)

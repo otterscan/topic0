@@ -1,0 +1,1 @@
+FeeLogic(uint256 tEntered,uint256 tFeeCalc,uint256 tAmountGiven)

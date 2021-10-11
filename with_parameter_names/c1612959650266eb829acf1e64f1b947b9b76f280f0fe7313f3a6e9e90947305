@@ -1,0 +1,1 @@
+LogBuyHashRate(address indexed owner,address indexed superior,uint256 hashRate)

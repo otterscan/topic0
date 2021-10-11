@@ -1,0 +1,1 @@
+NewMigrator(address oldMigrator,address newMigrator)

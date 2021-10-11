@@ -1,0 +1,1 @@
+AffEvent(address indexed receiver,address indexed sender,uint256 indexed affTimes,uint256 crfiInterest,uint256 cfilInterest,uint256 packageID,uint256 timestamp)

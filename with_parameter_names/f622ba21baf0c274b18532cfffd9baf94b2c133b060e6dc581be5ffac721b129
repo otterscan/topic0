@@ -1,0 +1,1 @@
+CreateMerchantWalletEvent(string clientId,address merchantAddress,address merchantWalletAddress)

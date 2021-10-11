@@ -1,0 +1,1 @@
+CreateIeoDAOProposal(address who,uint256 proposalNO,address coinid,uint256 daoCollectAmount,uint256 uDAONumber,uint256 daoAmount,uint256 txid)

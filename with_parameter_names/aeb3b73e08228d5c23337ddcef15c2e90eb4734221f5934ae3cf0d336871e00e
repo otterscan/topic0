@@ -1,0 +1,1 @@
+CreateMarket(string bullToken,string bearToken,address collateralToken,address priceFeed,uint256 multiplierBasisPoints,uint256 maxProfitBasisPoints,uint256 index)

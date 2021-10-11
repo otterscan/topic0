@@ -1,0 +1,1 @@
+AdminUpdated(address indexed account,uint256 allowedAmount)

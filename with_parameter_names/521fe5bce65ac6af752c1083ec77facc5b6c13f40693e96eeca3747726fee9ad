@@ -1,0 +1,1 @@
+CreatedWindow(uint256 indexed windowIndex,uint256 rewardsDeposited,address indexed rewardToken,address owner)

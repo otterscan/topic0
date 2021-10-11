@@ -1,0 +1,1 @@
+PoolRewardEvent(address indexed _member,address indexed _referrer,uint8 _poolNumber,uint256 _index,uint256 _amount,uint256 _time)

@@ -1,0 +1,1 @@
+Swap(address indexed from,uint256 stagePrice,uint256 saleAmount,uint256 stageAmount,uint256 stageLmitAmount,uint256 coinType,uint256 amount)

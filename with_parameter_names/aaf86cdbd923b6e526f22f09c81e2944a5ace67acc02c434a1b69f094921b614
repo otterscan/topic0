@@ -1,0 +1,1 @@
+momentOffered(uint256 indexed momentID,uint256 minValue,address indexed toAddress)

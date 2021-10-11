@@ -1,0 +1,1 @@
+LostProfitEvent(address indexed recipient,address indexed sender,uint256 amount,uint256 time)

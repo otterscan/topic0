@@ -1,0 +1,1 @@
+AcceptedRace(uint256 indexed raceId,uint256 indexed slotId,address indexed wallet,uint256 tokenId,uint256 amount,uint256 created)

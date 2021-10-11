@@ -1,0 +1,1 @@
+TokenMapped(address indexed rootToken,address indexed childToken,bytes32 indexed tokenType)

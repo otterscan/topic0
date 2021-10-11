@@ -1,0 +1,1 @@
+SwapFeeSet(address indexed setter,uint256 newFee)

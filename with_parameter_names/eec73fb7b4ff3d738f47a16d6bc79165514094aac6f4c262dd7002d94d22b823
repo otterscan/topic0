@@ -1,0 +1,1 @@
+UserBonusIssued(address user,uint256 bonus)

@@ -1,0 +1,1 @@
+LobbyJoined(uint40 timestamp,uint16 day,uint256 amount,address indexed customer,address indexed affiliate)

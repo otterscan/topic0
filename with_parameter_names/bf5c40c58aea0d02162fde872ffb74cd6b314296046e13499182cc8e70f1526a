@@ -1,0 +1,1 @@
+VoteInCompany(address _company,address voter,bool _accept,uint256 _negativeVote,uint256 _positiveVote)

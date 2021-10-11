@@ -1,0 +1,1 @@
+JoinRewardEvent(address indexed _member,address indexed _referrer,uint256 _amount,uint256 _time)

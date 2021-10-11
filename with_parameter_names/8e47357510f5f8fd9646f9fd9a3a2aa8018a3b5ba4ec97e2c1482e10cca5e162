@@ -1,0 +1,1 @@
+SummonAavePartyMinion(address partyAddress,address dao,address protocol,address feeAddress,uint256 minionId,uint256 feeFactor,string desc,string name)

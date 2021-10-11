@@ -1,0 +1,1 @@
+WRNMinted(address indexed tokenAddress,uint256 amount,uint256 timestamp)

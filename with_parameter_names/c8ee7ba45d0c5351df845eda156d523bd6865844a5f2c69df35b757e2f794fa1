@@ -1,0 +1,1 @@
+SecretRevealed(bytes32 indexed secrethash,bytes32 secret)

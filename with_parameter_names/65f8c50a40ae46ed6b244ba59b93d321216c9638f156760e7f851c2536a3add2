@@ -1,0 +1,1 @@
+Vote(address indexed from,uint256 state,bool agree,uint256 weight)

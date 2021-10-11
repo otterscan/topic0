@@ -1,0 +1,1 @@
+CreateCandidate(address indexed tokenIn,address indexed tokenOut,uint8 decimals)

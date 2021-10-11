@@ -1,0 +1,1 @@
+Transfered(address indexed wallet,address indexed erc20Address,uint256 amount,uint256 date)

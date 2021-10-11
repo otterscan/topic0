@@ -1,0 +1,1 @@
+BoosterCardCrafted(address indexed _to,uint256 cardID,uint256 _amountOfCards,uint256 _boostAmount)

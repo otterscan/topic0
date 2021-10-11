@@ -1,0 +1,1 @@
+FailRewardCaller(bytes revertReason,address feeReceiver,uint256 amount)

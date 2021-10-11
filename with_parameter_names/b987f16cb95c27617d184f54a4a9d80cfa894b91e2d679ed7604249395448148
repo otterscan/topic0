@@ -1,0 +1,1 @@
+UpdateApprovedContracts(address[] contracts,bool[] approved)

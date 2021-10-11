@@ -1,0 +1,1 @@
+VerifiedAddressSuperseded(address indexed _original,address indexed _replacement,address indexed _sender)

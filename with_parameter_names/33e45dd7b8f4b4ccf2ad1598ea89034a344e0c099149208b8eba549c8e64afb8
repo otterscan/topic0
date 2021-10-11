@@ -1,0 +1,1 @@
+Resolve(uint256 indexed clientAward,uint256 indexed providerAward,uint256 indexed registration,uint256 resolutionFee,string resolution)

@@ -1,0 +1,1 @@
+LogWithdraw(address indexed _from,address indexed _assetAddress,uint256 amount)

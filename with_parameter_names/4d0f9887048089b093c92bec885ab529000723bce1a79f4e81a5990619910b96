@@ -1,0 +1,1 @@
+onLock(uint256 lockID,address token,address owner,uint256 amountInTokens,uint256 startEmission,uint256 endEmission)

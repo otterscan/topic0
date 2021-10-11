@@ -1,0 +1,1 @@
+GroupCreated(uint256 indexed groupId,address indexed groupCreator)

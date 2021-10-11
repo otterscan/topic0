@@ -1,0 +1,1 @@
+ReferenceApproval(address indexed template,uint256 indexed slot,address target,bool approval)

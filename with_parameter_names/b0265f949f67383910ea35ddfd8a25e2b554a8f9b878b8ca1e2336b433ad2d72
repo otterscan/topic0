@@ -1,0 +1,1 @@
+ProveInvitation(address indexed account,bytes32 indexed guestRoot)

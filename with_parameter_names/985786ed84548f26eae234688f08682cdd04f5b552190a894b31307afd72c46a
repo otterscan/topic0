@@ -1,0 +1,1 @@
+FeeDivisorsSet(uint256 mintFee,uint256 burnFee,uint256 claimFee)

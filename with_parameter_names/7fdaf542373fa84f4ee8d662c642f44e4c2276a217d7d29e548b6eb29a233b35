@@ -1,0 +1,1 @@
+ExcludeMultipleAccountsFromFees(address[] accounts,bool isExcluded)

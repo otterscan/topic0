@@ -1,0 +1,1 @@
+NewJOYtoyCreated(string artworkHash,string artworkType,string power,string toyName,string feature,uint256 editionSize,bool vendingMachine,uint256 price,uint256 royalty,uint256 JOYtoyIndex)

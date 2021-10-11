@@ -1,0 +1,1 @@
+CompoundRedeem(uint256 indexed executionId,uint256 rate,uint256 totalBalance,uint256 totalRedeemed,uint256 fee,uint256 totalBought,uint256 totalAucBurned)

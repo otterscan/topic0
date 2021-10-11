@@ -1,0 +1,1 @@
+ProductUpdatedWithSuccess(address indexed _creator,address indexed _productAddress,bytes32 _productHash,bytes32 _productHashUpdate,bool _isActive)

@@ -1,0 +1,1 @@
+RequestClientRejected(uint256 indexed _id,bool _accepted,address _client,address indexed _dataConsumer,address[] indexed _validators)

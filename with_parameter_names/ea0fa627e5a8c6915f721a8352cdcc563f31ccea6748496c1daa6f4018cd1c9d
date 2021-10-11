@@ -1,0 +1,1 @@
+FreeMintFreeze(address indexed user,uint256 value,uint256 indexed dapp)

@@ -1,0 +1,1 @@
+ProposaleCalculation(uint256 _pid,bool isMandatorySettlement,address msgsender)

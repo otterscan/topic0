@@ -1,0 +1,1 @@
+GovUpdateSettings(address indexed governance,string commonURI,string masterOperatingAgreement)

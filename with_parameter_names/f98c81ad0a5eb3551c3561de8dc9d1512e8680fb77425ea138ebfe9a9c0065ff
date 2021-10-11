@@ -1,0 +1,1 @@
+FeeChanged(address indexed template,uint256 indexed oldFee,uint256 indexed newFee)

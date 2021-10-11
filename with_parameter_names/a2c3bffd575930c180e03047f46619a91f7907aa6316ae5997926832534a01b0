@@ -1,0 +1,1 @@
+RequestCreated(uint256 indexed _id,address indexed _requester,address indexed _client,bytes8 _requestAttributeMap,bytes32 _keyExchangeConsumerValidator,bool _isPreauthorised,bytes32 _keyExchangeConsumerClient)

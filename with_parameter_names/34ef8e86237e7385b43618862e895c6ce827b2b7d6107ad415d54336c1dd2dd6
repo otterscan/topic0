@@ -1,0 +1,1 @@
+RemoveLiquidity(address indexed provider,address indexed token,uint256 reserve_amount,uint256 token_amount)

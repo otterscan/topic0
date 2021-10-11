@@ -1,0 +1,1 @@
+RevealVote(address voter,uint256 ticketID,bool rejected,int256 intVote,bytes bytesVote,address addressVote)

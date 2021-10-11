@@ -1,0 +1,1 @@
+EnterParticipant(uint256 indexed raffleId,uint256 numberOfTickets,address userAddress,uint256 ticketId,uint256 timestamp)

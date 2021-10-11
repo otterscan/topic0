@@ -1,0 +1,1 @@
+DHVPurchased(address indexed user,address indexed purchaseToken,uint256 dhvAmount)

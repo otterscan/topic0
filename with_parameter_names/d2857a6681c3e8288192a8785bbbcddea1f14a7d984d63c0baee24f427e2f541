@@ -1,0 +1,1 @@
+newLoft(address indexed buyer,uint8[5] numbers,uint64 round,uint8 times)

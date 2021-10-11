@@ -1,0 +1,1 @@
+AddLiquidity(address user,address coinid,uint256 balance,uint256 txid)

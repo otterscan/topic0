@@ -1,0 +1,1 @@
+EnteranceFee(address indexed user,address token,uint256 amount)

@@ -1,0 +1,1 @@
+userDetails1(address user_address,uint256 id,uint256 asset_value_USD,uint8 deposited_asset,uint8 lend_asset,uint8 m_state,uint256 lended_value,uint256 time,uint256 rate,uint256 interestrate,uint256 max_mortgage)

@@ -1,0 +1,1 @@
+OfferCreated(address indexed _tokenIn,address indexed _tokenOut,uint256 _amountIn,uint256 _amountOut,uint256 _duration,uint256 _interests,address indexed _offer)

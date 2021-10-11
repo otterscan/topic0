@@ -1,0 +1,1 @@
+ExchangedAmount(address indexed fromAsset,address indexed toAsset,uint256 fromAmount,uint256 toAmount)

@@ -1,0 +1,1 @@
+NewUserCreatedWithSuccess(address indexed _creator,bytes32 _userHash,uint8 _userType,bool _isActive)

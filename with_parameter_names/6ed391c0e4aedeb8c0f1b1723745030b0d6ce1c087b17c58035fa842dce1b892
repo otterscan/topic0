@@ -1,0 +1,1 @@
+ClaimApprove(address indexed hashAddress,uint64 claimID,uint256 nativeAmount,uint256 foreignAmount,bool isInvestment)

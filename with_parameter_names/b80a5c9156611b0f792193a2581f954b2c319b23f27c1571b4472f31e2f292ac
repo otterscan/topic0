@@ -1,0 +1,1 @@
+CreatePool(uint32 indexed id,address indexed maker,bool priv,address tracker,uint256 amount,uint256 rate,uint256 units)

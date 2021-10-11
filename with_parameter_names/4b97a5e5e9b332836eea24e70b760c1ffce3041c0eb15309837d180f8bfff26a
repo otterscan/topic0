@@ -1,0 +1,1 @@
+PointsEarned(address indexed user,uint256 indexed time,uint256 score)

@@ -1,0 +1,1 @@
+GuardTax(address taxed,uint256 amount,uint256 penalty)

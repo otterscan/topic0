@@ -1,0 +1,1 @@
+UpdateVistor(address indexed visitor,bool allow)

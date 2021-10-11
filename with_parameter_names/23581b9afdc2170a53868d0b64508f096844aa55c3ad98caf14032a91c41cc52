@@ -1,0 +1,1 @@
+Staked(bytes32 _id,uint256 _rewardAmount,address _pool)

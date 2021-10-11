@@ -1,0 +1,1 @@
+loanFunded(uint256 indexed _communityID,uint256 indexed _loanID,uint256 _amount,address _asset,address indexed _lender,address _borrower)

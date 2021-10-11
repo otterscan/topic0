@@ -1,0 +1,1 @@
+LogOriginFeeCollected(address indexed origin,address indexed token,uint256 tokenAmt,uint256 originFeeAmt)

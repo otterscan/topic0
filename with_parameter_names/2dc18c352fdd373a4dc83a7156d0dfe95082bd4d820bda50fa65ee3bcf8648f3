@@ -1,0 +1,1 @@
+DailyDistributionDetails(address indexed stakedTokenAddress,address indexed rewardTokenAddress,uint256 rewards,uint256 time)

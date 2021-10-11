@@ -1,0 +1,1 @@
+UpdatedSwapManager(address indexed previousSwapManager,address indexed newSwapManager)

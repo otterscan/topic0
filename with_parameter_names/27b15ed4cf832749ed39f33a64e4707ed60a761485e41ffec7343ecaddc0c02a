@@ -1,0 +1,1 @@
+MoneyReceived(address indexed _from,uint256 _amount)

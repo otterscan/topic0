@@ -1,0 +1,1 @@
+userDetails(address user_address,uint256 id,uint256 asset_value_USD,uint8 v_asset,uint8 v_state,uint256 cycle,uint256 rate,uint256 amount,uint256 intrest,uint8 withdrawl,uint256 withdrawState)

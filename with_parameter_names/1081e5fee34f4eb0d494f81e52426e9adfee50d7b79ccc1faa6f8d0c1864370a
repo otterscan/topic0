@@ -1,0 +1,1 @@
+LogDelegate(address delegatee,bool delegateAave,bool delegateStkAave,uint8 aaveDelegationType,uint8 stkAaveDelegationType)

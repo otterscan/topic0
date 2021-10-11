@@ -1,0 +1,1 @@
+RemoveLiquidity(address indexed account,address indexed poolAddr)

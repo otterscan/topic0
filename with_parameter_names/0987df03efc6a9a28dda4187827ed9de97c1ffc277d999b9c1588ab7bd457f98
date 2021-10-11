@@ -1,0 +1,1 @@
+onTransfer(address indexed contractAddress,address indexed from,address indexed to,uint256 tokens)

@@ -1,0 +1,1 @@
+LogClaimedReward(string indexed gaugePoolName,uint256 amount,uint256 rewardAmt,uint256 setId,uint256 setIdReward)

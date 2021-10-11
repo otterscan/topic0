@@ -1,0 +1,1 @@
+EndVoteWon(address indexed user,uint256 indexed vote_id,uint256 xTRND_amount)

@@ -1,0 +1,1 @@
+TakeBonusEvent(address indexed _addr,uint256 _value,uint256 time)

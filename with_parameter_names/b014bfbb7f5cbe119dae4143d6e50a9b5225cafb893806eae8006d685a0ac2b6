@@ -1,0 +1,1 @@
+UpdateCertified(string indexed symbol,uint256 indexed mainChainId,address indexed token)

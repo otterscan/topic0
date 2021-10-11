@@ -1,0 +1,1 @@
+EmailSent(address indexed from,address indexed to,string mailHash)

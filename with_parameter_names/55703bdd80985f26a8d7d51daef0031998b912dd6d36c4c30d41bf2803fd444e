@@ -1,0 +1,1 @@
+getMoneyForPoolEvent(address indexed _user,address indexed _referral,uint256 _level,uint256 _time)

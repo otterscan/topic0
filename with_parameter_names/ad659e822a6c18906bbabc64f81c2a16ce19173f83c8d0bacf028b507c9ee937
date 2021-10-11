@@ -1,0 +1,1 @@
+SetWeightPerSecondBounds(uint256 minWeightPerSecond,uint256 maxWeightPerSecond)

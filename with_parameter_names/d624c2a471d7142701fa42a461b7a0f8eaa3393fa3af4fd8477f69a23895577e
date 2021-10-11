@@ -1,0 +1,1 @@
+priceWasChanged(uint256 indexed _newPrice,uint256 _time)

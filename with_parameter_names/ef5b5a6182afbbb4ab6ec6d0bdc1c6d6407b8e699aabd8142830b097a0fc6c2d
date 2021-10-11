@@ -1,0 +1,1 @@
+AdvisorRemoved(address indexed advisor,address indexed caller,uint256 allocation)

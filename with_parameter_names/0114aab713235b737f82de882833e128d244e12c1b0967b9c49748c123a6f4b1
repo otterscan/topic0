@@ -1,0 +1,1 @@
+NewAuction(uint256 _tokenId,uint256 _startPrice,uint256 _endPrice)

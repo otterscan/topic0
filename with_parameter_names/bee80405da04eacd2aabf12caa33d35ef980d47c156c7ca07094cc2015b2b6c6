@@ -1,0 +1,1 @@
+NewAssetDeployed(address indexed newAsset,uint256 blockNumber)

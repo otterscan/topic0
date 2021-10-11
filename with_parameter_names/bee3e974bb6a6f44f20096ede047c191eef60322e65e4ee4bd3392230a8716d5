@@ -1,0 +1,1 @@
+RouterRemoved(address indexed removedRouter,address indexed caller)

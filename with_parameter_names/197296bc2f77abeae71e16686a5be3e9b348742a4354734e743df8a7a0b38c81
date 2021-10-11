@@ -1,0 +1,1 @@
+ClaimRequest(address indexed hashAddress,uint64 claimID,uint256 amount,bool isInvestment)

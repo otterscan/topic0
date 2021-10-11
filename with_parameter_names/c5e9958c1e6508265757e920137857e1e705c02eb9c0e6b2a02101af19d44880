@@ -1,0 +1,1 @@
+ProjectStarted(address contractAddress,address projectStarter,string projectTitle,string projectDesc,uint256 deadline,uint256 goalAmount,uint8 projectType)

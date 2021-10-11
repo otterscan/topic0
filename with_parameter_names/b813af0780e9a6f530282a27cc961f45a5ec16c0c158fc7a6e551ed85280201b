@@ -1,0 +1,1 @@
+WeekConcluded(uint256 weekId,uint32 deaths,uint32 infections,address winner,uint32 winningDeaths,uint32 winningInfections,uint256 winningBetId)

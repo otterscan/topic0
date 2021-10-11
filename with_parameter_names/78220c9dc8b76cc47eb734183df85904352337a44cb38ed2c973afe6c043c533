@@ -1,0 +1,1 @@
+NewWalletCreated(address walletAddress,address indexed controller,string recipientExternalID)

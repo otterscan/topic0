@@ -1,0 +1,1 @@
+BuyLiquidatedCollateral(address indexed market,address indexed collateral,uint256 marketAmount,uint256 collateralAmount)

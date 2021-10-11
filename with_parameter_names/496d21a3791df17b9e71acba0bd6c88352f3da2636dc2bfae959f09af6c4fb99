@@ -1,0 +1,1 @@
+StakeResolves(address indexed addr,uint256 amountStaked,bytes _data)

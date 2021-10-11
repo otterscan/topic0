@@ -1,0 +1,1 @@
+Vote(address indexed from,uint256 votedFor,uint256 votedWith)

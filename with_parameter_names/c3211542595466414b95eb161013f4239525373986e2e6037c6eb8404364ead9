@@ -1,0 +1,1 @@
+UserPrediction(uint256 indexed conditionIndex,address indexed userAddress,uint256 indexed ETHStaked,uint8 prediction,uint256 timestamp)

@@ -1,0 +1,1 @@
+PoolUpdate(address indexed covtoken,address indexed pairedToken,address indexed poolAddr)

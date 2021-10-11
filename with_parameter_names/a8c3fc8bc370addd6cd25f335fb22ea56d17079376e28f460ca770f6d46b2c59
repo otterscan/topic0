@@ -1,0 +1,1 @@
+PricerLockingPeriodUpdated(address indexed pricer,uint256 lockingPeriod)

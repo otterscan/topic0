@@ -1,0 +1,1 @@
+AuctionDeployed(uint256 startPrice,uint256 auctionDurationInDays,uint256 minimalNumberOfParticipants,uint256 maximalNumberOfParticipants)

@@ -1,0 +1,1 @@
+SetAdded(address indexed _setToken,address indexed _factory)

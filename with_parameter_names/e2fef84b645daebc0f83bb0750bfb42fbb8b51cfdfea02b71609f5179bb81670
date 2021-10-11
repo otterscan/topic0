@@ -1,0 +1,1 @@
+AddInfo(address account,uint256 amount,uint256 beginTs,uint256 endTs)

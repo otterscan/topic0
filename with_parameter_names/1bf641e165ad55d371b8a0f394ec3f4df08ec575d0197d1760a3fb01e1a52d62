@@ -1,0 +1,1 @@
+logSetVmcNftUri(uint256 _tokenId,string _tokenUri)

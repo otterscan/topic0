@@ -1,0 +1,1 @@
+NewSynth(address indexed pool,address indexed synth,address indexed expiringMultiParty)

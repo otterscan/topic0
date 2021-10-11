@@ -1,0 +1,1 @@
+CryptographEditionMinted(uint256 indexed cryptographIssue,uint256 indexed editionIssue,address cryptographAddress,bool indexed official)

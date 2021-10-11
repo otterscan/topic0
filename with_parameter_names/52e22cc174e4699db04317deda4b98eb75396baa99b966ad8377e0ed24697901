@@ -1,0 +1,1 @@
+ScoreAdded(address indexed origin,address indexed referrer,uint256 score)

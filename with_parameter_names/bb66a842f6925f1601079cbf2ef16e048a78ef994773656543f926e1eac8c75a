@@ -1,0 +1,1 @@
+UserActive(uint256 indexed eventID,uint256 indexed userID,uint256 blockNumber,uint256[8] referrers,uint256[8] tokenAmts,uint256[8] usdAmts,bytes32 inviteCode)

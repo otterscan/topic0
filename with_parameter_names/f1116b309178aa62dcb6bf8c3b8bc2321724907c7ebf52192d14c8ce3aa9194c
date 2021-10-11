@@ -1,0 +1,1 @@
+RewardsPaid(uint256 indexed epoch,bytes32 indexed poolId,uint256 operatorReward,uint256 membersReward)

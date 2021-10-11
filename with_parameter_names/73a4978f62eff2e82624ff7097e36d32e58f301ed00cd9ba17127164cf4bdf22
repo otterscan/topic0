@@ -1,0 +1,1 @@
+LogBid(uint256 indexed tokenid,address indexed bidder,uint256 bid,address highestBidder,uint256 highestBid)

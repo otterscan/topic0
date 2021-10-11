@@ -1,0 +1,1 @@
+WithdrawState(uint256 toWithdraw,uint256 wrappedToWithdraw,uint256 preWant,uint256 wrappedInFarm,uint256 wrappedInVault,uint256 wrappedWithdrawnFromFarm,uint256 wrappedWithdrawn,uint256 postWant,uint256 withdrawn)

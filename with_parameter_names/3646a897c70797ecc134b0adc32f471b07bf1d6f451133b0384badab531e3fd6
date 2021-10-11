@@ -1,0 +1,1 @@
+AuthorizedOperatorByPartition(bytes32 indexed partition,address indexed operator,address indexed tokenHolder)

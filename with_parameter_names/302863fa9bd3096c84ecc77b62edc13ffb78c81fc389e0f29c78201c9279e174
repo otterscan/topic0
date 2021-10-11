@@ -1,0 +1,1 @@
+AdminAdded(address indexed addr,bytes32 indexed extensionHash,string extension,bool indexed su)

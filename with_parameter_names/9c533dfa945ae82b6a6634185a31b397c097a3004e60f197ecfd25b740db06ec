@@ -1,0 +1,1 @@
+NewSlotBuy(uint256 indexed _slotid,address indexed userAdr,uint256 amount)

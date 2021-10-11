@@ -1,0 +1,1 @@
+Stake(address who,address coinid,uint256 amount,uint256 uStakeTime)

@@ -1,0 +1,1 @@
+ExecuteProposal(uint256 indexed proposalId,address indexed trigger,int256 indexed vote)

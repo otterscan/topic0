@@ -1,0 +1,1 @@
+CalculateFee(uint256 amountIn,uint256 amountOut,uint256 feeMin,uint256 feePercent,uint256 fee,uint256 amountMinusFee)

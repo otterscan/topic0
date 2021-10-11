@@ -1,0 +1,1 @@
+ContactsUpdated(bytes32 indexed usernameHash,string fileHash)

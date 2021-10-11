@@ -1,0 +1,1 @@
+SwapedEthForTokens(uint256 EthAmount,uint256 TokenAmount,uint256 CallerReward,uint256 AmountBurned)

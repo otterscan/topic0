@@ -1,0 +1,1 @@
+MarkSave(bytes32 indexed collateralType,address indexed safeHandler)

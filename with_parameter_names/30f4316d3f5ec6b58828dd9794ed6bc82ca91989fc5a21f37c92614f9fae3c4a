@@ -1,0 +1,1 @@
+RootUpdated(uint256 indexed cycle,bytes32 indexed root,bytes32 indexed contentHash,uint256 startBlock,uint256 endBlock,uint256 timestamp,uint256 blockNumber)

@@ -1,0 +1,1 @@
+LogAddAuth(address indexed auth,uint256 timestamp)

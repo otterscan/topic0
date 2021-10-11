@@ -1,0 +1,1 @@
+MintershipTransferred(address indexed previousMinter,address indexed newMinter)

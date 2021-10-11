@@ -1,0 +1,1 @@
+loanRequested(uint256 indexed _communityID,uint256 indexed _loanID,address indexed _borrower,address _assetRequest,address _assetCollateral,uint256 _requestAmount,uint256 _collateralAmount,uint256 _apr,uint256 _payments,uint256 _paymentInterval,uint256 _firstPaymentUnix,uint256 _fee)

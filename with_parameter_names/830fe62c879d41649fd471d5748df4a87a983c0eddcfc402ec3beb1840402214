@@ -1,0 +1,1 @@
+CompanyRate(address indexed vault,uint256 rate)

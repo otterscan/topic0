@@ -1,0 +1,1 @@
+CreateIeoCoin(address user,address coinAddress,uint256 time,uint256 txid,uint256 amount)

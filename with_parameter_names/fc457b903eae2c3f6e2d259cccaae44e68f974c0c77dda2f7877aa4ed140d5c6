@@ -1,0 +1,1 @@
+MemberUnlocks(address indexed member,address indexed pool,uint256 balance,uint256 indexed currentEra)

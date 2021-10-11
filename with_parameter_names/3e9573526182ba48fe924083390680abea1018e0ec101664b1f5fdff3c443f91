@@ -1,0 +1,1 @@
+CKTokenBatchIssued(address indexed _ckToken,uint256 _inputUsed,uint256 _outputCK,uint256 _roundNumber)

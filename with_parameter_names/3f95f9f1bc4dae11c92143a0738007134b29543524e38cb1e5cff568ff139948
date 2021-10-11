@@ -1,0 +1,1 @@
+momentBought(uint256 indexed momentID,uint256 value,address indexed fromAddress,address indexed toAddress)

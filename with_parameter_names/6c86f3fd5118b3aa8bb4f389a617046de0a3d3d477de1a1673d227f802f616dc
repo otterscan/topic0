@@ -1,0 +1,1 @@
+Staked(address indexed token,address indexed staker_,uint256 requestedAmount_,uint256 stakedAmount_)

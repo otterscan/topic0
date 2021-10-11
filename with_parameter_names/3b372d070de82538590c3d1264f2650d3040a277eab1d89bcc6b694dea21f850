@@ -1,0 +1,1 @@
+CardBurned(uint256 _cardID,uint256 _amount)

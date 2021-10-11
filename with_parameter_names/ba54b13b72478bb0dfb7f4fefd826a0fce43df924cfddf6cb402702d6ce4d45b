@@ -1,0 +1,1 @@
+RewardCollected(address indexed user,address indexed ballot,uint256 value)

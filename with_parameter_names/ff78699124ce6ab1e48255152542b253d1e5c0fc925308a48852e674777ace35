@@ -1,0 +1,1 @@
+FeeRecipientEdited(address indexed _ckToken,address _feeRecipient)

@@ -1,0 +1,1 @@
+UserData(uint256 indexed eventID,uint256 indexed userID,uint256 blockNumber,uint8 action,uint256 fromUserID,uint256 extData,bool[2] userBoolArray,uint256[21] userUint256Array)

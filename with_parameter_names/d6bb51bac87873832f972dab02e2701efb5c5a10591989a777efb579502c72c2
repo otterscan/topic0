@@ -1,0 +1,1 @@
+BallotCreated(address indexed creator,address indexed pool,address indexed ballot,bytes32 name,uint256 value)

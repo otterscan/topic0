@@ -1,0 +1,1 @@
+StakeUpdated(address indexed store,uint256 stake)

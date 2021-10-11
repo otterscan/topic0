@@ -1,0 +1,1 @@
+BuyAsset(address indexed assetOwner,uint256 indexed tokenId,uint256 quantity,address indexed buyer)

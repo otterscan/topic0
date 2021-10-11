@@ -1,0 +1,1 @@
+LogSetPool(uint256 indexed pid,uint256 allocPoint,address indexed rewarder,bool overwrite)

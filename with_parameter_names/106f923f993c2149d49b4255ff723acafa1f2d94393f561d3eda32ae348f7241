@@ -1,0 +1,1 @@
+RewardClaimed(address user,uint256 amount)

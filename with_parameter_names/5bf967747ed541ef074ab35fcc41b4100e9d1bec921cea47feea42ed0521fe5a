@@ -1,0 +1,1 @@
+PartnerUpdatedWithSuccess(address indexed _creator,address indexed _partnerAddress,bytes32 _partnerHash,bytes32 _partnerHashUpdate,bool _isActive)

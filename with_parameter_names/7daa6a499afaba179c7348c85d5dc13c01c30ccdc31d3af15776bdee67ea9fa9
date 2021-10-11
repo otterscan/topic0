@@ -1,0 +1,1 @@
+TokenConfigSet(address token,address outAddress,uint256 maxTxsCount,uint256 txsCount)

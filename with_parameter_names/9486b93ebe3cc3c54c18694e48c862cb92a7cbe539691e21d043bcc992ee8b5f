@@ -1,0 +1,1 @@
+MultiplierPurchased(address indexed user,uint256 tiers,uint256 totalCost)

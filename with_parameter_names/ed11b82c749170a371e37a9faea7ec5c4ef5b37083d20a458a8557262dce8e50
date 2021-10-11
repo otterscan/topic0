@@ -1,0 +1,1 @@
+SettedPool(uint256 indexed alohaAmount,uint256 indexed erc20Amount,uint256 duration,uint256 rarity,uint256 date)

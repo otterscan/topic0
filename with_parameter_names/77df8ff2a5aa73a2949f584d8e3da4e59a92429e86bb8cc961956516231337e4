@@ -1,0 +1,1 @@
+CampaignCancelled(address owner,bytes32 bidId)

@@ -1,0 +1,1 @@
+BulkTransferFrom(address[] indexed senders,uint256[] amounts,address indexed recipient)

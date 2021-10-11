@@ -1,0 +1,1 @@
+Buy(address indexed spender,string indexed webdAddress,uint256 webdollarAmount,uint256 etherAmount)

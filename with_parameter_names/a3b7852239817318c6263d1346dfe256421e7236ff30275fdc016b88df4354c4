@@ -1,0 +1,1 @@
+Transaction(address indexed beneficiary,address indexed remitter,uint256 emittedAt,uint8 indexed transactionType,uint256 amount,string currency)

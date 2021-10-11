@@ -1,0 +1,1 @@
+RequestEthereumLastMarket(bytes32 indexed requestId,bytes32 indexed market)

@@ -1,0 +1,1 @@
+PaidOut(address indexed token,address indexed staker_,uint256 amount_,uint256 reward_)

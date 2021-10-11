@@ -1,0 +1,1 @@
+setPrices(address indexed seller,uint256 indexed order,uint256 ethPrice,tuple[] indexed tokenPrices)

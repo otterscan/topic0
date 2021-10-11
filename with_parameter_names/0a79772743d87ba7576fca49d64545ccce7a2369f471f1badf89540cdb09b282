@@ -1,0 +1,1 @@
+Staked(address sender,uint8 class,uint256 amount,uint256 finalAmount)

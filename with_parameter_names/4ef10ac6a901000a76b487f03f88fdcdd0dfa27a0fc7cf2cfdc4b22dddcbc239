@@ -1,0 +1,1 @@
+ShibasBought(address buyer,uint256 shibasBought,uint256[10] shibaIndexes)

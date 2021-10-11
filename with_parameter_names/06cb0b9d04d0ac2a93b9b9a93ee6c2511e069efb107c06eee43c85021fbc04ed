@@ -1,0 +1,1 @@
+RecievedRoyalties(address indexed creator,address indexed buyer,uint256 indexed amount)

@@ -1,0 +1,1 @@
+Trade(address indexed seller,address indexed buyer,uint256 tokenId,bool byToken,string symbol,uint256 quantity,uint256 price,uint256 fee)

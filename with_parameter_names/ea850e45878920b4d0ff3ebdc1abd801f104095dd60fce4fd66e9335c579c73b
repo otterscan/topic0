@@ -1,0 +1,1 @@
+AVECWithdrawnFromEscrow(address indexed User,uint256 amount,bytes32 indexed PropertyID)

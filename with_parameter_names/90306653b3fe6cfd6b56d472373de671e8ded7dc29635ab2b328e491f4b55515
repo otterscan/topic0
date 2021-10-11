@@ -1,0 +1,1 @@
+DecreaseAuthQuota(address indexed signatory,uint256 decrement,uint256 quota)

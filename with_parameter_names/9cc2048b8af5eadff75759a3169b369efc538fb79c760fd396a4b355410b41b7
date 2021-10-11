@@ -1,0 +1,1 @@
+Swapped(address initiator,address indexed beneficiary,address indexed srcToken,address indexed destToken,uint256 srcAmount,uint256 receivedAmount,uint256 expectedAmount,string referrer)

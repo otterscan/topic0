@@ -1,0 +1,1 @@
+BoughtTokens(address indexed to,uint256 value)

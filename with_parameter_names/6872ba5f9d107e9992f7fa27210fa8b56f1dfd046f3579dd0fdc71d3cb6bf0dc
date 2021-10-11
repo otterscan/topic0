@@ -1,0 +1,1 @@
+CalculatorRemoved(address indexed remover,address indexed calulator,uint256 calculatorPercentage,uint256 currentPercentage)

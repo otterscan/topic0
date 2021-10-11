@@ -1,0 +1,1 @@
+PaidToken(bytes32 indexed btcTxId,address indexed userEthAddress,uint256 tokenAmount,uint256 btcToAmfRatio)

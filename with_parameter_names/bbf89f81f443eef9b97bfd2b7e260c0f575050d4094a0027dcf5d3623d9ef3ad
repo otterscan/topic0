@@ -1,0 +1,1 @@
+CallerStatusUpdated(address indexed _caller,bool _status)

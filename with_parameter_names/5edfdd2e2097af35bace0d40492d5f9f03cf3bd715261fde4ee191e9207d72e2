@@ -1,0 +1,1 @@
+SetWhitelistRewardRebaser(address indexed contractAddress,bool value)

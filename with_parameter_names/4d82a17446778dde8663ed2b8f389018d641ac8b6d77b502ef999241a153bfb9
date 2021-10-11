@@ -1,0 +1,1 @@
+AssetPurchased(address recipient,string optionID,uint256 quantity)

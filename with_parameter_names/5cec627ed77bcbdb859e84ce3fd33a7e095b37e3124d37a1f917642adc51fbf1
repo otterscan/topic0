@@ -1,0 +1,1 @@
+BoogiePoolActive(address indexed user,uint256 boogieLiquidity,uint256 ethLiquidity)

@@ -1,0 +1,1 @@
+WithdrawRewards(address indexed owner,uint256 amount,address indexed currency)

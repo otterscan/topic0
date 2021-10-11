@@ -1,0 +1,1 @@
+ConditionPrepared(address conditionOwner,uint256 indexed conditionIndex,address indexed oracle,uint256 indexed settlementTime,int256 triggerPrice,address lowBetTokenAddress,address highBetTokenAddress)

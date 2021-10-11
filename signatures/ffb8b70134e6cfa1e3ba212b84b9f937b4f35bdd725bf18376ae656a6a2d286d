@@ -1,0 +1,1 @@
+RegisterUserEvent(address,string,uint256)

@@ -1,0 +1,1 @@
+Withdrawal(address indexed wallet,address indexed erc20Address,uint256 rarity,uint256 originalAlohaAmount,uint256 originalErc20Amount,uint256 receivedAlohaAmount,uint256 receivedErc20Amount,uint256 erc721Id,uint256 date)

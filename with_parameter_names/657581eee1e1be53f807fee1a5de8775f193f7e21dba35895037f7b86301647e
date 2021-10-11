@@ -1,0 +1,1 @@
+Withdrawal(address indexed staker,uint256 withdrawTimes,uint256 withdrawnEtherDividendAmount,uint256 withdrawnTotalEtherDividendAmount,uint256 eth2AmountToBeMint,uint256 awardedTotalEth2Amount,uint256 withdrawalTimestamp)

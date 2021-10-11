@@ -1,0 +1,1 @@
+ProposalEvent(address chairpersonUser,bytes32 _name,bytes32 _AOptions,bytes32 _BOptions,bytes32 _COptions,bytes32 _DOptions,bytes32 _FOptions,bool _isMajorProposal)

@@ -1,0 +1,1 @@
+PairBallotCreated(address indexed proposer,address tokenA,address tokenB,uint256 value,address indexed ballotAddr,uint256 reward)

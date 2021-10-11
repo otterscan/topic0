@@ -1,0 +1,1 @@
+AssetOwnerChanged(address indexed assetTransferred,address newFundAssetOwner,uint256 blockNumber)

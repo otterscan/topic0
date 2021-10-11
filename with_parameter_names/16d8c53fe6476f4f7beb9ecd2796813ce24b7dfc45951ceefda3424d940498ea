@@ -1,0 +1,1 @@
+CryptographEditionAdded(uint256 indexed cryptographIssue,uint256 indexed editionSize,bool indexed official)

@@ -1,0 +1,1 @@
+StablePriceUpdated(address indexed asset,uint256 price)

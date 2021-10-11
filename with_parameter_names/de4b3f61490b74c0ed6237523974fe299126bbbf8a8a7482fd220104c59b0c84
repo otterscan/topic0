@@ -1,0 +1,1 @@
+GovernorChanged(address indexed _oldGovernor,address indexed _newGovernor)

@@ -1,0 +1,1 @@
+PositiveVote(uint256 indexed proposalId,address indexed owner)

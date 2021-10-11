@@ -1,0 +1,1 @@
+LogRemoveGaugeMapping(string gaugeName,address gaugeAddress)

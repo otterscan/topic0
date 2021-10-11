@@ -1,0 +1,1 @@
+LostLevelProfitEvent(address indexed user,address indexed referral,uint256 indexed level,uint256 time)

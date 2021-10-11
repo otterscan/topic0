@@ -1,0 +1,1 @@
+FreezerTransferred(address indexed previousFreezer,address indexed newFreezer,uint256 time)

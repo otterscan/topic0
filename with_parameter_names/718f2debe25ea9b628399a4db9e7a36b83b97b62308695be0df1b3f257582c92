@@ -1,0 +1,1 @@
+LogFlashPayback(address indexed token,uint256 tokenAmt,uint256 feeCollected,uint256 getId,uint256 setId)

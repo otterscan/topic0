@@ -1,0 +1,1 @@
+ExtensionRoyaltiesUpdated(address indexed extension,address[] receivers,uint256[] basisPoints)

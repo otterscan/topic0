@@ -1,0 +1,1 @@
+Initialize(address erc20,uint256 rewardPerBlock,uint256 startBlock,address manager)

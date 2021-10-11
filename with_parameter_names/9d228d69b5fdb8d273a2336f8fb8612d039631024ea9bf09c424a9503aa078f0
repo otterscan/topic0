@@ -1,0 +1,1 @@
+Minted(address indexed minter,address indexed receiver,uint256 mintAmount)

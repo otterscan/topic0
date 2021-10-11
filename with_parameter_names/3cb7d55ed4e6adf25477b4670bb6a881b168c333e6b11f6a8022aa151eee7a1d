@@ -1,0 +1,1 @@
+SuppliersShareRateChanged(address indexed market,uint256 newRate,uint256 oldRate)

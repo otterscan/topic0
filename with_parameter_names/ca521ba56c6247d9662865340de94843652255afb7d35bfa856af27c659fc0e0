@@ -1,0 +1,1 @@
+CalledForUserInfo(address indexed userAddr,bool isReg,uint256 _askInfoDate)

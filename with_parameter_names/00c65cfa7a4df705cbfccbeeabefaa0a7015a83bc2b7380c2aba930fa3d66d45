@@ -1,0 +1,1 @@
+Keep3rRequirementsSet(address bond,uint256 minBond,uint256 earned,uint256 age,bool _onlyEOA)

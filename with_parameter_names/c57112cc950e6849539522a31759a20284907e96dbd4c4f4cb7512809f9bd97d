@@ -1,0 +1,1 @@
+SpentCoinAge(address indexed gauge,address indexed account,uint256 coinAge)

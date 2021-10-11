@@ -1,0 +1,1 @@
+NFT_Withdrawn(address indexed source_token_contract,uint256 indexed token_id)

@@ -1,0 +1,1 @@
+BalancerDebug(address indexed pool,uint256 balTokenIn,uint256 dwTokenIn,uint256 balTokenOut,uint256 dwTokenOut,uint256 inputAmount,uint256 outputAmount)

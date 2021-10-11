@@ -1,0 +1,1 @@
+DelegateChanged(uint256 position,address indexed oldAddress,address indexed newAddress)

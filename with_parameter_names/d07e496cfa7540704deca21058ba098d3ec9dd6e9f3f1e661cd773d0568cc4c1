@@ -1,0 +1,1 @@
+RegisterLocker(address indexed client,address clientOracle,address indexed provider,address indexed resolver,address token,uint256[] amount,uint256 registration,uint256 sum,uint256 termination,string details,bool swiftResolver)

@@ -1,0 +1,1 @@
+SetStakePoolVerifier(address indexed contractAddress,bool value)

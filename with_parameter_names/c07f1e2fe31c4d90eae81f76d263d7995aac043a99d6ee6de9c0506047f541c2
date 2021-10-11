@@ -1,0 +1,1 @@
+SetTokenIssued(address indexed _setToken,address indexed _issuer,address indexed _to,address _hookContract,uint256 _quantity)

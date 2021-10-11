@@ -1,0 +1,1 @@
+UpdateAuction(uint256 _saleID,address _operator,address[] _newTokenAddresses,uint256[] _newTokenIDs,address _newPayTokenAddress,uint256 _newInitialPrice,address _newReceiver,uint256 _newMinBidIncrement,uint256 _newStartTime,uint256 _newEndTime)

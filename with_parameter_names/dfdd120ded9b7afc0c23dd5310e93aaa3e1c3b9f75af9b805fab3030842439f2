@@ -1,0 +1,1 @@
+RemoveLiquidity(address indexed from,uint256 liquidity)

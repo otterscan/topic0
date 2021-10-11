@@ -1,0 +1,1 @@
+MemberClaims(address indexed member,uint256 indexed era,uint256 totalClaim)

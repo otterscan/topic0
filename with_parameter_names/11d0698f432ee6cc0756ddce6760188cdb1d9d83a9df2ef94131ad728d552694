@@ -1,0 +1,1 @@
+BulkPoARegistered(address owner,bytes32 bidId,bytes rootHash,bytes signature,uint256 newHashes)

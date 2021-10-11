@@ -1,0 +1,1 @@
+BoughtBonds(address indexed from,uint256 amount)

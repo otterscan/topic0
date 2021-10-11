@@ -1,0 +1,1 @@
+Qualification(address account,bool qualified,uint256 blockNumber,uint256 timestamp)

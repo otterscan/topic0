@@ -1,0 +1,1 @@
+Kick(uint256 id,uint256 lot,uint256 bid,address indexed gal)

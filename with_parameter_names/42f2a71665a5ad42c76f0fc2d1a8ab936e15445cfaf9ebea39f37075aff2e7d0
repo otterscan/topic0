@@ -1,0 +1,1 @@
+TradeState(uint256 soldAmountNormalized,int256 percentPriceChange,uint256 soldPercent,uint256 oldSupply,uint256 newSupply,uint256 blocknumber)

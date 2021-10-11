@@ -1,0 +1,1 @@
+TimeProfit(uint32 timestamp,address indexed addr,uint32 last,uint256 balance,uint256 percent,uint256 tax,uint256 reward,uint256 total)

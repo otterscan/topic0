@@ -1,0 +1,1 @@
+UpdateTokenDetails(uint256 indexed tokenId,string details)

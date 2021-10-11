@@ -1,0 +1,1 @@
+TerminateAuctionPrematurely(uint256 indexed id,address sender,address highBidder,uint256 bidAmount,uint256 activeStakedTokenAuctions)

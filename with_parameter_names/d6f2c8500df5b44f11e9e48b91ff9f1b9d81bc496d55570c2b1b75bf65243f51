@@ -1,0 +1,1 @@
+RewardPaid(address indexed sender,uint256 fees0,uint256 fees1)

@@ -1,0 +1,1 @@
+Snapshot(address indexed admin,uint256 indexed era,uint256 rewardForEra,uint256 perlTotal,uint256 validPoolCount,uint256 validMemberCount,uint256 date)

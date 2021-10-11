@@ -1,0 +1,1 @@
+UniswapDebug(address indexed pool,uint256 balTokenIn,uint256 balTokenOut,uint256 inputAmount,uint256 outputAmount)

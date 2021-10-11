@@ -1,0 +1,1 @@
+SetManualPrice(int256 _oldPrice,int256 _newPrice)

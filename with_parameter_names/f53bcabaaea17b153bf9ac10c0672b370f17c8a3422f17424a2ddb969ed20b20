@@ -1,0 +1,1 @@
+CancelBidToken(address indexed bidder,uint256 indexed tokenId)

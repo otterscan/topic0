@@ -1,0 +1,1 @@
+BlockedFundsDestroyed(address blockedListedUser,uint256 destroyedAmount)

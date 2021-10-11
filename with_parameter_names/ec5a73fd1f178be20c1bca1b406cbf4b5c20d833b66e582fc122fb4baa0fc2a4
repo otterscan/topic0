@@ -1,0 +1,1 @@
+TransferPreSigned(address indexed from,address indexed to,address indexed delegate,uint256 amount,uint256 fee)

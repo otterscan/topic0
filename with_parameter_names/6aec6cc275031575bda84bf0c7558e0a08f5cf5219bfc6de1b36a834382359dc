@@ -1,0 +1,1 @@
+TokenBoughtWithToken(address indexed buyerAddress,address admin,address indexed referralAddress,uint256 value,uint256 amount,address tokenAddress)

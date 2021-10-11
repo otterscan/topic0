@@ -1,0 +1,1 @@
+Billing(uint256 indexed eventID,uint256 indexed userID,uint256 blockNumber,uint8 action,uint256 extData,uint256 extData1,uint256 extData2,uint256 tokenAmt,uint256 usdAmt,uint256 feeUSD)

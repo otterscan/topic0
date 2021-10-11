@@ -1,0 +1,1 @@
+ProposedAggregatorValidateCall(address indexed proposed,uint256 previousRoundId,int256 previousAnswer,uint256 currentRoundId,int256 currentAnswer)

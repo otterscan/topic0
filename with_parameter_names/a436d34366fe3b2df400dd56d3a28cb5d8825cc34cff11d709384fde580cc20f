@@ -1,0 +1,1 @@
+SetAcoFlashExercise(address indexed previousAcoFlashExercise,address indexed newAcoFlashExercise)

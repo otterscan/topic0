@@ -1,0 +1,1 @@
+TaxRecordSet(address _addr,uint256 timestamp,uint256 balance,uint256 tax)

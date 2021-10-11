@@ -1,0 +1,1 @@
+Vote(address indexed voter,address indexed tokenAddress,uint256 indexed tokenId,uint256 votes,uint256 amount)

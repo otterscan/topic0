@@ -1,0 +1,1 @@
+TeleportPairCreated(bytes32 indexed otherChainRegisterTxHash,address indexed wrappedTokenAddr,address indexed originalTokenAddr,string name,string symbol,uint8 decimals)

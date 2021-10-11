@@ -1,0 +1,1 @@
+Buy(address indexed buyer,uint256 indexed usdtAmount,uint256 indexed sotaAmount)

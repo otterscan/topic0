@@ -1,0 +1,1 @@
+AssignSantas(uint256 indexed _now,uint256 _overallSantas,uint256 _overallFunds)

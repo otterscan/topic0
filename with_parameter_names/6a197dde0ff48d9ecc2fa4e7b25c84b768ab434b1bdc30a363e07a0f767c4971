@@ -1,0 +1,1 @@
+TokenCloned(uint256 cloningCost,uint256 _numClonesRequested,uint256 _tokenId,address _to)

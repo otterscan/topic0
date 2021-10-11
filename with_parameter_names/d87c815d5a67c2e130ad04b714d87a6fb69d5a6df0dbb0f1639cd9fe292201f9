@@ -1,0 +1,1 @@
+IncreaseBidSize(uint256 id,address highBidder,uint256 amountToBuy,uint256 bid,uint256 bidExpiry)

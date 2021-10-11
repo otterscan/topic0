@@ -1,0 +1,1 @@
+Stakeholder(uint256 indexed id,address wellet,uint256 stake)

@@ -1,0 +1,1 @@
+VoteTokenProject(address indexed user,address token,uint256 voteWeight)

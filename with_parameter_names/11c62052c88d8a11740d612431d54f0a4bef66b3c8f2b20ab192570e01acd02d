@@ -1,0 +1,1 @@
+RegisterUserEvent(uint256 _userid,address indexed _user,address indexed _referrerAddress,uint8 indexed _autopool,uint256 _amount,uint256 _time)

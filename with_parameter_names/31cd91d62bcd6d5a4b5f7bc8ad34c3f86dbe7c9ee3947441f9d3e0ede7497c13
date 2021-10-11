@@ -1,0 +1,1 @@
+SetAssetSpecificData(address indexed asset,uint256 previousMaxSignificantDigits,uint256 previousMaxExercisedAccounts,uint256 newMaxSignificantDigits,uint256 newMaxExercisedAccounts)

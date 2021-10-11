@@ -1,0 +1,1 @@
+ExtraRewardsTokenSet(address indexed token,uint256 autoCompoundingBps,uint256 autoCompoundingPerfFee,uint256 treeDistributionPerfFee,address tendConvertTo,uint256 tendConvertBps)

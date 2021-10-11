@@ -1,0 +1,1 @@
+BancorDebug(address[] path,uint256 inputAmount,uint256 outputAmount)

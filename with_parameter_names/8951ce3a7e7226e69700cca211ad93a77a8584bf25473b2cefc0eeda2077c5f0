@@ -1,0 +1,1 @@
+NewPool(address poolAddress,uint8 poolType,address creator)

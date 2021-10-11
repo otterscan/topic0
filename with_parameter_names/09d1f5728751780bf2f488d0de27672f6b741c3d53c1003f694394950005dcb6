@@ -1,0 +1,1 @@
+AuctionClosed(uint256 id,address indexed seller,address indexed tokenAddress,uint256 indexed tokenId,uint256 price,uint256 expiresAt,bytes fingerprint)

@@ -1,0 +1,1 @@
+SetWithdrawOpenPositionPenalty(uint256 indexed oldWithdrawOpenPositionPenalty,uint256 indexed newWithdrawOpenPositionPenalty)

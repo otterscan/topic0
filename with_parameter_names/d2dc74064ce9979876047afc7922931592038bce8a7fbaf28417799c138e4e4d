@@ -1,0 +1,1 @@
+FrozenBalance(address indexed target,uint256 balance)

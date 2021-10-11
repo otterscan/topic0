@@ -1,0 +1,1 @@
+CycleStartedEvent(uint256 indexed cycleId,uint256 indexed blockTimeStamp,uint256 blockNumber,uint256 totalDerivativeAmount,uint256 totalUnderlyingAmount)

@@ -1,0 +1,1 @@
+LotteryMetaUpdate(address indexed to,uint32 level,uint32 strengthMin,uint32 strengthMax,uint32 intelligenceMin,uint32 intelligenceMax,uint32 agilityMin,uint32 agilityMax,uint256 weight)

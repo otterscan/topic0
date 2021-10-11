@@ -1,0 +1,1 @@
+Join(uint32 indexed id,address indexed taker,bool priv,uint256 ethAmount,address tracker,uint256 amount)

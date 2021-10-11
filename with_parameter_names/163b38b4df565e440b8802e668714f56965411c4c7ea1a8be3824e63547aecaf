@@ -1,0 +1,1 @@
+DiceGameEvent(string gameInfo,string winnerName,address indexed winnerAddress,uint256 winnerScore,uint256 winnerAmount)

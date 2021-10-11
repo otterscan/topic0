@@ -1,0 +1,1 @@
+Staked(address indexed staker,address indexed creator,uint32 season,uint256 amt)

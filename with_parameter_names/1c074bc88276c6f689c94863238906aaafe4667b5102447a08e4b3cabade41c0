@@ -1,0 +1,1 @@
+newLeaderboard(address _from,bytes32 leaderHash,uint256 intialValue)

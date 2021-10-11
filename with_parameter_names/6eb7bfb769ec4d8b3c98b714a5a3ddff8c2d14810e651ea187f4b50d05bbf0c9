@@ -1,0 +1,1 @@
+SetStrikeAssetPermission(address indexed strikeAsset,bool indexed previousPermission,bool indexed newPermission)

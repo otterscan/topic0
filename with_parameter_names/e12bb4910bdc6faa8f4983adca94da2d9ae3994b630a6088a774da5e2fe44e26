@@ -1,0 +1,1 @@
+lostMoneyEvent(uint256 indexed _user,uint256 indexed _referral,uint256 _amount,uint256 _level,uint256 _time)

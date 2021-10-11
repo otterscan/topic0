@@ -1,0 +1,1 @@
+BidCancelled(uint256 bidValue,uint256 ethReturned,address indexed bidder)

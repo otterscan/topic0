@@ -1,0 +1,1 @@
+NewPartnerCreatedWithSuccess(address indexed _creator,address indexed _partnerAddress,bytes32 _partnerHash,uint8 _partnerCategory,bool _isActive)

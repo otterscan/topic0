@@ -1,0 +1,1 @@
+ConfigAudited(bytes32 name,address indexed ballot,uint256 proposal)

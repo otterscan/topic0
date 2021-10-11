@@ -1,0 +1,1 @@
+FeePayed(address indexed user,uint256 totalAmount)

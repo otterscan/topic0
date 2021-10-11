@@ -1,0 +1,1 @@
+paySmartpotGlobal(address indexed _user,uint256 _ticketWinner,uint256 _prize,uint256 _time)

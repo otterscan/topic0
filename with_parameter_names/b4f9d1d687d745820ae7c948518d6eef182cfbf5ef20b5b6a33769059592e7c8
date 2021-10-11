@@ -1,0 +1,1 @@
+VerifiedAddressAdded(address indexed _addr,bytes32 _hash,address indexed _sender)

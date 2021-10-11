@@ -1,0 +1,1 @@
+TicketBought(uint256 warIndex,string house,uint256 valueInDoTx,address sender,string txType)

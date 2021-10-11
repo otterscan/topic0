@@ -1,0 +1,1 @@
+OneMonthStaked(uint256 _proposalId,address indexed _user,uint256 _amount,uint256 _lockupPeriod,uint256 _interest)

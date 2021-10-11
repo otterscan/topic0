@@ -1,0 +1,1 @@
+FunctionalitySet(string indexed codeName,uint256 position,address proposal,string indexed replaced,address replacedLocation,bool replacedWasSubmitable,string replacedMethodSignature,bool replacedWasInternal,bool replacedNeededSender,address replacedProposal,uint256 replacedPosition)

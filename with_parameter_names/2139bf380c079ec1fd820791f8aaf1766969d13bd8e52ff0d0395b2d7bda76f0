@@ -1,0 +1,1 @@
+VoteSubmitted(address voter,bool vote)

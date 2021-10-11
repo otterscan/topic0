@@ -1,0 +1,1 @@
+UserWin(address indexed user,uint256 betRound,uint256 betAmount,uint256 winAmount)

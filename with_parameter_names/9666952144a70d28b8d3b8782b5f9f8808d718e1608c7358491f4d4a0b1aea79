@@ -1,0 +1,1 @@
+DerivativeAssetWithdrawn(uint256 indexed cycleId,address indexed memberAddress,uint256 underlyingAmount,address tokenAddress)

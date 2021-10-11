@@ -1,0 +1,1 @@
+OperationDownvoted(bytes32 operation,uint256 votes,uint256 ownersCount,address downvoter)

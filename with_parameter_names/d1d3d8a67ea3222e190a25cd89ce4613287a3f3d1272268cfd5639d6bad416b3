@@ -1,0 +1,1 @@
+MintLog(address indexed to,uint256 amount)

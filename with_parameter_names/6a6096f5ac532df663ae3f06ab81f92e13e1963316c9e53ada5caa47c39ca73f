@@ -1,0 +1,1 @@
+SetStakePoolCreator(address indexed contractAddress,uint256 verion)

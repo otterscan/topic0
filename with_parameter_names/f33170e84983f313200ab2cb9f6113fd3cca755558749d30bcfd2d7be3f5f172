@@ -1,0 +1,1 @@
+AddLPT(address lpt,address swap,address depo,uint256 nvi,address gauge)

@@ -1,0 +1,1 @@
+SetIsAllowedToken(address indexed owner,address indexed token,bool indexed newBool)

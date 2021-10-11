@@ -1,0 +1,1 @@
+RemovedFromSaleEvent(address indexed _seller,address indexed _tokenAddress)

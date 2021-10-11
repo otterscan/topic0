@@ -1,0 +1,1 @@
+MintEvent(address indexed sender,uint256 indexed _amount)

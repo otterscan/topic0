@@ -1,0 +1,1 @@
+PAYOFF(address indexed user,address indexed market,uint256 opinion,address indexed token,uint256 amt)

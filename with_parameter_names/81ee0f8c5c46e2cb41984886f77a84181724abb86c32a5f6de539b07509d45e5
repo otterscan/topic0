@@ -1,0 +1,1 @@
+LogPoolAddition(uint256 indexed pid,uint256 allocPoint,address indexed lpToken,address indexed rewarder)

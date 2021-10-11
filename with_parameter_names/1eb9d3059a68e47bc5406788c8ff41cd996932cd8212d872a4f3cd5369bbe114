@@ -1,0 +1,1 @@
+ChangeDepositFeePercent(address indexed governance,uint256 depositFeePercent)

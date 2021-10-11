@@ -1,0 +1,1 @@
+communityCreated(address indexed _leader,uint256 _communityID,string _name)

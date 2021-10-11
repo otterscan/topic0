@@ -1,0 +1,1 @@
+MerkleFundUpdate(address indexed sender,bytes32 indexed merkleRoot,uint256 claimGroupId,uint256 amount,bool withdraw)

@@ -1,0 +1,1 @@
+userRegistered(address user,address referrer,uint256 slotamount)

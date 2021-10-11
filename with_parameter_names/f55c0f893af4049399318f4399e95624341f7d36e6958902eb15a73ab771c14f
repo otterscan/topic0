@@ -1,0 +1,1 @@
+CheckpointUserVotes(address indexed user,uint256 pendedVotes,uint256 lpVotesShare)

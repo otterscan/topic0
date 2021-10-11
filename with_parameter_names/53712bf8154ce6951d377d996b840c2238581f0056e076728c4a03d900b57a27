@@ -1,0 +1,1 @@
+articoloAdded(bytes lotto,bytes codice_articolo,bytes10 data_scadenza)

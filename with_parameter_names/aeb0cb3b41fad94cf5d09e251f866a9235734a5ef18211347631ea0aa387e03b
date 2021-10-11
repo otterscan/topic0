@@ -1,0 +1,1 @@
+VoteBuy(address indexed user,uint256 voteWeight)

@@ -1,0 +1,1 @@
+AssertCandidate(address candidate,bool successfulAssert,address replacedWatcher,uint256 newSeat)

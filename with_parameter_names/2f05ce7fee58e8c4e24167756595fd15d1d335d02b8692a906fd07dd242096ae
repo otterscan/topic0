@@ -1,0 +1,1 @@
+PropertySet(bool Set,bytes32 indexed PropertyID,address indexed CEVA,address FDOne,address OWNER,uint256 indexed Value)

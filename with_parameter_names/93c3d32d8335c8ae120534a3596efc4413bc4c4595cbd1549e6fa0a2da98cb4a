@@ -1,0 +1,1 @@
+StakeEvent(bytes pubkey,bytes withdrawal_credentials,bytes signature)

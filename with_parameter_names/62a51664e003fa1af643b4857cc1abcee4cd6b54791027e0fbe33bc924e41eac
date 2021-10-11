@@ -1,0 +1,1 @@
+votingAddressChanged(address indexed user,address votingAddress)

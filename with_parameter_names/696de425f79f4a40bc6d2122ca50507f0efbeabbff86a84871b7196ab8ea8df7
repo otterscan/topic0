@@ -1,0 +1,1 @@
+Burned(address indexed burner,uint256 burnAmount)

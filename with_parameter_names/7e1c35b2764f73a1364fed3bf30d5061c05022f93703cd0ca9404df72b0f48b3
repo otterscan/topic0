@@ -1,0 +1,1 @@
+AffBought(address indexed affer,address indexed sender,uint256 indexed affPackageTimes,uint256 amount,uint256 packageID,uint256 timestamp)

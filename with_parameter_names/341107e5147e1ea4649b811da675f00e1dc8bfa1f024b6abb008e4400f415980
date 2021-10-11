@@ -1,0 +1,1 @@
+LootProfitEvent(uint256 indexed _eUI256Index,int256 _eUI256Value,uint256 _eUI256Lock)

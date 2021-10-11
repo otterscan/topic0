@@ -1,0 +1,1 @@
+MaxPriceAdded(bytes32 indexed productHash,uint256 timeToExpiry,uint256 value)

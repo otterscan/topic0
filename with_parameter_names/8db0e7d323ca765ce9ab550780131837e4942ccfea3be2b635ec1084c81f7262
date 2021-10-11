@@ -1,0 +1,1 @@
+ChannelSettled(uint256 indexed channel_identifier,uint256 participant1_amount,bytes32 participant1_locksroot,uint256 participant2_amount,bytes32 participant2_locksroot)

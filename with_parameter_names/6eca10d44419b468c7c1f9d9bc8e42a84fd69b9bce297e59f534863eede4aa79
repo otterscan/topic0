@@ -1,0 +1,1 @@
+SmartFundAdded(address indexed smartFundAddress,address indexed owner)

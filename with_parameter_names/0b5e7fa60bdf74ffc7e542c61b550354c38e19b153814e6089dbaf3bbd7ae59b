@@ -1,0 +1,1 @@
+RedeemedCoupons(address indexed from,uint256 epoch,uint256 redeemedEpoch,uint256 dollarAmount,uint256 bondAmount)

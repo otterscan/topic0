@@ -1,0 +1,1 @@
+LPTokensMinted(address minter,uint256 collateralAdded,uint256 lpTokensMinted)

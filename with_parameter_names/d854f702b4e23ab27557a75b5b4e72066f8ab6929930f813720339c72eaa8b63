@@ -1,0 +1,1 @@
+SetFeeAmount(uint256 indexed amount)

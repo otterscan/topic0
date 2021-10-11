@@ -1,0 +1,1 @@
+resultLog(address flToken,uint256 flashAmount,uint256 balanceBefore,address tradeToken,uint256 profit)

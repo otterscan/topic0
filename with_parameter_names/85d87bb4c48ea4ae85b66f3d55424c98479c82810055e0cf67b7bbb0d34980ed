@@ -1,0 +1,1 @@
+PartyProposeNewZoraBid(uint256 indexed proposalId,address proposer,address bidder,uint256 amount)

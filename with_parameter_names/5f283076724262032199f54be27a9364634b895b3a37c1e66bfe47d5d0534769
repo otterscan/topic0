@@ -1,0 +1,1 @@
+Assigned(address indexed from,address indexed to,uint256 paidAmount,uint256 tokenAmount)

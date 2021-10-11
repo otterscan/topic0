@@ -1,0 +1,1 @@
+Burned(address indexed _idToDistribute,address indexed referrer,uint256 burnedAmountToken,uint256 percentageBurned,uint256 level)

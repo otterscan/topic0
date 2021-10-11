@@ -1,0 +1,1 @@
+NewHandle(string handle,bytes data,address indexed owner)

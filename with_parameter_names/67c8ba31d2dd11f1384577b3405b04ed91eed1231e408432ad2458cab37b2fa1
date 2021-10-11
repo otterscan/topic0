@@ -1,0 +1,1 @@
+ChangedPartition(bytes32 indexed fromPartition,bytes32 indexed toPartition,uint256 value)

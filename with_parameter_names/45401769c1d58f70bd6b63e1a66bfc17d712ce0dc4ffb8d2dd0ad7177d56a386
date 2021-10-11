@@ -1,0 +1,1 @@
+NewBid(uint256 _tokenId,address indexed _bidder)

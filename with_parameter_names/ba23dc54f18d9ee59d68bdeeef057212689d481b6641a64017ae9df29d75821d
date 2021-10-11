@@ -1,0 +1,1 @@
+StakeT1(address indexed user,address indexed token,uint256 indexed tokenid)

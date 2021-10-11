@@ -1,0 +1,1 @@
+ExecuteAllowanceTransfer(address indexed safe,address delegate,address token,address to,uint96 value,uint16 nonce)

@@ -1,0 +1,1 @@
+SetGuestRoot(bytes32 indexed guestRoot)

@@ -1,0 +1,1 @@
+SubjectiveStance(address voter,uint256 ticketID,address defender,bool stance)

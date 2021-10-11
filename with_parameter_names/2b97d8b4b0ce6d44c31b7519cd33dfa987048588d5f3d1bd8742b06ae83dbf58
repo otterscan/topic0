@@ -1,0 +1,1 @@
+ExpectedPriceArgsChange(uint256 _oldMultipleLo,uint256 _oldMultipleHi,uint256 _oldFloatValLo,uint256 _oldFloatValHi,uint256 _newMultipleLo,uint256 _newMultipleHi,uint256 _newFloatValLo,uint256 _newFloatValHi)

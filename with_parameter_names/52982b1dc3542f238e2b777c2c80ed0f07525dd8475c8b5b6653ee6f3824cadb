@@ -1,0 +1,1 @@
+SetFlashSale(uint256 _saleID,address _flashSaleSetter,address[] _tokenAddresses,uint256[] _tokenIDs,address _payTokenAddress,uint256 _price,address _receiver,uint256 _purchaseLimitation,uint256 _startTime,uint256 _endTime)

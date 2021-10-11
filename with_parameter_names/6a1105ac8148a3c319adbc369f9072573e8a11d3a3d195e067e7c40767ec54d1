@@ -1,0 +1,1 @@
+UpdatedTokenInformation(string newName,string newSymbol,uint8 newDecimals,string newVersion,address newOnchainID)

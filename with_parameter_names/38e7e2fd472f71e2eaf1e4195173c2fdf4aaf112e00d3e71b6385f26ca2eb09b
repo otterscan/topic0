@@ -1,0 +1,1 @@
+E_ExactlyProfit(address indexed user,uint256 grade,uint256 price)

@@ -1,0 +1,1 @@
+UnstakeProcessed(address admin,uint256 indexed pool,uint256 indexed amount)

@@ -1,0 +1,1 @@
+UpdateSwiftResolverStatus(address indexed swiftResolver,string details,bool confirmed)

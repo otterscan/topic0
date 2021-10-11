@@ -1,0 +1,1 @@
+TradeExecuted(address indexed _ckToken,address indexed _sellComponent,address indexed _buyComponent,address _exchangeAdapter,address _executor,uint256 _netAmountSold,uint256 _netAmountReceived,uint256 _protocolFee)

@@ -1,0 +1,1 @@
+TransferFromOtherBlockchain(address user,uint256 amount,uint256 amountWithoutFee,bytes32 originalTxHash)

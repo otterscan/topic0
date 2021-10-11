@@ -1,0 +1,1 @@
+ContractLocked(uint256 _untilBlock,string _reason)

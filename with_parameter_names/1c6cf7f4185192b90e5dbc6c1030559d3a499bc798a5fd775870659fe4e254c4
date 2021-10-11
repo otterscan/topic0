@@ -1,0 +1,1 @@
+MemberRegisters(address indexed member,address indexed pool,uint256 amount,uint256 indexed currentEra)

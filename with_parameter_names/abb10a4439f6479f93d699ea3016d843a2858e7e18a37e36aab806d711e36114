@@ -1,0 +1,1 @@
+ConditionSettled(uint256 indexed conditionIndex,int256 indexed settledPrice,uint256 timestamp)

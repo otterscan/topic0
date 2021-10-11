@@ -1,0 +1,1 @@
+LoanCreated(uint256 newLoanID,uint256 _amount,string _title,uint256 _length,uint256 _min_weekly_returns,uint256 _total_returns,string _image_url,string _companyName,uint256 getTotalWeeks,uint256 _loanFee,uint256 countDown,address _creator)

@@ -1,0 +1,1 @@
+CampaignLaunched(address owner,bytes32 bidId,string packageName,uint256[3] countries,uint256 price,uint256 budget,uint256 startDate,uint256 endDate,string endPoint)

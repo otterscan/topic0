@@ -1,0 +1,1 @@
+E_Initialize(address swap,address user,uint256 total_amount_head,uint256 total_amount_tail,uint256 future_block_offset,string slogan)

@@ -1,0 +1,1 @@
+rates(uint256 rate_AGCoin,uint256 rate_ETH,uint256 rate_BTC,uint256 rate_LTC,uint256 rate_XRP,uint256 rate_USD)

@@ -1,0 +1,1 @@
+WithdrawLptCore(address indexed user,uint256 withdrawnLptAmount)

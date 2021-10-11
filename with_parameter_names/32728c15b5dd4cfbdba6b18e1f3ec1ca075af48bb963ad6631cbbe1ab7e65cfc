@@ -1,0 +1,1 @@
+MarketCreated(address indexed market,address indexed template,string settings,uint256[] conditions,address[] references)

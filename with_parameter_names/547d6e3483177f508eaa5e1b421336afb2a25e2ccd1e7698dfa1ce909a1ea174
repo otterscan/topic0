@@ -1,0 +1,1 @@
+IncreaseAuthQuota(address indexed authorty,address indexed mappingTokenMapped,address indexed signatory,uint256 increment,uint256 quota)

@@ -1,0 +1,1 @@
+LockableTokenDetails(address indexed tokenAddress,uint256 lockableDys,bool optionalbleStatus,uint256 updatedTime)

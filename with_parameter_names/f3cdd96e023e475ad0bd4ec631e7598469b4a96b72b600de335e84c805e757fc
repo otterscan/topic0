@@ -1,0 +1,1 @@
+MARKET_WHITELIST(address indexed market,uint256 status)

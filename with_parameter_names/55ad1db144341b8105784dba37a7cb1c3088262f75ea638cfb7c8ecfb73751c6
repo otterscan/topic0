@@ -1,0 +1,1 @@
+PriceRequestAdded(bytes32 indexed identifier,uint256 time,bytes ancillaryData,bytes32 indexed requestHash)

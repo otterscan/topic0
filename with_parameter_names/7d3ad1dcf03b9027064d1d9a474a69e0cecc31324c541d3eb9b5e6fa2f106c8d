@@ -1,0 +1,1 @@
+MoveStake(address indexed staker,uint256 amount,uint8 fromStatus,bytes32 indexed fromPool,uint8 toStatus,bytes32 indexed toPool)

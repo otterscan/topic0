@@ -1,0 +1,1 @@
+Mine(address indexed owner,uint256 indexed pizzaId,uint256 subsidy)

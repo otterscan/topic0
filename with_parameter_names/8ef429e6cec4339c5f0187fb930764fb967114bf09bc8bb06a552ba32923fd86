@@ -1,0 +1,1 @@
+CollateralDustUpdated(address indexed collateral,uint256 dust)

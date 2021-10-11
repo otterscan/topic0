@@ -1,0 +1,1 @@
+RegisteredService(address indexed service,uint256 valid_till,uint256 deposit_amount,address deposit_contract)

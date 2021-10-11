@@ -1,0 +1,1 @@
+StakeEvent(address sender,uint8 chance,uint256 value,uint256 amount)

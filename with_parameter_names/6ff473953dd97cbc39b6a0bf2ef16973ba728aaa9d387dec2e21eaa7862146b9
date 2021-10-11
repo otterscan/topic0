@@ -1,0 +1,1 @@
+migratedOut(address indexed sender,address indexed token,uint256 tokenAmt)

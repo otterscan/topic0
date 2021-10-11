@@ -1,0 +1,1 @@
+AuctionFailed(uint256 closeTime,uint256 numberOfBidders)

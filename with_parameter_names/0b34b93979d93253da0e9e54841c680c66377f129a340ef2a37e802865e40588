@@ -1,0 +1,1 @@
+ProfitLog(uint256 oldBalance,uint256 newBalance,uint256 feeAmount,uint256 timestamp)

@@ -1,0 +1,1 @@
+winnerWasAwarded(address indexed _winner,uint256 _prize,uint256 _time)

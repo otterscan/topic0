@@ -1,0 +1,1 @@
+CycleCreated(uint256 indexed cycleId,uint256 maximumSlots,bool hasMaximumSlots,uint256 stakeAmount,uint256 expectedCycleStartTimeStamp,uint256 cycleDuration)

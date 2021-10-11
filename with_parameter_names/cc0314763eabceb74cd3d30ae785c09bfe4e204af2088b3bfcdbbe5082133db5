@@ -1,0 +1,1 @@
+SwapPairCreated(bytes32 indexed ethRegisterTxHash,address indexed bep20Addr,address indexed erc20Addr,string symbol,string name,uint8 decimals)

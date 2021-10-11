@@ -1,0 +1,1 @@
+E_Token_Info(address swap,address user,address head,uint256 head_decimal,uint256 head_name,address tail,uint256 tail_decimal,uint256 tail_name,address reward,uint256 reward_decimal,uint256 reward_name)

@@ -1,0 +1,1 @@
+BonusRemoved(address indexed sender,uint256 amount)

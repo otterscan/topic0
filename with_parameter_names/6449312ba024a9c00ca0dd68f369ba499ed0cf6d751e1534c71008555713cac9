@@ -1,0 +1,1 @@
+eBurn(address indexed sender,uint256 amount,uint256 output)

@@ -1,0 +1,1 @@
+ProposalEvent(address chairpersonUser,string _name,string _AOptions,string _BOptions,string _COptions,string _DOptions,string _FOptions,bool _isMajorProposal)

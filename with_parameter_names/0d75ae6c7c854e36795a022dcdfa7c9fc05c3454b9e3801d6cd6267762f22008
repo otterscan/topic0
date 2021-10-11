@@ -1,0 +1,1 @@
+ContractStatusChanged(bool status,address indexed updatedBy)

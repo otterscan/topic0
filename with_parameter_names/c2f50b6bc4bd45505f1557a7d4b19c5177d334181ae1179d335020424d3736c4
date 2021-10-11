@@ -1,0 +1,1 @@
+PublicSwapSetterChanged(address indexed previousSetter,address indexed newSetter)

@@ -1,0 +1,1 @@
+WithdrawOuput(address user,uint256 amount,address receiver)

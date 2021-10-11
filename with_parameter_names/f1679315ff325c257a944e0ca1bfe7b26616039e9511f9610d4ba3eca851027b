@@ -1,0 +1,1 @@
+RequestPrice(address indexed requester,bytes32 identifier,uint256 timestamp,bytes ancillaryData,address currency,uint256 reward,uint256 finalFee)

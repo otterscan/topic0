@@ -1,0 +1,1 @@
+KYCed(address indexed _user,bool indexed _isValid)

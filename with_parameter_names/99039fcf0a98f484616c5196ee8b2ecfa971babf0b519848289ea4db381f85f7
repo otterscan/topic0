@@ -1,0 +1,1 @@
+Stake(address indexed pool,address indexed user,uint256 indexed amount)

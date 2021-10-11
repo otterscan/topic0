@@ -1,0 +1,1 @@
+Bark(bytes32 indexed ilk,address indexed urn,uint256 ink,uint256 art,uint256 due,address clip,uint256 indexed id)

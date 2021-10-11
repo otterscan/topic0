@@ -1,0 +1,1 @@
+NewPool(address indexed admin,address indexed pool,address indexed asset,uint256 assetWeight)

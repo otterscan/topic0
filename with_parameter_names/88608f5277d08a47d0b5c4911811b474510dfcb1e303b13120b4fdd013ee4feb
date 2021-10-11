@@ -1,0 +1,1 @@
+PlatformSettingCreated(bytes32 indexed name,address indexed creator,uint256 minValue,uint256 value,uint256 maxValue)

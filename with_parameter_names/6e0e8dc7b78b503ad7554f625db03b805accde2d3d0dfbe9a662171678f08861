@@ -1,0 +1,1 @@
+AssetImported(address indexed newAssetAddress,uint256 assetCounter,uint256 blockNumber)

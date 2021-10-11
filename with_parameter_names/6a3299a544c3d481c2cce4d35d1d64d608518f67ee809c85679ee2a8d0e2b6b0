@@ -1,0 +1,1 @@
+PaidBTC(bytes32 indexed ethTxId,address customer,uint256 btcAmount,uint256 btcToAmfRatio)

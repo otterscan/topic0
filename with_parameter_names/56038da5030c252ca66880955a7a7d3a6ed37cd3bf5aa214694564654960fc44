@@ -1,0 +1,1 @@
+PropertyTransfer(address indexed from,address indexed to,uint256 value,bytes32 property)

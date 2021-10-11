@@ -1,0 +1,1 @@
+staked(address sender,uint256 amount,uint256 lockedTime)

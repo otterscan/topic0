@@ -1,0 +1,1 @@
+Voted(address voter,uint256 loanID,uint256 _positiveVote,uint256 _negativeVote,bool _accept)

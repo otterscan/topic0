@@ -1,0 +1,1 @@
+VaultLiquidated(uint256 indexed _vaultId,address indexed _liquidator,uint256 _liquidationCollateral,uint256 _reward)

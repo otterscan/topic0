@@ -1,0 +1,1 @@
+print(string nodeName,string role,string publickey,string enode,string ip)

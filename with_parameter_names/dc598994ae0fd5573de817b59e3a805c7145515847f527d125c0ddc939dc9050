@@ -1,0 +1,1 @@
+Unstaked(address sender,uint8 class,uint8 cycle,uint256 amount)

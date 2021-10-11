@@ -1,0 +1,1 @@
+BatchTransacted(address msgSender,address otherSigner,bytes32 operation)

@@ -1,0 +1,1 @@
+LogOpen(uint256 indexed vault,bytes32 indexed ilk)

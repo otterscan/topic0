@@ -1,0 +1,1 @@
+stakezin(uint256 timestamp,address _Staker,uint256 token,string nature)

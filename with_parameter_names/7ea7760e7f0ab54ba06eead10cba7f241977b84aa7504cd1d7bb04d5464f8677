@@ -1,0 +1,1 @@
+SetLPTokenAllocPoint(uint256 indexed pid,address indexed lpToken,uint256 allocPoint)

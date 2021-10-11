@@ -1,0 +1,1 @@
+Locked(address locker,address tokenAddress,uint256 lockAmount,uint256 lockHours)

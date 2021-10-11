@@ -1,0 +1,1 @@
+Voted(address indexed voter,uint256 indexed pollId,uint256 indexed optionId)

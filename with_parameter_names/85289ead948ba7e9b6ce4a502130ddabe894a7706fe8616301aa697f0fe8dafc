@@ -1,0 +1,1 @@
+FlappsBought(address indexed buyer,uint256 indexed amount,uint256 indexed price)

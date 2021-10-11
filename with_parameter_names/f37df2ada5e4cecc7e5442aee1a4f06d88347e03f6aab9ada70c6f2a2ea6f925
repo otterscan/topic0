@@ -1,0 +1,1 @@
+LockTPT(address locker,uint256 lockAmount,uint256 duration)

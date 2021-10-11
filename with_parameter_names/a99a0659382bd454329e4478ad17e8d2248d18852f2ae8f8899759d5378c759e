@@ -1,0 +1,1 @@
+Trade(uint256 tokenBuy,uint256 amountBuy,address tokenSell,uint256 amountSell,address get,address give,bytes32 hash)

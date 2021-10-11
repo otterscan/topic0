@@ -1,0 +1,1 @@
+receive_pay(address sender_,uint256 amount_)

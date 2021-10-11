@@ -1,0 +1,1 @@
+SendBaoReward(address indexed user,uint256 indexed pid,uint256 amount,uint256 lockAmount)

@@ -1,0 +1,1 @@
+PurchaseMade(address indexed account,uint256 indexed epoch,uint256 purchaseAmount)

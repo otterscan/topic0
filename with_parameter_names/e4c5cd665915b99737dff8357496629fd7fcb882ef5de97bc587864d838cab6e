@@ -1,0 +1,1 @@
+LogClaimedReward(address token,bytes32 stakingType,uint256 rewardAmt,uint256 setId)

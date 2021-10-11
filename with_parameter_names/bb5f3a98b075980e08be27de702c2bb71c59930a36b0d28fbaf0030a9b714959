@@ -1,0 +1,1 @@
+PropertyValuation(address indexed from,bytes32 _propertyUniqueID,uint256 propertyValue)

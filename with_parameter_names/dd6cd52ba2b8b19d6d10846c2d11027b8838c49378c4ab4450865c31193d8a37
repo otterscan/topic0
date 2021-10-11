@@ -1,0 +1,1 @@
+BidSubmitted(address bidder,uint256 bidValue,uint256 slotPrice,uint256 timestamp)

@@ -1,0 +1,1 @@
+CheckpointBalanceChanged(address indexed delegate,uint256 previousBalance,uint256 newBalance)

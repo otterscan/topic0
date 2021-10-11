@@ -1,0 +1,1 @@
+ReserveInitialized(address indexed asset,address indexed aToken,address stableDebtToken,address variableDebtToken,address interestRateStrategyAddress)

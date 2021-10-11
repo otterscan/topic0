@@ -1,0 +1,1 @@
+NewBetsGenerated(address indexed account,address indexed token,uint256[] ids,uint256 timestamp,string partner)

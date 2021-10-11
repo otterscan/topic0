@@ -1,0 +1,1 @@
+Bribe(address indexed briber,uint256 vote_id,address reward_token,uint256 amount)

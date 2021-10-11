@@ -1,0 +1,1 @@
+badge_awarded(address _to,address _from,uint16 badge_id)

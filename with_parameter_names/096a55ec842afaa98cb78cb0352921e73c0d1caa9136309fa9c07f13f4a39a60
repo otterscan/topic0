@@ -1,0 +1,1 @@
+ReceivedRoyalties(address indexed _royaltyRecipient,address indexed _buyer,uint256 indexed _tokenId,address _tokenPaid,uint256 _amount)

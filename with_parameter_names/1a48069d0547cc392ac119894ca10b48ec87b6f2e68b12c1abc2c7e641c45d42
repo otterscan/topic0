@@ -1,0 +1,1 @@
+StakeAdded(address indexed _usr,bytes32 _packageName,uint256 _amount,uint16 _stakeRewardType,uint256 _stakeIndex)

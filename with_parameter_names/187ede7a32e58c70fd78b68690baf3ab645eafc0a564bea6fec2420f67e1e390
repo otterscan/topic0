@@ -1,0 +1,1 @@
+PartyJoined(address indexed member,uint256 value)

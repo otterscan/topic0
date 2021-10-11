@@ -1,0 +1,1 @@
+Staked(address indexed wallet,address indexed erc20Address,uint256 rarity,uint256 endDate,uint256 tokenImage,uint256 tokenBackground,uint256 alohaAmount,uint256 erc20Amount,uint256 date)

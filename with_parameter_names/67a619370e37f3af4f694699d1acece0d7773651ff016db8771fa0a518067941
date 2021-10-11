@@ -1,0 +1,1 @@
+HarvestState(uint256 xSushiHarvested,uint256 totalxSushi,uint256 toStrategist,uint256 toGovernance,uint256 toBadgerTree,uint256 timestamp,uint256 blockNumber)

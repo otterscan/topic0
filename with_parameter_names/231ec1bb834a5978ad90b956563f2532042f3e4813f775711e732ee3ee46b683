@@ -1,0 +1,1 @@
+DepositERC1155(address indexed user,uint256 indexed erc1155)

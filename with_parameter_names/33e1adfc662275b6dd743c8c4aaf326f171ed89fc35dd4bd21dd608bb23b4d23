@@ -1,0 +1,1 @@
+ACORedeem(address indexed acoToken,uint256 collateralIn,uint256 amountSold,uint256 amountPurchased)

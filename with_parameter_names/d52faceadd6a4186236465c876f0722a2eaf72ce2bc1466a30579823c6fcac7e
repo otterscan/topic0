@@ -1,0 +1,1 @@
+CrowdProposalCreated(address indexed proposal,address indexed author,address[] targets,uint256[] values,string[] signatures,bytes[] calldatas,string description)

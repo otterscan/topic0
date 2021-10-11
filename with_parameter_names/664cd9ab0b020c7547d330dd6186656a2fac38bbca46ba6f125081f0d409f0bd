@@ -1,0 +1,1 @@
+BurnOToken(address indexed account,uint256 amount,address proposer,string assetAddress)

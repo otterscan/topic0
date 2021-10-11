@@ -1,0 +1,1 @@
+RecoveryAdminChanged(address indexed previousAdmin,address indexed newAdmin)

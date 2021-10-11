@@ -1,0 +1,1 @@
+LOG_TOKEN_ADDED(address indexed token,uint256 desiredDenorm,uint256 minimumBalance)

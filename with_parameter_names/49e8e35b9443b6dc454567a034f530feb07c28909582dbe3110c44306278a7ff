@@ -1,0 +1,1 @@
+SwapToken(address inputToken,address outputToken,uint256 amount)

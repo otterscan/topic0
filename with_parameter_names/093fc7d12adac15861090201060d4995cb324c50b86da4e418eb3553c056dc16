@@ -1,0 +1,1 @@
+MasterCreated(address indexed farm,address indexed pair,uint256 version,address timelock,address stakePoolRewardFund,uint256 totalStakePool)

@@ -1,0 +1,1 @@
+SaleEnded(address indexed activator,uint256 timestamp)

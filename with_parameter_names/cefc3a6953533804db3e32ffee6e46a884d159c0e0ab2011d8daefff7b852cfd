@@ -1,0 +1,1 @@
+FeeChange(uint256 indexed _chainId,uint256 _oldVariableFeeRate,uint256 _oldFixedFeeAmount,uint256 _newVariableFeeRate,uint256 _newFixedFeeAmount)

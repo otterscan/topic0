@@ -1,0 +1,1 @@
+Trade(address trader,address src,uint256 srcAmount,address dest,uint256 destReceived,uint8 exchangeType)

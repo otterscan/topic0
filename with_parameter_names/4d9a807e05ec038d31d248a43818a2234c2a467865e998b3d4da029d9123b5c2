@@ -1,0 +1,1 @@
+PollCreated(address indexed creator,uint256 blockCreated,uint256 indexed pollId,uint256 startDate,uint256 endDate,string multiHash,string url)

@@ -1,0 +1,1 @@
+stakes(address indexed staker,uint256 amount,uint256 timing)

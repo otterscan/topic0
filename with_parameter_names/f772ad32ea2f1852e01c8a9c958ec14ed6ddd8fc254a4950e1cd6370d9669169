@@ -1,0 +1,1 @@
+ContractAdded(bytes32 indexed name,address indexed newAddress,uint256 time)

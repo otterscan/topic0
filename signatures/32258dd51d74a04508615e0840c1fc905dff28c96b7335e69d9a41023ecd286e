@@ -1,0 +1,1 @@
+LOG_CALL_VOTING(address,bool,bytes4,bytes,bytes)

@@ -1,0 +1,1 @@
+WTokensSold(address seller,uint256 wTokensSold,uint256 collateralPaid)

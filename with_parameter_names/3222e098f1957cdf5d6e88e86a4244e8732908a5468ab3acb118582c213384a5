@@ -1,0 +1,1 @@
+CollectionCardCrafted(address indexed _to,uint256 cardID,uint256 _redeemInitial,uint256 _redeemInterval,uint256 _tokenReward,uint256 _percentageReward)

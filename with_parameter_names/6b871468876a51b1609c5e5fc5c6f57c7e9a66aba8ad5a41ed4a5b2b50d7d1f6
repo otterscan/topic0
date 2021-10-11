@@ -1,0 +1,1 @@
+PriceGuarded(bytes32 indexed symbolHash,uint256 reporter,uint256 anchor)

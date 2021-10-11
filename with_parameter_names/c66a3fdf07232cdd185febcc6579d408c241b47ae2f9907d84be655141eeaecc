@@ -1,0 +1,1 @@
+FeeAmountEnabled(uint24 indexed fee,int24 indexed tickSpacing)

@@ -1,0 +1,1 @@
+RewardTokenUpdated(address rewardToken,address rewardVesting,bool needVesting)

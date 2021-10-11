@@ -1,0 +1,1 @@
+Settle(address indexed requester,address indexed proposer,address indexed disputer,bytes32 identifier,uint256 timestamp,bytes ancillaryData,int256 price,uint256 payout)

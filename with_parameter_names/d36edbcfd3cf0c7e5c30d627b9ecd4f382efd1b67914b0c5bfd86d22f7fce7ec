@@ -1,0 +1,1 @@
+AnyoneTradeUpdated(address indexed _ckToken,bool indexed _status)

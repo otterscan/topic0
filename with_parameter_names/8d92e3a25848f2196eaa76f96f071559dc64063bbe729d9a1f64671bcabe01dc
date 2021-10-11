@@ -1,0 +1,1 @@
+Claimed(address indexed ,address indexed creator,uint32 season,uint256 award)

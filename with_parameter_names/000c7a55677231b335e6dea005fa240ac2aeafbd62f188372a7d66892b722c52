@@ -1,0 +1,1 @@
+LOG_MINIMUM_BALANCE_UPDATED(address token,uint256 minimumBalance)

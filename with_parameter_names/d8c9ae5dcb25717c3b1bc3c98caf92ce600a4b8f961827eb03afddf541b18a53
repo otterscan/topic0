@@ -1,0 +1,1 @@
+VotedForRequest(address _voter,uint256 _requestID,uint256 _positiveVote,uint256 _negativeVote,bool _accept)

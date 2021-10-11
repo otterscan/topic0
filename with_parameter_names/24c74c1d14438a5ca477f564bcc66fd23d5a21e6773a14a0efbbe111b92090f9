@@ -1,0 +1,1 @@
+LogClaim(address account,uint256 claimAmount,uint256 getId,uint256 setId)

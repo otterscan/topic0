@@ -1,0 +1,1 @@
+HashBurn(bytes32 indexed _hash,address indexed _from,uint256 _burnAmount)

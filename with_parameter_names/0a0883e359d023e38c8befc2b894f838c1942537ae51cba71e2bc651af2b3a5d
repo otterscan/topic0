@@ -1,0 +1,1 @@
+LogAddAuth(address indexed _msgSender,address indexed _authority)

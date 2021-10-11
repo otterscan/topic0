@@ -1,0 +1,1 @@
+BoogieBuyback(address indexed user,uint256 ethSpentOnBoogie,uint256 boogieBought)

@@ -1,0 +1,1 @@
+LOG_STAKE(address indexed staker,uint256 stakeAmount)

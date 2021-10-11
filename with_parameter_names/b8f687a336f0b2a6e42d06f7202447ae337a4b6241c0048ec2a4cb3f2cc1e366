@@ -1,0 +1,1 @@
+onOrderBurn(string orderno,uint256 amount)

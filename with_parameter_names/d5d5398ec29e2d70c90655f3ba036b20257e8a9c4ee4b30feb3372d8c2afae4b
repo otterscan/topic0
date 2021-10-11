@@ -1,0 +1,1 @@
+NewReward(uint256 _rewardId,uint256 _snapshotId,uint256 _amount,uint256 _timestamp)

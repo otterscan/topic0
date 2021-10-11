@@ -1,0 +1,1 @@
+BatchTransfer(address indexed sender,address indexed _tokenAddress,address[] _accounts,uint256[] _values,uint256 _totalAmount)

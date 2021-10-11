@@ -1,0 +1,1 @@
+ModulesByPartitionSet(address indexed caller,bytes32 indexed partition,address[] newModules)

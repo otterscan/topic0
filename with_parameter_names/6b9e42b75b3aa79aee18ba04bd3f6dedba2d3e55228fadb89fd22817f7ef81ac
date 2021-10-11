@@ -1,0 +1,1 @@
+TokenDetails(address indexed tokenAddress,uint256 userMinStake,uint256 userMaxStake,uint256 totalMaxStake,uint256 updatedTime)

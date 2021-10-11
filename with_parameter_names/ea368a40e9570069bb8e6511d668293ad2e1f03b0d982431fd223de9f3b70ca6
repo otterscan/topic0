@@ -1,0 +1,1 @@
+Swap(address indexed token,address recipient,uint256 amount)

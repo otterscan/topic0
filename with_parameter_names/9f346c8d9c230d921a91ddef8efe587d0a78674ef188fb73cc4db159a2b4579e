@@ -1,0 +1,1 @@
+logSetFrmPosition(uint256 _tokenId,int16 _x,int16 _y)

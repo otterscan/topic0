@@ -1,0 +1,1 @@
+NewInvestment(address indexed addr,uint16 plan_id,uint256 _value,uint256 _investDate)

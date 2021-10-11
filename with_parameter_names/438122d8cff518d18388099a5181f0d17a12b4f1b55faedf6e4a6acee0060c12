@@ -1,0 +1,1 @@
+BetBull(address indexed sender,uint256 indexed currentEpoch,uint256 amount)

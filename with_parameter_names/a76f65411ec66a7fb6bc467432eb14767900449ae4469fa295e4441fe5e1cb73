@@ -1,0 +1,1 @@
+ATokenUpgraded(address indexed asset,address indexed proxy,address indexed implementation)

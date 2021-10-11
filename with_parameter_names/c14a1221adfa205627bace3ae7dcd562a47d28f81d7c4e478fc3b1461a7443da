@@ -1,0 +1,1 @@
+userDetails2(uint256 absolute_mortgage,uint256 security_rate,uint256 lended_Rate,uint256 mortgage_amount,uint256 deposited_value,uint8 withdrawl,uint256 withdrawState,uint256 deposited_asset_rate,uint256 lended_asset_rate,uint256 interest)

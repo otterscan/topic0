@@ -1,0 +1,1 @@
+Finish(address indexed user,uint256 totalRedeemed,uint256 yield,uint256 fee,uint256 totalAucBurned)

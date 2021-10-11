@@ -1,0 +1,1 @@
+DecreaseAuthQuota(address indexed authorty,address indexed mappingTokenMapped,address indexed signatory,uint256 decrement,uint256 quota)

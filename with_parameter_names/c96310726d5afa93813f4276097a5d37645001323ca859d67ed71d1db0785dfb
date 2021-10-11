@@ -1,0 +1,1 @@
+NewBidderTransfer(uint256 _saleID,address _newBidder,address _payTokenAddress,uint256 _bidPrice)

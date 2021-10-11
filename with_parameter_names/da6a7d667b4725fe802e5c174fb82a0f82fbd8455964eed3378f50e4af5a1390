@@ -1,0 +1,1 @@
+Buy(address indexed buyer,address indexed referrar,uint256 totalTokens,uint256 tokensTransfered,uint256 buyPrice,uint256 buyPriceAfterBuy,uint256 etherDeducted,uint256 circultedSupplyBeforeBuy,uint256 circultedSupplyAfterBuy)

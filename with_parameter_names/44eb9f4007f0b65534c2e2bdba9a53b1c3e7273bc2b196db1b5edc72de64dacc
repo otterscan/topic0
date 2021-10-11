@@ -1,0 +1,1 @@
+Voted(bool vote,uint256 lawIndex,uint256 issueNumber,uint256 SerialNumber)

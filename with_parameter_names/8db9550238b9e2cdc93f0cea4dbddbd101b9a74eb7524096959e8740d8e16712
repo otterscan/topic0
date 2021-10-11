@@ -1,0 +1,1 @@
+ResultUpdate(address indexed target,bytes4 functionSignature,uint8 score,uint248 expiration)

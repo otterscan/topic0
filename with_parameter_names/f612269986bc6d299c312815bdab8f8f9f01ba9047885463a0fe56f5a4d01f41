@@ -1,0 +1,1 @@
+SetWhitelistStakePool(address indexed contractAddress,int8 value)

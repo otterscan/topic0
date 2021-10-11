@@ -1,0 +1,1 @@
+ResourceRemoved(address indexed _resource,uint256 _id)

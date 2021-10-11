@@ -1,0 +1,1 @@
+OnClosePosition(bytes32 indexed positionId,address token,address indexed owner,uint256 owed,uint256 input,uint256 commitment,uint256 leverage,uint256 startTimestamp,bool isShort,uint256 borrowInterest,uint256 liquidationBonus,uint256 scaledCloseRate)

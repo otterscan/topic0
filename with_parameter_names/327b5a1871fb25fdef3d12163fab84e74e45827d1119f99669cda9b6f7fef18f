@@ -1,0 +1,1 @@
+NewSynCardGenerated(address indexed account,uint256 level,uint256 id,uint256 timestamp)

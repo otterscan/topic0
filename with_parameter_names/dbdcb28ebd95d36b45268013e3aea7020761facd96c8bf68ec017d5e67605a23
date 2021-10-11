@@ -1,0 +1,1 @@
+Removed(address indexed erc1155,uint256 indexed card,address indexed recipient,uint256 amount)

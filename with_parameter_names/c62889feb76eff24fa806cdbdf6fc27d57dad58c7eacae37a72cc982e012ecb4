@@ -1,0 +1,1 @@
+Outbid(uint256 indexed tweetID,address indexed actor,uint256 amount,bool transferSuccess,uint256 timestamp)

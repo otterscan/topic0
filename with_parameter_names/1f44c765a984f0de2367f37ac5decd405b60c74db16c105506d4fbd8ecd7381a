@@ -1,0 +1,1 @@
+EscrowCreated(address indexed CEVA,address indexed Recipient,bytes32 REcipientName,uint256 MilestoneETH,uint256 TokensAVAILABLE,bytes32 indexed PropertyID,uint8 EscrowAgreementNumber)

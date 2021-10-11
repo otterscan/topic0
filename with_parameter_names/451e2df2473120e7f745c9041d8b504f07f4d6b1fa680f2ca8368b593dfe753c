@@ -1,0 +1,1 @@
+MVDFunctionalitiesManagerChanged(address indexed oldAddress,address indexed newAddress)

@@ -1,0 +1,1 @@
+getTicket(address indexed _user,uint256 _idTicket,uint256 _time)

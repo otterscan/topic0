@@ -1,0 +1,1 @@
+SetWhitelistRewardMultiplier(address indexed contractAddress,bool value)

@@ -1,0 +1,1 @@
+addpoolevent(uint256 _allocPoint,address _lpToken)

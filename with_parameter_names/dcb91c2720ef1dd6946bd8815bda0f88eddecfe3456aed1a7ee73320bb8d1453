@@ -1,0 +1,1 @@
+Print(address indexed owner,uint256 tokenId,uint256 indexed originReplicator,uint8 indexed generation,uint8 variant,uint8 printNumber,uint256 internalPrintTime)

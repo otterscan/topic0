@@ -1,0 +1,1 @@
+SetAssetMinimumDeposit(address indexed tokenAddress,uint256 newMinimumDeposit,uint256 oldMinimumDeposit)

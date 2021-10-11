@@ -1,0 +1,1 @@
+CollateralActivationChanged(address indexed collateral,bool status)

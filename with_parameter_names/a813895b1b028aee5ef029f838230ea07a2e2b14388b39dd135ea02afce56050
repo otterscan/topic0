@@ -1,0 +1,1 @@
+newGame(uint256 _duration,uint256 _ticketPrice,uint256 poolPart,uint256 _time)

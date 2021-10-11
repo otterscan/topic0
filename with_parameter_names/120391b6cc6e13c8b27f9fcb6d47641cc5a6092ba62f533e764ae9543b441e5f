@@ -1,0 +1,1 @@
+RewardPeriodRemoved(address indexed remover,uint256 period,uint256 startTimestamp,uint256 endTimestamp,uint256 availableRewards)

@@ -1,0 +1,1 @@
+RaffleTicketCreated(uint256 indexed raffleId,string raffleName,address nftContract,string nftURI,uint256 nftId,uint256 nftPrice,uint256 ticketSize,uint256 ticketPrice,uint256 min_ticketSize,address fromAddress,uint256 endDate,uint256 timestamp)

@@ -1,0 +1,1 @@
+UserBet(address indexed user,uint256 betRound,uint256 betTeamID,uint256 amount)

@@ -1,0 +1,1 @@
+ExchangeDataUpdated(address indexed _ckToken,address indexed _component,bytes _newExchangeData)

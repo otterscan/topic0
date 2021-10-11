@@ -1,0 +1,1 @@
+ItemsOffered(uint256 indexed itemsIndex,uint256 minValue,address indexed toAddress)

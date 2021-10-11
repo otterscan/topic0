@@ -1,0 +1,1 @@
+scarcityBought(address token,uint256 scx,uint256 tokenValue)

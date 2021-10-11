@@ -1,0 +1,1 @@
+MineTaskAdd(string _taskId,uint256 _rewardAmount,uint256 _beginTime,uint256 _endTime)

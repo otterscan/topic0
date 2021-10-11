@@ -1,0 +1,1 @@
+set_transfer(address indexed user,address indexed referrer,uint256 indexed amount,uint256 time)

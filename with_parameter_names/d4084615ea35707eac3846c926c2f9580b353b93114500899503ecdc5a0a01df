@@ -1,0 +1,1 @@
+RewardsCompounded(address _staker,uint256 _rewardsCompounded,uint256 _tokenId,uint256 _totalStaked,uint256 _time)

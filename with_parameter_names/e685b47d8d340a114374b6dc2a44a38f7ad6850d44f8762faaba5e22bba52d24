@@ -1,0 +1,1 @@
+onPurchase(address walletAddress,address contractAddress,uint256 incomingTokenAmount,uint256 collateralMinted,address referredBy)

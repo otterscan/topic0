@@ -1,0 +1,1 @@
+OperatorShareDecreased(bytes32 indexed poolId,uint32 oldOperatorShare,uint32 newOperatorShare)

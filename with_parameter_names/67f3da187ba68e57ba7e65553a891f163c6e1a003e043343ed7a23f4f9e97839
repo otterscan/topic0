@@ -1,0 +1,1 @@
+SoldEvent(address indexed _seller,address indexed _buyer,address indexed _tokenAddress,uint256 _balance,uint256 _weiPriceUnitToken,uint256 _totalPrice)

@@ -1,0 +1,1 @@
+withdraw_terminated(address addr,uint256 value,string _text)

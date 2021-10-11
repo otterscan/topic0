@@ -1,0 +1,1 @@
+SwapDeposit(address indexed depositor,uint256 outputAmount)

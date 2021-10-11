@@ -1,0 +1,1 @@
+ChannelClosed(uint256 indexed channel_identifier,address indexed closing_participant,uint256 indexed nonce,bytes32 balance_hash)

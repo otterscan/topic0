@@ -1,0 +1,1 @@
+FeeCollected(address indexed payee,uint256 weiAmount)

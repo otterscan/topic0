@@ -1,0 +1,1 @@
+MineRewardsWithdraw(address _userAddr,string _invoiceId,uint256 _amount)

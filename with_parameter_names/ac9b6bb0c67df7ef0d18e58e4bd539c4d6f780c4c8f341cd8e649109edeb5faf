@@ -1,0 +1,1 @@
+AnchorPriceUpdated(bytes32 indexed symbolHash,uint256 anchorPrice,uint256 oldTimestamp,uint256 newTimestamp)

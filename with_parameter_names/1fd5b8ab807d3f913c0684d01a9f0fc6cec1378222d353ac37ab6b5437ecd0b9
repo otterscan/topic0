@@ -1,0 +1,1 @@
+SwapRequest(address indexed tokenA,address indexed tokenB,address indexed sender,address receiver,uint256 amountA,bool isInvestment,uint128 minimumAmountToClaim,uint128 limitPice)

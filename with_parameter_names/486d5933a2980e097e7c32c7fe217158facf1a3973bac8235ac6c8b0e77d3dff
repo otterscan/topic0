@@ -1,0 +1,1 @@
+NewBalanceProofReceived(address token_network_address,uint256 channel_identifier,uint256 reward_amount,uint256 indexed nonce,address indexed ms_address,address indexed raiden_node_address)

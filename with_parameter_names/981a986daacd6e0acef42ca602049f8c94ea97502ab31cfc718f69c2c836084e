@@ -1,0 +1,1 @@
+CollectionCreated(address collection_address,address owner,string name,string uri,bool isPublic)

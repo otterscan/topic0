@@ -1,0 +1,1 @@
+Bought(address indexed buyer,uint256 amount,uint256 pricePerToken)

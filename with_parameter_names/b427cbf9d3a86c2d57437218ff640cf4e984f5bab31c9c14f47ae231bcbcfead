@@ -1,0 +1,1 @@
+LogRemoveStakingMapping(string stakingName,bytes32 stakingType,address stakingAddress,address stakingToken)

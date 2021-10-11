@@ -1,0 +1,1 @@
+Stake(address indexed userAddress,uint256 stakeId,address indexed referrerAddress,address indexed tokenAddress,uint256 stakedAmount,uint256 time)

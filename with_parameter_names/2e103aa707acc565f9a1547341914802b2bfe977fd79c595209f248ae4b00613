@@ -1,0 +1,1 @@
+LogBridgeSet(address indexed token,address indexed bridge)

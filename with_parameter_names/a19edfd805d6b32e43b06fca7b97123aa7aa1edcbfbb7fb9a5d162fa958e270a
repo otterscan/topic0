@@ -1,0 +1,1 @@
+IndexUser(uint8 indexed _matrix,address indexed _user,address indexed _referrer,address _partner,uint8 _level,uint256 _skip,uint8 _relation,uint8 _buyAgain,uint8 _pointLevel,uint256 _reinvestNumber,bool _active)

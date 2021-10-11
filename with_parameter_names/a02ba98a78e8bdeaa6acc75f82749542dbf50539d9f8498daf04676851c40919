@@ -1,0 +1,1 @@
+JoinFeeRatioChanged(address indexed setter,uint256 oldRatio,uint256 oldDenominator,uint256 newRatio,uint256 newDenominator)

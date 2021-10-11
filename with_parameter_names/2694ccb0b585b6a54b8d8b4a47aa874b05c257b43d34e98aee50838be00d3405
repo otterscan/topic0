@@ -1,0 +1,1 @@
+ReserveFactorChanged(address indexed asset,uint256 factor)

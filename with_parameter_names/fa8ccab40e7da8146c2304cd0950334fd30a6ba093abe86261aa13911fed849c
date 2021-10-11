@@ -1,0 +1,1 @@
+RewardsMinted(address indexed caller,address indexed recipient,uint256 amount)

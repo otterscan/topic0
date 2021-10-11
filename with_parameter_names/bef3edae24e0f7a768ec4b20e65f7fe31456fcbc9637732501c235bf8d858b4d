@@ -1,0 +1,1 @@
+SeasonStarted(address indexed creator,uint32 season,address contract_address)

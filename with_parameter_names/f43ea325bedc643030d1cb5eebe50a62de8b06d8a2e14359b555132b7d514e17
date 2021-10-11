@@ -1,0 +1,1 @@
+FeeTransferred(bytes32 indexed hash,address indexed recipient,uint256 amount)

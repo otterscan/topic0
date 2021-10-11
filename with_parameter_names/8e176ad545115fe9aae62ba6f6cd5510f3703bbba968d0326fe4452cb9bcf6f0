@@ -1,0 +1,1 @@
+Swap(uint8 swapType,address indexed sender,uint256 collateralizedAmount,uint256 originalAmount)

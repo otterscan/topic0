@@ -1,0 +1,1 @@
+AuthorizedAddressRemoved(address indexed target,address indexed caller)

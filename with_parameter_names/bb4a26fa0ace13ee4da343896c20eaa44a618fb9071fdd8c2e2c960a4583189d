@@ -1,0 +1,1 @@
+EpochEnded(uint256 indexed epoch,uint256 numPoolsToFinalize,uint256 rewardsAvailable,uint256 totalFeesCollected,uint256 totalWeightedStake)

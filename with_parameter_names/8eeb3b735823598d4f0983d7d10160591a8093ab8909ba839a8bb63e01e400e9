@@ -1,0 +1,1 @@
+ApprovedTransaction(address indexed recipient,uint256 amount,uint256 UUID)

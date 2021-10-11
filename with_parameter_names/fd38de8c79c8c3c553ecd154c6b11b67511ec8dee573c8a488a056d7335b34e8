@@ -1,0 +1,1 @@
+PushedPrice(bytes32 indexed identifier,uint256 time,bytes ancillaryData,int256 price,bytes32 indexed requestHash)

@@ -1,0 +1,1 @@
+NewArtworkAdded(uint256 JOYtoyToUpdate,string artworkHash,string artworkType,uint256 artworkIndex)

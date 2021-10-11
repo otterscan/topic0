@@ -1,0 +1,1 @@
+PlatformSettingUpdated(bytes32 indexed name,address indexed remover,uint256 oldValue,uint256 newValue)

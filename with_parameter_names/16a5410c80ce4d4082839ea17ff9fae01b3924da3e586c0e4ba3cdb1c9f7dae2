@@ -1,0 +1,1 @@
+Joined(address indexed staker,uint256 deposited,uint256 minted)

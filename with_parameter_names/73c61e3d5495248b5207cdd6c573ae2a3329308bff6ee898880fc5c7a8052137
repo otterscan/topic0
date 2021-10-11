@@ -1,0 +1,1 @@
+MemberJoinedCycle(uint256 indexed cycleId,address indexed memberAddress,uint256 groupId)

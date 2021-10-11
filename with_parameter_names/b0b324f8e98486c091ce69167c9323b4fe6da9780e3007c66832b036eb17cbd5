@@ -1,0 +1,1 @@
+UserCancelledBid(address indexed auction,address indexed bidder)

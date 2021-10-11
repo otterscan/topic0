@@ -1,0 +1,1 @@
+NewProduct(address indexed from,string value)

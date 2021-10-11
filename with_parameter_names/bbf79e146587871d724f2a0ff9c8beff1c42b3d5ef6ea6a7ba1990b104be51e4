@@ -1,0 +1,1 @@
+TakeFunds(address indexed account,uint256 rad)

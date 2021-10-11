@@ -1,0 +1,1 @@
+Collect(address indexed user,uint256 positionId,uint256 fee0,uint256 fee1,uint256 feePercent)

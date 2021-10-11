@@ -1,0 +1,1 @@
+tokenBought(uint256 indexed tokenId,address indexed newowner,address indexed seller,uint256 timestamp,uint256 tokenPrice,string location)

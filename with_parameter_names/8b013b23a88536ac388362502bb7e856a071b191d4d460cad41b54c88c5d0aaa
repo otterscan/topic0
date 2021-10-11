@@ -1,0 +1,1 @@
+Blocklist(address indexed account,bool indexed status)

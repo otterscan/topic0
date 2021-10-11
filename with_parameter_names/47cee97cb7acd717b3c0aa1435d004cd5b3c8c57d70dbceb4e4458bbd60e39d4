@@ -1,0 +1,1 @@
+Claim(address indexed staker,uint256 amount)

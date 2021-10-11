@@ -1,0 +1,1 @@
+ProfitDeclared(bool profit,uint256 amount,uint256 timestamp,uint256 totalAmountInPool,uint256 totalSharesInPool,uint256 performanceFeeTotal,uint256 baseFeeTotal)

@@ -1,0 +1,1 @@
+SetMakerFeePercent(address indexed setBy,uint256 oldFeePercent,uint256 newFeePercent)

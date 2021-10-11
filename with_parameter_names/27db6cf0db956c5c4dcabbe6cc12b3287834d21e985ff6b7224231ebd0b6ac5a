@@ -1,0 +1,1 @@
+LogNewHash(bytes32 hash,address owner,uint256 creationDt)

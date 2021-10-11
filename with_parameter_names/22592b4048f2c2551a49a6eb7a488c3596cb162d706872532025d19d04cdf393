@@ -1,0 +1,1 @@
+LogBurn(address _from,bytes _to,uint256 _amount,uint256 burnNonce)

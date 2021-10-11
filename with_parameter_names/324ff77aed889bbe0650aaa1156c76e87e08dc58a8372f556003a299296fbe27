@@ -1,0 +1,1 @@
+ConfigBallotCreated(address indexed proposer,bytes32 name,uint256 value,address indexed ballotAddr,uint256 reward)

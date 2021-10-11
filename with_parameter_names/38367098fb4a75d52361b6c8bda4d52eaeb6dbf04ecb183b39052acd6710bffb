@@ -1,0 +1,1 @@
+Swapped(address beneficiary,address from,uint256 fromAmount,address to,uint256 toAmount,uint256 fee)

@@ -1,0 +1,1 @@
+NewPool(address indexed poolAddress,address lpToken)

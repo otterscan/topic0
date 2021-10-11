@@ -1,0 +1,1 @@
+Initialized(address tokenAddress,address beneficiary,uint256 duration,uint256 periods)

@@ -1,0 +1,1 @@
+PropertyWhitelisted(address indexed from,bytes32 _propertyUniqueID,bool _trueFalse)

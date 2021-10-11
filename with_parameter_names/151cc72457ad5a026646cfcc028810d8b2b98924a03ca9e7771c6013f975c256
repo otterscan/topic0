@@ -1,0 +1,1 @@
+UpdateLockerSettings(address indexed manager,address indexed swiftResolverToken,address wETH,uint256 MAX_DURATION,uint256 resolutionRate,uint256 swiftResolverTokenBalance,string lockerTerms)

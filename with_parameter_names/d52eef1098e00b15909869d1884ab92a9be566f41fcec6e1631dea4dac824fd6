@@ -1,0 +1,1 @@
+push_vote(address indexed voter,uint256 indexed poll_id,bool[4] answers)

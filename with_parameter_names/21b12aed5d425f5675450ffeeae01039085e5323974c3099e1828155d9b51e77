@@ -1,0 +1,1 @@
+LOG_DENORM_UPDATED(address indexed token,uint256 newDenorm)

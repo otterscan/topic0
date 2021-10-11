@@ -1,0 +1,1 @@
+Redeemed(address indexed _user,uint256[] indexed _cardIds,uint256[] indexed _quantities)

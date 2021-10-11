@@ -1,0 +1,1 @@
+SetDynamicWeight(address indexed token,uint256 fromDenorm,uint256 targetDenorm,uint256 fromTimestamp,uint256 targetTimestamp)

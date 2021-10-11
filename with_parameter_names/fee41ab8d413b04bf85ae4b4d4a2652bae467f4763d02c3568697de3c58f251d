@@ -1,0 +1,1 @@
+staked(address indexed _user,uint256 _amount,uint256 _lockupPeriod,uint256 _interest)

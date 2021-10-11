@@ -1,0 +1,1 @@
+LogPurchased(uint256 indexed tokenid,address indexed buyer,address indexed seller,address quote,uint256 price)

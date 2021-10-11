@@ -1,0 +1,1 @@
+MinSupplyUpdated(uint256 oldAmount,uint256 newAmount)

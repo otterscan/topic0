@@ -1,0 +1,1 @@
+YieldCollected(address indexed _tokenAddress,uint256 indexed _yield)

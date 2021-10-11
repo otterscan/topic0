@@ -1,0 +1,1 @@
+SetCubesAddress(address indexed user,uint256 cubeKey,address _address)

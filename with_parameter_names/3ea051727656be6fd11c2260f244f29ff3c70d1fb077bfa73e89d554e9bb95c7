@@ -1,0 +1,1 @@
+TokensLiquidated(address indexed user,uint256 indexed amount,uint256 withdrawnAmount,uint256 decreasedValue)

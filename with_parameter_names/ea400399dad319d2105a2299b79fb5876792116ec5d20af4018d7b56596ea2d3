@@ -1,0 +1,1 @@
+BetDetails(uint256 indexed betId,uint256 indexed status,uint256 indexed betEndTime)

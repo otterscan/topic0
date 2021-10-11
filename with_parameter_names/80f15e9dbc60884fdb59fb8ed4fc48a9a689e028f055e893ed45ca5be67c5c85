@@ -1,0 +1,1 @@
+ManagementTransferred(address indexed previousManager,address indexed newManager)

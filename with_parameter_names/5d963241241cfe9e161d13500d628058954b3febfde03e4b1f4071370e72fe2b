@@ -1,0 +1,1 @@
+BuyNFT(address indexed buyer,uint256 saleId,uint256 amount)

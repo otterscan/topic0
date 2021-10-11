@@ -1,0 +1,1 @@
+LogSwapin(bytes32 indexed txhash,address indexed account,uint256 amount)

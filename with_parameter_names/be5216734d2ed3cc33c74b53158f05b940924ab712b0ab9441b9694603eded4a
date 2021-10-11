@@ -1,0 +1,1 @@
+ImprintingEvent(address indexed authority,bytes32 indexed hash,string data)

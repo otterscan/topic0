@@ -1,0 +1,1 @@
+RecoverToken(address indexed token,uint256 indexed amount)

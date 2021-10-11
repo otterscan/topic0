@@ -1,0 +1,1 @@
+UpdateUchiList(address indexed account,uint256 indexed list,string details)

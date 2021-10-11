@@ -1,0 +1,1 @@
+LogWithdrawFees(address indexed feeTo,uint256 feesEarnedFraction)

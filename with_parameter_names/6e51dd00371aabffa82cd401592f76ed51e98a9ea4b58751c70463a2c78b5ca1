@@ -1,0 +1,1 @@
+ProposePrice(address indexed requester,address indexed proposer,bytes32 identifier,uint256 timestamp,bytes ancillaryData,int256 proposedPrice,uint256 expirationTimestamp,address currency)

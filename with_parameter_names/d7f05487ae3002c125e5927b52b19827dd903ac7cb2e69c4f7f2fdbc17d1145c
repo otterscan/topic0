@@ -1,0 +1,1 @@
+MinterStatusUpdated(address indexed minterAddress,bool minterStatus)

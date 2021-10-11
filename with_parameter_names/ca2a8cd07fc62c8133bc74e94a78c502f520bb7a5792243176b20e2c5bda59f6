@@ -1,0 +1,1 @@
+AuctionDepositPending(uint256 closeTime,uint256 lowestSlotPrice,uint256 totalParticipants)

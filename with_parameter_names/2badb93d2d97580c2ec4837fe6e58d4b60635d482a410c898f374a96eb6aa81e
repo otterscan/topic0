@@ -1,0 +1,1 @@
+NewReferral(address indexed referrer,address referee,uint256 currentDay)

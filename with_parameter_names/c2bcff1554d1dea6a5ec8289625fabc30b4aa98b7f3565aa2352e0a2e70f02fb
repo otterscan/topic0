@@ -1,0 +1,1 @@
+E_Create(address swap,address user,address swap_owner,address token_head,address token_tail,address sys_reward_addr,uint256 sys_reward)

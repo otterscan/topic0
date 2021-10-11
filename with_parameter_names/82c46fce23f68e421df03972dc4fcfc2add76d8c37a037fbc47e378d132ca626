@@ -1,0 +1,1 @@
+SummonMinion(address indexed minion,address indexed moloch,string details,string minionType)

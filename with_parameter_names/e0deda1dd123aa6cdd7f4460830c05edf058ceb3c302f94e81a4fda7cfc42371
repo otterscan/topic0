@@ -1,0 +1,1 @@
+BurnEvent(address indexed pool,address indexed burnaddress,uint256 amount)

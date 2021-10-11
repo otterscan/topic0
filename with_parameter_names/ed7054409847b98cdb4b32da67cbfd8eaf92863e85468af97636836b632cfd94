@@ -1,0 +1,1 @@
+TemplateApproval(address indexed template,bool indexed approval)

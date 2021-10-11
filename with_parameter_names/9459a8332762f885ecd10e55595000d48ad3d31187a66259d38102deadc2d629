@@ -1,0 +1,1 @@
+CollateralLiquidated(address indexed borrower,address indexed market,address indexed collateral,uint256 marketDebt,uint256 liquidatedCollateral)

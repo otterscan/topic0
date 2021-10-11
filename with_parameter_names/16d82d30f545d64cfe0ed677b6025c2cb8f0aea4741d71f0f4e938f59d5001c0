@@ -1,0 +1,1 @@
+PoolCreated(uint256 indexed poolId,address indexed token,uint256 indexed reward,uint256 weight,uint16 tickets,uint256 weightBalance,uint64 expiry)

@@ -1,0 +1,1 @@
+AddedBet(uint256 weekId,address better,uint256 ticketPrice,uint32 deaths,uint32 infections,uint256 betId)

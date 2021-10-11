@@ -1,0 +1,1 @@
+SetTokenRedeemed(address indexed _setToken,address indexed _redeemer,address indexed _to,uint256 _quantity)

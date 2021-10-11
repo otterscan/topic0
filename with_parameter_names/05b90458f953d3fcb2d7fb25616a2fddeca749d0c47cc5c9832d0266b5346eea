@@ -1,0 +1,1 @@
+TransferAllowance(address indexed oldVault,address indexed newVault,address asset,uint256 amount,string memo)

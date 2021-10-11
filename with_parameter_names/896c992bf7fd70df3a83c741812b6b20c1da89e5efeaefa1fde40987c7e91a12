@@ -1,0 +1,1 @@
+PriceRecordUpdated(address token,address baseToken,address lpToken,bool _active)

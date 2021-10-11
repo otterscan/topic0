@@ -1,0 +1,1 @@
+CollateralConfigurationChanged(address indexed asset,uint256 ltv,uint256 liquidationThreshold,uint256 liquidationBonus)

@@ -1,0 +1,1 @@
+MintPermission(address indexed target,bool mayMint)

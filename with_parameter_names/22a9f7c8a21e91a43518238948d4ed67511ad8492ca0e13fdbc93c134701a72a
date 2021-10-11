@@ -1,0 +1,1 @@
+SetVault(address indexed newVault,address indexed newStrategy)

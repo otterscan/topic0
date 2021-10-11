@@ -1,0 +1,1 @@
+SequenceDetails(address indexed stakedTokenAddress,address[] rewardTokenSequence,uint256 time)

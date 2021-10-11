@@ -1,0 +1,1 @@
+AffiliatePaid(address indexed affiliate,address indexed referral,uint256 amount,uint256 timestamp)
