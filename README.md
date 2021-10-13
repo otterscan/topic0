@@ -52,3 +52,9 @@ For example, the file `with_parameter_names/ddf252ad1be2c89b69c2b068fc378daa952b
 ## Gotchas
 
 Long explanation [here](./docs/gotchas.md).
+
+## Kudos
+
+Proper kudos should be given to [Sourcify](https://github.com/ethereum/sourcify), the raw data comes from them.
+
+The scripts in this repository just perform extraction, processing and massaging on their data.
