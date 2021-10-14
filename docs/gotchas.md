@@ -27,7 +27,7 @@ We are taking a pragmatic approach for now, so we assume:
 - People copy/paste popular code/libraries, so we consider most used parameter name combinations are a _de facto_ consensus.
 - Scrapping only mainnet verified contracts eliminate junk code, people have to pay actual money to deploy their contracts, so there is some curation here, reinforcing the first point.
 
-What does it mean for this repository purposes? In technical terms, our scripts count all individual signature occurrences for each hash and take the one who appears the most (`sort | uniq -c | sort -nr | head -n 1`).
+What does it mean for this repository purposes? In technical terms, our scripts count all individual signature occurrences for each hash and take the one who appears the most _per signature variation_ (in a high level: `sort | uniq -c | sort -nr | sort -u -t -k<variation field> | sort -nr`).
 
 ## `indexed` vs non-`indexed` signature collisions
 
@@ -39,4 +39,4 @@ It is not possible to guess which signature is the "correct" by just looking at 
 
 For ERC20 tokens, the non-indexed value should be decoded from event data, while ERC721 tokens have the token ID stored in an extra topic.
 
-There is no way to solve this for now, so we recommend consumers of this database to guard themselves against errors while decoding, and if an error occur, try to guess other signature variations, inserting/removing the `indexed` attribute to parameters.
+There is no way to solve this 100%, so we recommend consumers of this database to guard themselves against errors while decoding, and if an error occur, try to decode the log using other signature variations, if there are more than one. the build script guarantees that variantions are sorted by popularity descending.

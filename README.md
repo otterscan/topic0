@@ -35,15 +35,15 @@ For example, the file `signatures/ddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a1
 
 ### `with_parameter_names` directory
 
-It contains one file for each signature. The file contains a complete event signature which corresponds to the topic hash.
+It contains one file for each signature. The file contains one or more complete event signatures (separated by `";"`) corresponding to the topic hash.
 
-We must say it contains _a_ instead of _the_ because there are multiple signature variations which result in the same topic hash.
+We must say it contains _one or more signatures_ because there are multiple signature variations which result in the same topic hash.
 
 Please take a look at the [gotchas](./docs/gotchas.md) page for more details.
 
 The filename is the hexadecimal string (without the `0x` prefix) of the topic hash.
 
-For example, the file `with_parameter_names/ddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` contains the popular ERC20 `Transfer(address indexed from, address indexed to, uint256 value)` event signature.
+For example, the file `with_parameter_names/ddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef` contains the popular ERC20 `Transfer(address indexed from, address indexed to, uint256 value)` and ERC721 `Transfer(address indexed from, address indexed to, uint256 indexed tokenId)` event signatures.
 
 ## Rebuilding the repo
 
