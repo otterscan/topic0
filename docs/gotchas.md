@@ -39,4 +39,4 @@ It is not possible to guess which signature is the "correct" by just looking at 
 
 For ERC20 tokens, the non-indexed value should be decoded from event data, while ERC721 tokens have the token ID stored in an extra topic.
 
-There is no way to solve this 100%, so we recommend consumers of this database to guard themselves against errors while decoding, and if an error occur, try to decode the log using other signature variations, if there are more than one. the build script guarantees that variantions are sorted by popularity descending.
+There is no way to solve this 100%, so we recommend consumers of this database to guard themselves against errors while decoding, and if an error occur, try to decode the log using other signature variations if there are more than one. The build script guarantees that variations are sorted by popularity descending.
