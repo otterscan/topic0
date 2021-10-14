@@ -1,1 +1,1 @@
-RemovedBlackList(address _user)
+RemovedBlackList(address _user);RemovedBlackList(address indexed account)

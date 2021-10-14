@@ -1,1 +1,1 @@
-Buy(uint256 indexed id)
+Buy(uint256 indexed id);Buy(uint256 tokenId)

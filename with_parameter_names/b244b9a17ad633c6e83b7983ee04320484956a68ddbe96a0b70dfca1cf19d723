@@ -1,1 +1,1 @@
-Withdrew(address indexed safe,uint256 amount)
+Withdrew(address indexed safe,uint256 amount);Withdrew(address to,uint256 amount)

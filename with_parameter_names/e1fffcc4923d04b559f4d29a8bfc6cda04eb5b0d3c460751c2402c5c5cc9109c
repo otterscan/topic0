@@ -1,1 +1,1 @@
-Deposit(address indexed user,uint256 amount)
+Deposit(address indexed user,uint256 amount);Deposit(address user,uint256 amount)

@@ -1,1 +1,1 @@
-UpdateEndBlock(uint256 indexed i,uint256 endBlock)
+UpdateEndBlock(uint256 indexed i,uint256 endBlock);UpdateEndBlock(uint256 oldEnd,uint256 newEnd)

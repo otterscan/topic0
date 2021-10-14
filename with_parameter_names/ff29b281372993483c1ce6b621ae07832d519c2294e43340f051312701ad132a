@@ -1,1 +1,1 @@
-UserClaimed(uint256 indexed index,address indexed sender,uint256 amount0)
+UserClaimed(uint256 indexed index,address indexed sender,uint256 amount0);UserClaimed(uint256 indexed conditionIndex,address indexed userAddress,uint256 indexed winningAmount)

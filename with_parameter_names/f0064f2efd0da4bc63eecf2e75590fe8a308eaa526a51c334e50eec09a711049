@@ -1,1 +1,1 @@
-EmergencyExitUpdated(bool indexed emergencyExit)
+EmergencyExitUpdated(bool indexed emergencyExit);EmergencyExitUpdated(bool status)

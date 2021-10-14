@@ -1,1 +1,1 @@
-LogWithdraw(address token,bytes32 stakingType,uint256 amount,uint256 getId,uint256 setId)
+LogWithdraw(address token,bytes32 stakingType,uint256 amount,uint256 getId,uint256 setId);LogWithdraw(address indexed stakingToken,bytes32 indexed stakingType,uint256 amount,uint256 getId,uint256 setId)

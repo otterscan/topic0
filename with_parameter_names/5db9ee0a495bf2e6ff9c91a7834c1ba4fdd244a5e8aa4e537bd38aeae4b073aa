@@ -1,1 +1,1 @@
-Unpaused(address account)
+Unpaused(address account);Unpaused(address indexed account)

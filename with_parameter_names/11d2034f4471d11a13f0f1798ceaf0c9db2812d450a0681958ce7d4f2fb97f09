@@ -1,1 +1,1 @@
-FundsHarvested(uint256 withdrawnAmount,uint256 decreasedValue)
+FundsHarvested(uint256 withdrawnAmount,uint256 decreasedValue);FundsHarvested(uint256 indexed harvestedAmount,uint256 indexed decreasedValue)

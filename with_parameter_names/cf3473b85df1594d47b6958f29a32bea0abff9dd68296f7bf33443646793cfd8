@@ -1,1 +1,1 @@
-Blacklisted(address indexed account,bool isBlacklisted)
+Blacklisted(address indexed account,bool isBlacklisted);Blacklisted(address _address,bool _blacklisted)

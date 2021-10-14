@@ -1,1 +1,1 @@
-Bid(address to,uint256 amount,uint256 fee)
+Bid(address to,uint256 amount,uint256 fee);Bid(address indexed bidder,uint256 indexed tokenId,uint256 price)

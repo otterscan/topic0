@@ -1,1 +1,1 @@
-onReinvest(address walletAddress,address contractAddress,uint256 reInvestTokenAmount,uint256 collateralMinted)
+onReinvest(address walletAddress,address contractAddress,uint256 reInvestTokenAmount,uint256 collateralMinted);onReinvest(address indexed walletAddress,address indexed contractAddress,uint256 reInvestTokenAmount,uint256 collateralMinted)

@@ -1,1 +1,1 @@
-Rescue(address indexed to,uint256 amount)
+Rescue(address indexed to,uint256 amount);Rescue(address to,uint256 amount)

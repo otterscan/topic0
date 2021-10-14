@@ -1,1 +1,1 @@
-EmergencyWithdraw(address user,uint256 amount)
+EmergencyWithdraw(address user,uint256 amount);EmergencyWithdraw(address indexed user,uint256 amount)

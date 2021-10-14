@@ -1,1 +1,1 @@
-Burn(address from,address ,uint256 value)
+Burn(address from,address ,uint256 value);Burn(address indexed owner,address indexed spender,uint256 value)

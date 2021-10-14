@@ -1,1 +1,1 @@
-Burn(address indexed from,uint256 value,string stellar_address)
+Burn(address indexed from,uint256 value,string stellar_address);Burn(address _to,uint256 _amount,string _destination)

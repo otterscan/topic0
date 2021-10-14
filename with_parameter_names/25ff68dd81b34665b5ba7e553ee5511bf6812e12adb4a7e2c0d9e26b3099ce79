@@ -1,1 +1,1 @@
-Initialized(address indexed executor,uint256 at)
+Initialized(address indexed executor,uint256 at);Initialized(address member,uint256 timestamp)

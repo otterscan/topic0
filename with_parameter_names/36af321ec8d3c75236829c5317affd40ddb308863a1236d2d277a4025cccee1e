@@ -1,1 +1,1 @@
-Deposit(address indexed sender,uint256 liquidity,uint256 amount0,uint256 amount1)
+Deposit(address indexed sender,uint256 liquidity,uint256 amount0,uint256 amount1);Deposit(address indexed user,uint256 indexed pid,uint256 lptAmount,uint256 stAmount);Deposit(address account,uint256 amount,uint256 fee,uint256 balance)

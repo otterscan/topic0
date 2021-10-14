@@ -1,1 +1,1 @@
-BurnSupply(address indexed _user,uint256 _amount)
+BurnSupply(address indexed _user,uint256 _amount);BurnSupply(address _user,uint256 _amount)

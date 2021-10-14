@@ -1,1 +1,1 @@
-Withdrawn(address indexed user,uint256 amount)
+Withdrawn(address indexed user,uint256 amount);Withdrawn(address token,uint256 amount);Withdrawn(address indexed to,uint256 indexed value)

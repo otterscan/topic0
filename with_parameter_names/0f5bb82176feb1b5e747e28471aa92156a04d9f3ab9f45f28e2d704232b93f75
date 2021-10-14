@@ -1,1 +1,1 @@
-Unstaked(address indexed user,uint256 amount)
+Unstaked(address indexed user,uint256 amount);Unstaked(address staker,uint256 amount)

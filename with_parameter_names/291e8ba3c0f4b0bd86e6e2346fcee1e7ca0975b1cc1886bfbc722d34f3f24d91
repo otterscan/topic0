@@ -1,1 +1,1 @@
-Rewarded(address sender,uint256 tokenAmount,uint256 date)
+Rewarded(address sender,uint256 tokenAmount,uint256 date);Rewarded(address indexed tokenOwner,uint256 indexed tokenId,uint256 indexed amount)

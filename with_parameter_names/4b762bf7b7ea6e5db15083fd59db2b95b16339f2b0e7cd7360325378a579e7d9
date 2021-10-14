@@ -1,1 +1,1 @@
-AssetExchangeUpdated(address indexed _ckToken,address _component,string _newExchangeName)
+AssetExchangeUpdated(address indexed _ckToken,address _component,string _newExchangeName);AssetExchangeUpdated(address indexed _ckToken,address indexed _component,string _newExchangeName)

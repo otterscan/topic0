@@ -1,1 +1,1 @@
-XendTokenReward(uint256 date,address recipient,uint256 amount)
+XendTokenReward(uint256 date,address recipient,uint256 amount);XendTokenReward(uint256 date,address indexed member,uint256 amount)

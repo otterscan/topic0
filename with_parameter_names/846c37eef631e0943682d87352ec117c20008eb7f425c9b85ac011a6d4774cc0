@@ -1,1 +1,1 @@
-Sell(address user,uint256 deusAmount,uint256 coinbaseTokenAmount,uint256 feeAmount)
+Sell(address user,uint256 deusAmount,uint256 coinbaseTokenAmount,uint256 feeAmount);Sell(address indexed seller,uint256 TESAmount,uint256 ETHAmount,uint256 price)

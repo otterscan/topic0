@@ -1,1 +1,1 @@
-RewardsUpdated(address treasury)
+RewardsUpdated(address treasury);RewardsUpdated(address indexed reward)

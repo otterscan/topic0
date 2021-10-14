@@ -1,1 +1,1 @@
-Collect(address indexed sender,uint256 amount)
+Collect(address indexed sender,uint256 amount);Collect(address user,uint256 amount)

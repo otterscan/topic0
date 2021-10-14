@@ -1,1 +1,1 @@
-RewardsClaimed(address indexed user,uint256 timestamp,uint256 amount)
+RewardsClaimed(address indexed user,uint256 timestamp,uint256 amount);RewardsClaimed(address indexed holder,uint256 amount,uint256 indexed time);RewardsClaimed(address indexed account,uint256 indexed periodId,uint256 amount);RewardsClaimed(address _staker,uint256 _rewardsClaimed,uint256 _time)

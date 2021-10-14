@@ -1,1 +1,1 @@
-Claim(address indexed who,uint256 rewardval,uint256 totalStaking)
+Claim(address indexed who,uint256 rewardval,uint256 totalStaking);Claim(address user,uint256 baseAmount,uint256 quoteAmount);Claim(address indexed user,uint256 indexed pid,uint256 amount)

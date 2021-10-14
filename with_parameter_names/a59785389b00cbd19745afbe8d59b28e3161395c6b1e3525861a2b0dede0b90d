@@ -1,1 +1,1 @@
-Migrate(address indexed newLock,uint256 amount)
+Migrate(address indexed newLock,uint256 amount);Migrate(address user,uint256 amount)

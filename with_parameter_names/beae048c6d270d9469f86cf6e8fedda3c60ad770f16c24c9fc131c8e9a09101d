@@ -1,1 +1,1 @@
-Buy(address indexed buyer,uint256 tokensTransfered,uint256 tokenToTransfer,uint256 referralBal)
+Buy(address indexed buyer,uint256 tokensTransfered,uint256 tokenToTransfer,uint256 referralBal);Buy(address user,uint256 coinbaseTokenAmount,uint256 deusAmount,uint256 feeAmount)

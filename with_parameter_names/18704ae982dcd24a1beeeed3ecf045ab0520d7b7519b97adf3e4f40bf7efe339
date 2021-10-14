@@ -1,1 +1,1 @@
-TokensSwapped(address indexed user,uint256 evotAmount,uint256 usdcAmount)
+TokensSwapped(address indexed user,uint256 evotAmount,uint256 usdcAmount);TokensSwapped(address indexed _purchaser,uint256 indexed myx,uint256 indexed vanilla)

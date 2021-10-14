@@ -1,1 +1,1 @@
-AddedBlackList(address _user)
+AddedBlackList(address _user);AddedBlackList(address indexed account)

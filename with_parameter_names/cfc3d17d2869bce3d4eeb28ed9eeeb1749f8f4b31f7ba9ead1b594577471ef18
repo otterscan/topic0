@@ -1,1 +1,1 @@
-ProviderProposeResolver(address indexed proposedResolver,uint256 registration,string details)
+ProviderProposeResolver(address indexed proposedResolver,uint256 registration,string details);ProviderProposeResolver(address indexed proposedResolver,uint256 indexed registration,string details)

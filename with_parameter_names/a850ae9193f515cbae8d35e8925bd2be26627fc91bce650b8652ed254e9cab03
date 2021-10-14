@@ -1,1 +1,1 @@
-AddedToWhitelist(address indexed account)
+AddedToWhitelist(address indexed account);AddedToWhitelist(address user)

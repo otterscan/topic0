@@ -1,1 +1,1 @@
-AddTokenEvent(address indexed _tokenAddress)
+AddTokenEvent(address indexed _tokenAddress);AddTokenEvent(address newTokenAddress)

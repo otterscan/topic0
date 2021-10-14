@@ -1,1 +1,1 @@
-PriceChange(address token,uint256 value)
+PriceChange(address token,uint256 value);PriceChange(address indexed user,uint256 price)

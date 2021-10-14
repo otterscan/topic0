@@ -1,1 +1,1 @@
-Vote(address indexed from,uint256 state,bool agree,uint256 weight)
+Vote(address indexed from,uint256 state,bool agree,uint256 weight);Vote(address voter,uint256 proposalId,bool proVote,uint256 votes)

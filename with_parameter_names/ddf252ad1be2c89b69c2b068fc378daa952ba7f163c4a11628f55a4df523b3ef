@@ -1,1 +1,1 @@
-Transfer(address indexed from,address indexed to,uint256 value)
+Transfer(address indexed from,address indexed to,uint256 value);Transfer(address indexed from,address indexed to,uint256 indexed tokenId);Transfer(address sender,address receiver,uint256 amount)

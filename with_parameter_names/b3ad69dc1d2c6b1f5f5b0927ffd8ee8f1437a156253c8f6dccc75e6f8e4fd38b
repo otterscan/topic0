@@ -1,1 +1,1 @@
-TokensWithdrawn(address indexed user,uint256 indexed amount,uint256 withdrawnAmount,uint256 decreasedValue)
+TokensWithdrawn(address indexed user,uint256 indexed amount,uint256 withdrawnAmount,uint256 decreasedValue);TokensWithdrawn(address indexed account,uint256 requestedAmount,uint256 withdrawnAmount,uint256 decreasedValue)

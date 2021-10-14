@@ -1,1 +1,1 @@
-Restake(address user,uint256 amount)
+Restake(address user,uint256 amount);Restake(address indexed player,uint256 indexed newGameTime)

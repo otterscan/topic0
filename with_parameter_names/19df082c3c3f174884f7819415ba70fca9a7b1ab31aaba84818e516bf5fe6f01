@@ -1,1 +1,1 @@
-OnWithdraw(address indexed MemberAddress,uint256 tokensWithdrawn,uint8 envelopeNumber)
+OnWithdraw(address indexed MemberAddress,uint256 tokensWithdrawn,uint8 envelopeNumber);OnWithdraw(address indexed MemberAddress,uint256 tokensWithdrawn,uint8 indexed envelopeNumber)

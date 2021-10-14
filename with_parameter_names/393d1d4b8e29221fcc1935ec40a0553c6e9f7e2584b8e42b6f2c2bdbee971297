@@ -1,1 +1,1 @@
-SetFactoryAdmin(address indexed previousFactoryAdmin,address indexed newFactoryAdmin)
+SetFactoryAdmin(address indexed previousFactoryAdmin,address indexed newFactoryAdmin);SetFactoryAdmin(address previousFactoryAdmin,address newFactoryAdmin)

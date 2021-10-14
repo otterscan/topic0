@@ -1,1 +1,1 @@
-Staked(address indexed user,uint256 amount)
+Staked(address indexed user,uint256 amount);Staked(address staker,uint256 tokens);Staked(address indexed user,uint256 indexed nftId)

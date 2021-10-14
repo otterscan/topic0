@@ -1,1 +1,1 @@
-FundsDistributed(address indexed by,uint256 fundsDistributed)
+FundsDistributed(address indexed by,uint256 fundsDistributed);FundsDistributed(address _sender,uint256 _fundsDistributed)

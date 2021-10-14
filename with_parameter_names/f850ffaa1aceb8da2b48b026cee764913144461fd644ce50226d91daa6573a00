@@ -1,1 +1,1 @@
-onWithdraw(address walletAddress,address contractAddress,uint256 amountToWithdraw)
+onWithdraw(address walletAddress,address contractAddress,uint256 amountToWithdraw);onWithdraw(address indexed walletAddress,address indexed contractAddress,uint256 amountToWithdraw)

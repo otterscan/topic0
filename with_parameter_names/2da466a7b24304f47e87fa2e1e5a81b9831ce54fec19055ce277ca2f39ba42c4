@@ -1,1 +1,1 @@
-Deposited(address indexed user,uint256 amount)
+Deposited(address indexed user,uint256 amount);Deposited(address indexed to,uint256 indexed tokenId);Deposited(address account,uint256 amount)

@@ -1,1 +1,1 @@
-ConfirmLocker(uint256 registration)
+ConfirmLocker(uint256 registration);ConfirmLocker(uint256 indexed registration)

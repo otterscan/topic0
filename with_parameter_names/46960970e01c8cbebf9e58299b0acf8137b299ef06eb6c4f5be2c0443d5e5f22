@@ -1,1 +1,1 @@
-NewToken(address oldToken,address newToken)
+NewToken(address oldToken,address newToken);NewToken(address indexed _growthToken,address indexed _oldGrowthToken)

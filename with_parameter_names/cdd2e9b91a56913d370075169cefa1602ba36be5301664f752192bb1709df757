@@ -1,1 +1,1 @@
-RemovedFromWhitelist(address indexed account)
+RemovedFromWhitelist(address indexed account);RemovedFromWhitelist(address user)

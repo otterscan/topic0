@@ -1,1 +1,1 @@
-RewardClaimed(address user,uint256 amount)
+RewardClaimed(address user,uint256 amount);RewardClaimed(address indexed user,uint256 reward);RewardClaimed(address indexed claimer,uint256 indexed reward)

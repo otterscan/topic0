@@ -1,1 +1,1 @@
-Claim(address indexed staker,uint256 amount)
+Claim(address indexed staker,uint256 amount);Claim(address staker,uint256 amount);Claim(address indexed user,uint256 indexed pid)

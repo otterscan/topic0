@@ -1,1 +1,1 @@
-Buy(address buyer,uint256 amount)
+Buy(address buyer,uint256 amount);Buy(address indexed user,uint256 tokenId)

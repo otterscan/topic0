@@ -1,1 +1,1 @@
-Claimed(address indexed user,uint256 indexed pid,uint256 amount)
+Claimed(address indexed user,uint256 indexed pid,uint256 amount);Claimed(address indexed to,uint256 value,uint256 progress)

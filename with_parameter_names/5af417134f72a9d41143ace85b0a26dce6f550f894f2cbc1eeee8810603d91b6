@@ -1,1 +1,1 @@
-Stake(address a,uint256 amount,uint256 unlocktime)
+Stake(address a,uint256 amount,uint256 unlocktime);Stake(address indexed owner,uint256 amount,uint256 fee);Stake(address indexed user,uint256 indexed pool,uint256 indexed amount);Stake(address indexed user,uint256 indexed pid,uint256 amount)

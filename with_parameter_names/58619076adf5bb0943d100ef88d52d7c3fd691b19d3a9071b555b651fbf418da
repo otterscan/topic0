@@ -1,1 +1,1 @@
-OwnerRemoved(address indexed account)
+OwnerRemoved(address indexed account);OwnerRemoved(address owner)

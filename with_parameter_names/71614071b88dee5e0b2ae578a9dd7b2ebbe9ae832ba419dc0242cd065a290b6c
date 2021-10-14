@@ -1,1 +1,1 @@
-NewAdmin(address indexed newAdmin)
+NewAdmin(address indexed newAdmin);NewAdmin(address admin)

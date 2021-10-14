@@ -1,1 +1,1 @@
-onPurchase(address walletAddress,address contractAddress,uint256 incomingTokenAmount,uint256 collateralMinted,address referredBy)
+onPurchase(address walletAddress,address contractAddress,uint256 incomingTokenAmount,uint256 collateralMinted,address referredBy);onPurchase(address indexed walletAddress,address indexed contractAddress,uint256 incomingTokenAmount,uint256 collateralMinted,address indexed referredBy)

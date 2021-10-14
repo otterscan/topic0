@@ -1,1 +1,1 @@
-AuctionCancelled(uint256 tokenId)
+AuctionCancelled(uint256 tokenId);AuctionCancelled(uint256 indexed tokenId)

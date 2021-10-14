@@ -1,1 +1,1 @@
-Approval(address indexed owner,address indexed spender,uint256 value)
+Approval(address indexed owner,address indexed spender,uint256 value);Approval(address indexed owner,address indexed approved,uint256 indexed tokenId);Approval(address src,address ext,uint256 amt)

@@ -1,1 +1,1 @@
-Swapped(address srcToken,address dstToken,uint256 amountIn,uint256 returnAmount)
+Swapped(address srcToken,address dstToken,uint256 amountIn,uint256 returnAmount);Swapped(address indexed fromAsset,address indexed toAsset,uint256 fromAmount,uint256 receivedAmount)

@@ -1,1 +1,1 @@
-Unlocked(address owner,uint256 amount)
+Unlocked(address owner,uint256 amount);Unlocked(address indexed user,uint256 amount)

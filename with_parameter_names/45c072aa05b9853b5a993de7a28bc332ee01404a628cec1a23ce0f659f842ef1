@@ -1,1 +1,1 @@
-Claim(address indexed user,uint256 indexed pid,uint256 boogieAmount,uint256 uniAmount)
+Claim(address indexed user,uint256 indexed pid,uint256 boogieAmount,uint256 uniAmount);Claim(address indexed user,uint256 currency,uint256 amount,uint256 nonce);Claim(address holder,uint256 claimed,uint256 transferred,uint256 burned)

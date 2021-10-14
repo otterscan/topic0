@@ -1,1 +1,1 @@
-Swap(address indexed account,uint256 amount)
+Swap(address indexed account,uint256 amount);Swap(address account,uint256 value)

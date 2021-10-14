@@ -1,1 +1,1 @@
-ModifyParameters(bytes32 parameter,address addr)
+ModifyParameters(bytes32 parameter,address addr);ModifyParameters(bytes32 indexed parameter,address data)

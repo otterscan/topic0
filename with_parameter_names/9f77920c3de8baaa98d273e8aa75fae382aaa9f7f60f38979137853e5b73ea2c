@@ -1,1 +1,1 @@
-Revoke(address user)
+Revoke(address user);Revoke(address indexed account)

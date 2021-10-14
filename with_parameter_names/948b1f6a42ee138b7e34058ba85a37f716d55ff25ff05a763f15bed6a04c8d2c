@@ -1,1 +1,1 @@
-NewDelay(uint256 indexed newDelay)
+NewDelay(uint256 indexed newDelay);NewDelay(uint256 delay)

@@ -1,1 +1,1 @@
-Invest(address indexed vault,uint256 amount)
+Invest(address indexed vault,uint256 amount);Invest(address _user,uint256 _value)

@@ -1,1 +1,1 @@
-AmendMarketTerms(uint256 index,string terms)
+AmendMarketTerms(uint256 index,string terms);AmendMarketTerms(uint256 indexed index,string terms)

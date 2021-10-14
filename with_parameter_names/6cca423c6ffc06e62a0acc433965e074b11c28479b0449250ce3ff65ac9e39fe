@@ -1,1 +1,1 @@
-Withdrawed(address indexed user,uint256 amount)
+Withdrawed(address indexed user,uint256 amount);Withdrawed(address _address,uint256 _amount)

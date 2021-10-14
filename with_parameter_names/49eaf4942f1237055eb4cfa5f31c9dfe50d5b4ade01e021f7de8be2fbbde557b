@@ -1,1 +1,1 @@
-Lock(address indexed from,uint256 amount,uint256 due)
+Lock(address indexed from,uint256 amount,uint256 due);Lock(address locker,uint256 lockAmount,uint256 duration)

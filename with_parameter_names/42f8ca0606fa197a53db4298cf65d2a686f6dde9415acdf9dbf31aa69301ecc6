@@ -1,1 +1,1 @@
-SetAcoTokenImplementation(address indexed previousAcoTokenImplementation,address indexed newAcoTokenImplementation)
+SetAcoTokenImplementation(address indexed previousAcoTokenImplementation,address indexed newAcoTokenImplementation);SetAcoTokenImplementation(address previousAcoTokenImplementation,address newAcoTokenImplementation)

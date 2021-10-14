@@ -1,1 +1,1 @@
-Transfer(address indexed from,address indexed to,uint256 value,bytes indexed data)
+Transfer(address indexed from,address indexed to,uint256 value,bytes indexed data);Transfer(address indexed from,address indexed to,uint256 value,bytes data)

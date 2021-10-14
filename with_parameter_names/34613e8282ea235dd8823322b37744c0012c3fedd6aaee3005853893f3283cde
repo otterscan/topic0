@@ -1,1 +1,1 @@
-SetAcoFeeDestination(address indexed previousAcoFeeDestination,address indexed newAcoFeeDestination)
+SetAcoFeeDestination(address indexed previousAcoFeeDestination,address indexed newAcoFeeDestination);SetAcoFeeDestination(address previousAcoFeeDestination,address newAcoFeeDestination)

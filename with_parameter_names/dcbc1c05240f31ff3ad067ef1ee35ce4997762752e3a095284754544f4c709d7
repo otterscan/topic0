@@ -1,1 +1,1 @@
-Deposit(address token,address user,uint256 amount,uint256 balance)
+Deposit(address token,address user,uint256 amount,uint256 balance);Deposit(address indexed from,address indexed refer,uint256 value,uint256 time);Deposit(address indexed _ckToken,address _to,uint256 _amount,uint256 _round)

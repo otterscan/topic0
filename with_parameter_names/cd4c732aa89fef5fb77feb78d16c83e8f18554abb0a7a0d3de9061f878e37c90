@@ -1,1 +1,1 @@
-onSell(address walletAddress,address contractAddress,uint256 tokenAmountToReceiver,uint256 collateralBurned)
+onSell(address walletAddress,address contractAddress,uint256 tokenAmountToReceiver,uint256 collateralBurned);onSell(address indexed walletAddress,address indexed contractAddress,uint256 tokenAmountToReceiver,uint256 collateralBurned)

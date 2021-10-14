@@ -1,1 +1,1 @@
-Sold(address buyer,uint256 amount)
+Sold(address buyer,uint256 amount);Sold(address indexed buyer,uint256 amount)

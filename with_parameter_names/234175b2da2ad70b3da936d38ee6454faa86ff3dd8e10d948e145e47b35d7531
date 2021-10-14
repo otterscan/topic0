@@ -1,1 +1,1 @@
-AssignClientOracle(address indexed clientOracle,uint256 registration)
+AssignClientOracle(address indexed clientOracle,uint256 registration);AssignClientOracle(address indexed clientOracle,uint256 indexed registration)
