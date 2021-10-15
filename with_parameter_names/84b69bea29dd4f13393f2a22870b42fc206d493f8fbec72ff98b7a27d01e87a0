@@ -1,0 +1,1 @@
+LogWithdrawn(uint64 indexed idProposal,address indexed withdrawer,uint256 fund,uint256 fee)

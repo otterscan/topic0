@@ -1,1 +1,1 @@
-Burned(uint256 amount)
+Burned(uint256 amount);Burned(uint256 indexed amount)

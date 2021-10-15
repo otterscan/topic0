@@ -1,0 +1,1 @@
+PresaleBuy(address _user,uint256 _ticketId,uint256 _amount)

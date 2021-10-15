@@ -1,0 +1,1 @@
+LogicCallEvent(bytes32 _invalidationId,uint256 _invalidationNonce,bytes _returnData,uint256 _eventNonce)

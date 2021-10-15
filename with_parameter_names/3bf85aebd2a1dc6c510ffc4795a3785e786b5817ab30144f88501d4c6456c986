@@ -1,0 +1,1 @@
+SequencerBatchDelivered(uint256 indexed firstMessageNum,bytes32 indexed beforeAcc,uint256 newMessageCount,bytes32 afterAcc,bytes transactions,uint256[] lengths,uint256[] sectionsMetadata,uint256 seqBatchIndex,address sequencer)

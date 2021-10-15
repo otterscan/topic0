@@ -1,0 +1,1 @@
+LogUpdatePool(uint256 indexed pid,uint256 lastRewardTime,uint256 lpSupply,uint256 accRewardTokenPerShare)

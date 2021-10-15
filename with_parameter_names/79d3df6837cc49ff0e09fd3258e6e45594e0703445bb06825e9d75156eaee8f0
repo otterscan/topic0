@@ -1,1 +1,1 @@
-UnStaked(address claimer,uint256 stakedTokens)
+UnStaked(address claimer,uint256 stakedTokens);UnStaked(address indexed user,uint256 totalAmount)

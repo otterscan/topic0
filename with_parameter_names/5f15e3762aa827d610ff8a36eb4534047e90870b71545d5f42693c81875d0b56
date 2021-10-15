@@ -1,0 +1,1 @@
+SetBlindBoxSale(uint256 _saleID,address _blindBoxSaleSetter,uint256 _nftTotal,uint256 _remainNftTotal,address _payTokenAddress,uint256 _price,address _receiver,uint256 _purchaseLimitation,uint256 _startTime,uint256 _endTime)

@@ -1,0 +1,1 @@
+SequencerBatchDeliveredFromOrigin(uint256 indexed firstMessageNum,bytes32 indexed beforeAcc,uint256 newMessageCount,bytes32 afterAcc,uint256 seqBatchIndex)

@@ -1,0 +1,1 @@
+LCDMint(address indexed _project,address indexed _minter,uint256 _tokenId,bool _mintWithLoot)

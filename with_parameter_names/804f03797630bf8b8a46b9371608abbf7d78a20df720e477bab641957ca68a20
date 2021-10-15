@@ -1,0 +1,1 @@
+SubmitVote(uint256 proposalId,uint256 indexed proposalIndex,address indexed delegateKey,address indexed memberAddress,uint8 uintVote)

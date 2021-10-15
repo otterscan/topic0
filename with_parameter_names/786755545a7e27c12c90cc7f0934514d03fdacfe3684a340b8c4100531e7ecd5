@@ -1,0 +1,1 @@
+SubmitVote(address indexed member,uint256 balance,uint256 indexed proposal,bool indexed approved)

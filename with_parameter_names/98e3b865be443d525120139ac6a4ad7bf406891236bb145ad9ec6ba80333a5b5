@@ -1,0 +1,1 @@
+TicketMinted(uint256 ticketId,uint256 assetId,uint256 typeId)

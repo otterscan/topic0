@@ -1,0 +1,1 @@
+AuctionSettled(uint256 indexed auctionId,uint256 indexed tokenId,address winner,uint256 amount)

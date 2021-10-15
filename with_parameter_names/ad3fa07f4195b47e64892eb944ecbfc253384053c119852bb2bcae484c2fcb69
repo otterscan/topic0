@@ -1,0 +1,1 @@
+Staked(address indexed account,address indexed rewardToken,uint256 nftId,uint256 amount,uint256 lockDays)

@@ -1,0 +1,1 @@
+Harvest(address indexed staker,address indexed rewardToken,uint256 nftId,uint256 amount)

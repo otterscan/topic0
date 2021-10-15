@@ -1,0 +1,1 @@
+SubmitProposal(address indexed applicant,uint256 sharesRequested,uint256 lootRequested,uint256 tributeOffered,address tributeToken,uint256 paymentRequested,address paymentToken,string details,bool[6] flags,uint256 proposalId,address indexed delegateKey,address indexed memberAddress)

@@ -1,0 +1,1 @@
+Voted(address voter,uint256 proposalId,uint256 weight,bool direction)

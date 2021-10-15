@@ -1,1 +1,1 @@
-Blacklist(address indexed )
+Blacklist(address indexed blackListed)

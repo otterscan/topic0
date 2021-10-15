@@ -1,0 +1,1 @@
+DestroyPortal(address from,uint256 portalTokenId)

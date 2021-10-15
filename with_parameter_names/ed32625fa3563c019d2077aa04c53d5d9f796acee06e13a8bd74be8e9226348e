@@ -1,0 +1,1 @@
+SummonComplete(bool lootPaused,bool sharesPaused,uint256 gracePeriod,uint256 minVotingPeriod,uint256 maxVotingPeriod,string name,string symbol,address[] guildTokens,address[] shamans,address[] summoners,uint96[] loot,uint96[] shares)

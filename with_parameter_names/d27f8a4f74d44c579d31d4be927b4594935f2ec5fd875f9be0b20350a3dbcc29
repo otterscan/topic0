@@ -1,1 +1,1 @@
-Action(address sender,uint256 amount)
+Action(address user,uint256 amount)

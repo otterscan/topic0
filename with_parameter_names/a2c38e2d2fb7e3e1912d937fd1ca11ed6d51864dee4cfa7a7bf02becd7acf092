@@ -1,0 +1,1 @@
+Claim(address indexed account,uint256 amount,bool indexed automatic)

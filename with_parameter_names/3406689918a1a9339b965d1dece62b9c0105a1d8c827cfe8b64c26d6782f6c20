@@ -1,0 +1,1 @@
+LogTargetPriceUpdated(uint256 indexed performUpkeepCycle,uint256 timestampSec,int256 averageMovement,uint256 oldReferenceRate,uint256 newReferenceRate)

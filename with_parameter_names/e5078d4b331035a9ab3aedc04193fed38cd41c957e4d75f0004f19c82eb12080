@@ -1,0 +1,1 @@
+ProjectRegister(address indexed _project,uint256 _lootPrice,uint256 _nonLootPrice,uint256 _nonLootMintCap,uint256 _curatorMintCap,uint256 _timestamp,bool _isCustomProject)

@@ -1,0 +1,1 @@
+UpdateBlindBoxSale(uint256 _saleID,address _operator,uint256 _nftTotal,uint256 _remainNftTotal,address _newPayTokenAddress,uint256 _newPrice,address _newReceiver,uint256 _newPurchaseLimitation,uint256 _newStartTime,uint256 _newEndTime)

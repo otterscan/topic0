@@ -1,0 +1,1 @@
+BidFinalized(uint256 indexed tokenId,tuple bid)

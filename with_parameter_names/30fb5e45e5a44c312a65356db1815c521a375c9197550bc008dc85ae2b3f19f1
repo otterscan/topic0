@@ -1,0 +1,1 @@
+WhiteListUpdateEvent(address _token,bool _value)

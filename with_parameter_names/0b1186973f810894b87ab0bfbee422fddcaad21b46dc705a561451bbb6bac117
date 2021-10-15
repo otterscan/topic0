@@ -1,1 +1,1 @@
-TokenUpdated(address indexed oldToken,address indexed newToken)
+TokenUpdated(address oldToken,address newToken);TokenUpdated(address indexed oldToken,address indexed newToken)

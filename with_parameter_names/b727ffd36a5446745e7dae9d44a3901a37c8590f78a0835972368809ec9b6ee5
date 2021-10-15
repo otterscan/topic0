@@ -1,0 +1,1 @@
+PlacedBets(address indexed ,string indexed ,string[] indexed ,string ,string[] )

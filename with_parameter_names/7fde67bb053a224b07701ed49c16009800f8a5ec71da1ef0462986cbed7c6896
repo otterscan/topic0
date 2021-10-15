@@ -1,0 +1,1 @@
+Purchase(uint256 _saleID,address _buyer,uint256 _remainNftTotal,address _payTokenAddress,uint256 _totalPayment,bytes32 _reqId)

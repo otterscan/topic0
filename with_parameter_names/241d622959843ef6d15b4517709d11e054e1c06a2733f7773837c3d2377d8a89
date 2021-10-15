@@ -1,0 +1,1 @@
+AssetRemoved(address fundAddress,address manager,bytes32 assetKey)

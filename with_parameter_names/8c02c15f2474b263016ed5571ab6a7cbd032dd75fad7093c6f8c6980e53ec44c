@@ -1,0 +1,1 @@
+TakeContent(uint256 cellIndex,address indexed contractAddress,uint256 tokenId,uint256 sealValue,address indexed sealOwner,address indexed takenBy)

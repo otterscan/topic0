@@ -1,0 +1,1 @@
+FullExitCommit(uint32 indexed zkTubeBlockId,uint32 indexed accountId,address owner,uint16 indexed tokenId,uint128 amount)

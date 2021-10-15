@@ -1,8 +1,12 @@
 #!/bin/bash
 set -e
 
-SOURCIFY_BACKUP_HASH="QmWV29hqZfEhJSmT9FNPreS1d4bh2iaGpfN2Wz6EbHL1U9"
+SOURCIFY_IPNS_ROOT="k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p"
 
-ipfs get $SOURCIFY_BACKUP_HASH -o sourcify-backup.tar.bz2
-mkdir -p sourcify-snapshot
-tar xf sourcify-backup.tar.bz2 -C sourcify-snapshot
+echo "Removing previous snapshot..."
+rm -fr sourcify-snapshot && mkdir -p sourcify-snapshot
+
+echo "Getting Sourcify repo from ipfs..."
+ipfs get "/ipns/$SOURCIFY_IPNS_ROOT" -o sourcify-snapshot.tar -a
+tar xf sourcify-snapshot.tar -C sourcify-snapshot
+mv "sourcify-snapshot/$SOURCIFY_IPNS_ROOT" sourcify-snapshot/repo

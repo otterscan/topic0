@@ -1,0 +1,1 @@
+AddFractionalizer(bytes32 indexed _type,address indexed _fractionalizer)

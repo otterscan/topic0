@@ -1,0 +1,1 @@
+ManagerFeeMinted(address pool,address manager,uint256 available,uint256 daoFee,uint256 managerFee,uint256 tokenPriceAtLastFeeMint)

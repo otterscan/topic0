@@ -1,0 +1,1 @@
+SummonComplete(address indexed summoner,address[] tokens,uint256 summoningTime,uint256 periodDuration,uint256 votingPeriodLength,uint256 gracePeriodLength,uint256 proposalDeposit,uint256 dilutionBound,uint256 processingReward)

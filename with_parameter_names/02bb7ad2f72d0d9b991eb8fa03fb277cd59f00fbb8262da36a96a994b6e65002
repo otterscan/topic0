@@ -1,0 +1,1 @@
+Royalty(uint256 tokenId,address indexed royalty,uint256 royaltyRate)
