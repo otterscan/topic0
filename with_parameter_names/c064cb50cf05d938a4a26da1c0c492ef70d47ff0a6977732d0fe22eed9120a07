@@ -1,0 +1,1 @@
+LogProposal(uint64 indexed idProposal,address indexed user,uint256 amount,uint64 timeLimit,address voucher)

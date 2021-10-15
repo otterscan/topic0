@@ -1,0 +1,1 @@
+Ragequit(address indexed member,address to,uint96 indexed lootToBurn,uint96 indexed sharesToBurn)

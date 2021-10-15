@@ -1,0 +1,1 @@
+LOG_SMARTSWAP(address indexed caller,address indexed tokenIn,address indexed tokenOut,uint256 tokenAmountIn,uint256 tokenAmountOut)

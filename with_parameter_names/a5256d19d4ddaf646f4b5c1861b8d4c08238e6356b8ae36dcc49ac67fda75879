@@ -1,0 +1,1 @@
+RollupChallengeStarted(address indexed challengeContract,address asserter,address challenger,uint256 challengedNode)

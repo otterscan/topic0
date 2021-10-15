@@ -1,0 +1,1 @@
+FeeRateChanged(address indexed manager,address indexed assetAddress,uint256 prevRate,uint256 currRate)

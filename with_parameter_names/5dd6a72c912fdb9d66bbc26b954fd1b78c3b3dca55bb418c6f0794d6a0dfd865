@@ -1,0 +1,1 @@
+Deposit(bool bento,bool nft,address indexed depositor,address indexed receiver,address resolver,address token,uint256 value,uint256 indexed registration,string details)

@@ -1,1 +1,1 @@
-AutoLiquify(uint256 amountETH,uint256 amountBOG)
+AutoLiquify(uint256 amountETH,uint256 amountToken)

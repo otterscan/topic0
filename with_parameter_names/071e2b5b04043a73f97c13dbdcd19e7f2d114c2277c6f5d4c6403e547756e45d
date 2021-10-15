@@ -1,0 +1,1 @@
+AttributeChanged(uint256 indexed _tokenId,string _key,string _value)

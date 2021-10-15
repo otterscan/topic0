@@ -1,0 +1,1 @@
+RegisterResolver(address indexed resolver,bool indexed active,uint256 indexed fee)

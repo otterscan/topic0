@@ -1,1 +1,1 @@
-SetWhitelist(address indexed user,bool state);SetWhitelist(address _member,bool _isAdded)
+SetWhitelist(address _member,bool _isAdded);SetWhitelist(address indexed user,bool state)

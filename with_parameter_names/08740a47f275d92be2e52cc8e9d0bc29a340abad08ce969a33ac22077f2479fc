@@ -1,0 +1,1 @@
+AuctionBidded(uint256 tokenId,uint256 newPrice,address bidder)

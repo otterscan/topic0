@@ -1,0 +1,1 @@
+VestingDeployed(address indexed vestingAddress,address indexed beneficiary,uint256 start,uint256 cliffDuration,uint256 duration,bool revocable)

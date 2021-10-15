@@ -1,0 +1,1 @@
+StylePriceChanged(uint256 _styleId,uint256 _price)

@@ -1,0 +1,1 @@
+AuctionCreated(uint256 tokenId,uint256 startingPrice,uint256 startingTimestamp,uint256 endingTimestamp,uint256 minBidIncrement,uint256 minLastBidDuration,address seller)

@@ -1,0 +1,1 @@
+BurnToken(address from_,uint256 amountIn,uint256 amountOut,uint256 convertType,address[] toPath,address toRouterAddr,uint256 slippage,bool isInsurance,bytes extra)

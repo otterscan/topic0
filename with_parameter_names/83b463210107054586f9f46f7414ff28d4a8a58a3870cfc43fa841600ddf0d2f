@@ -1,0 +1,1 @@
+AskCreated(address indexed owner,uint256 indexed price,uint16 indexed index)

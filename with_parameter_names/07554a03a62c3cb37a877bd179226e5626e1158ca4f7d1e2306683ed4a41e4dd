@@ -1,1 +1,1 @@
-Mint(uint256 indexed _tokenId,string _tokenURI)
+Mint(uint256 indexed _tokenId,string _tokenURI);Mint(uint256 _tokenId,string _tokenURI)

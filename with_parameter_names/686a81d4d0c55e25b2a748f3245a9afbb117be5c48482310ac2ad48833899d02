@@ -1,0 +1,1 @@
+PaymentWhitelistChange(address erc20Addr,bool jurisdiction)

@@ -1,1 +1,1 @@
-Deposit(address indexed user,uint256 indexed pool,address indexed referral,uint256 amount)
+Deposit(address indexed user,uint256 amount,address token,uint256 time);Deposit(address indexed user,uint256 indexed pool,address indexed referral,uint256 amount)

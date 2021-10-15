@@ -1,0 +1,1 @@
+AddRewards(address indexed rewardToken,uint256 amount)

@@ -1,0 +1,1 @@
+RemoveAuthorized(address indexed _address,uint256 index)

@@ -1,0 +1,1 @@
+TokenMetadataURIUpdated(uint256 indexed _tokenId,address owner,string _uri)

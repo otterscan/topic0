@@ -1,0 +1,1 @@
+SaleConfigChanged(uint32 userMaxCount,uint32 unlockedMaxCount,bool enabled)

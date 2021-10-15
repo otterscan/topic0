@@ -1,0 +1,1 @@
+BoughtOne(address indexed buyer,uint256 merchId)

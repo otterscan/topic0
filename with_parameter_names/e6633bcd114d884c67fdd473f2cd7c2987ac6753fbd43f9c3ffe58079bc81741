@@ -1,0 +1,1 @@
+MintEvent(string tokenURI,address indexed creator,address indexed nftToken,uint256 ercType,uint256 tokenAmout,uint256 royalty)

@@ -1,0 +1,1 @@
+Resolve(uint256 indexed registration,uint256 indexed depositorAward,uint256 indexed receiverAward,string details)

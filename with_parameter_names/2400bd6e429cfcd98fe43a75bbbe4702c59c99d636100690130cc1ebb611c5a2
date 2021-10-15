@@ -1,0 +1,1 @@
+NodeConfirmed(uint256 indexed nodeNum,bytes32 afterSendAcc,uint256 afterSendCount,bytes32 afterLogAcc,uint256 afterLogCount)

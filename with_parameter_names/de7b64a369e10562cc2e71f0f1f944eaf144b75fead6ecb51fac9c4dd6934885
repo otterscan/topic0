@@ -1,0 +1,1 @@
+UpdateDelegateKey(address indexed memberAddress,address newDelegateKey)

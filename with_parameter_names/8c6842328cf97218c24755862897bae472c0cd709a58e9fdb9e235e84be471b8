@@ -1,0 +1,1 @@
+ChangedUpdater(address indexed previousUpdater,address indexed newUpdater)

@@ -1,0 +1,1 @@
+AuctionExtended(uint256 indexed auctionId,uint256 indexed tokenId,uint256 endTime)

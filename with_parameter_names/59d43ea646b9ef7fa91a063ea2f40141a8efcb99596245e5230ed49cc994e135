@@ -1,0 +1,1 @@
+eSetRuleData(uint256 ruleId,uint256 minMintAmount,uint256 maxMintAmount,uint256 costErc20Amount,address mintErc20,address costErc20,bool canMintMaxGrade,bool canMintMaxTLevel,uint256 minBurnTime)

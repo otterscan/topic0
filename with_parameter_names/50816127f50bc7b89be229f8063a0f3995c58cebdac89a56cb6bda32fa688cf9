@@ -1,0 +1,1 @@
+SubmitProposal(uint8 indexed flag,uint256 indexed proposal,uint256 indexed votingPeriod,address[] to,uint96[] value,bytes[] data,string details)

@@ -1,1 +1,1 @@
-AuctionCreated(uint256 tokenId,uint256 startingPrice,uint256 endingPrice,uint256 duration)
+AuctionCreated(uint256 tokenId,uint256 startingPrice,uint256 endingPrice,uint256 duration);AuctionCreated(uint256 indexed auctionId,uint256 indexed tokenId,uint256 startTime,uint256 endTime)

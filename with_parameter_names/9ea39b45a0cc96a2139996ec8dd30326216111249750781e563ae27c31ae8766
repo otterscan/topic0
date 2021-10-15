@@ -1,0 +1,1 @@
+FactAuth(address indexed sender,uint32 nonce,bytes fact)

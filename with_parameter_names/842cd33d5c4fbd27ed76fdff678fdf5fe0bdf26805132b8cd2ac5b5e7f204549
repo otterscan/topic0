@@ -1,0 +1,1 @@
+SetPrice(address msgSender,address collection,uint256 tokenId,uint256 price)

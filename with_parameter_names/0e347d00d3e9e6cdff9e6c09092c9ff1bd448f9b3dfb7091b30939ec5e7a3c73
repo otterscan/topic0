@@ -1,0 +1,1 @@
+ProcessGuildKickProposal(uint256 indexed proposalIndex,uint256 indexed proposalId,bool didPass)

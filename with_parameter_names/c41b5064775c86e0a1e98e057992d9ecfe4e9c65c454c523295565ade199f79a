@@ -1,1 +1,1 @@
-MaxTxPercentUpdated(uint256 _maxTxPercent)
+MaxTxPercentUpdated(uint256 maxTxPercent)

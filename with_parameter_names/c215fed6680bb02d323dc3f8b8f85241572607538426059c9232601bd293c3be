@@ -1,0 +1,1 @@
+CancelProposal(uint256 indexed proposalId,address applicantAddress)

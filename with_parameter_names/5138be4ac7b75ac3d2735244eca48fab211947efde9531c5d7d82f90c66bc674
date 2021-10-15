@@ -1,0 +1,1 @@
+Failsafe(address indexed user,uint256 amount,address token,uint256 time)

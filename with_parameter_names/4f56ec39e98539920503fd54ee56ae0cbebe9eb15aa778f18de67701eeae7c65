@@ -1,1 +1,1 @@
-TokenMintAndSwap(address indexed to,address token,uint256 amount,uint256 fee,uint8 tokenIndexFrom,uint8 tokenIndexTo,uint256 minDy,uint256 deadline,bool swapSuccess,bytes32 kappa)
+TokenMintAndSwap(address indexed to,address token,uint256 amount,uint256 fee,uint8 tokenIndexFrom,uint8 tokenIndexTo,uint256 minDy,uint256 deadline,bool swapSuccess,bytes32 kappa);TokenMintAndSwap(address indexed to,address token,uint256 amount,uint256 fee,uint8 tokenIndexFrom,uint8 tokenIndexTo,uint256 minDy,uint256 deadline,bool swapSuccess,bytes32 indexed kappa)

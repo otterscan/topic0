@@ -1,1 +1,1 @@
-Refunded(address indexed from,uint256 value)
+Refunded(address indexed customer,uint256 weiAmount)

@@ -1,0 +1,1 @@
+Deployed(address addr,string proxyName,string implName,bytes32 salt)

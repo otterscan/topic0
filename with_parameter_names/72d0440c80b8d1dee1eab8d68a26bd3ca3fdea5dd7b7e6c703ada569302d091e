@@ -1,0 +1,1 @@
+BlockplotsGlobalBought(uint256 indexed index,uint256 amount,uint256 globalbidid,address seller,address bidder)

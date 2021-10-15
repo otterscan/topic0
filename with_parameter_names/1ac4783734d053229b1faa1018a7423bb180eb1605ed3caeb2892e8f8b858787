@@ -1,0 +1,1 @@
+TransferLoot(address indexed from,address indexed to,uint96 amount)

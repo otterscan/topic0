@@ -1,0 +1,1 @@
+RemoveNftToken(address nftContract,uint256 tokenId,uint256 amount)

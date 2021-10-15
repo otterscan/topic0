@@ -1,0 +1,1 @@
+Burn(address indexed burner,uint256 value,bytes addr)

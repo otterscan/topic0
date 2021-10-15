@@ -1,1 +1,1 @@
-GrantTokensClaimed(address indexed recipient,uint256 indexed amount)
+GrantTokensClaimed(address indexed recipient,uint256 indexed amountClaimed)

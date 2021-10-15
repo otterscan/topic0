@@ -1,0 +1,1 @@
+BidAccepted(address indexed _nft,uint256 indexed _tokenId,uint256 _amount,uint256 _index,address _bidder,address indexed _seller,uint256 _price)

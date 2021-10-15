@@ -1,0 +1,1 @@
+TokenBurnt(address burner,uint256 tokenId,uint256 burnId)

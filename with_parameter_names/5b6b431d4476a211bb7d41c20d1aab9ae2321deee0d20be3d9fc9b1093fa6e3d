@@ -1,1 +1,1 @@
-Withdraw(uint256 amount);Withdraw(uint256 indexed transactionId)
+Withdraw(uint256 amount);Withdraw(uint256 indexed registration)

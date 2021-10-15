@@ -1,0 +1,1 @@
+AuctionSale(tuple auctionOrder,tuple offerOrder,uint256 platformFeesValue,uint256 storeFeesValue,uint256 royaltyFees)
