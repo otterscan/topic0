@@ -1,1 +1,1 @@
-ExcludeFromReward(address indexed account)
+ExcludeFromReward(address excludedAddress);ExcludeFromReward(address indexed account)

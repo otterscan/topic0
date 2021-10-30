@@ -1,0 +1,1 @@
+botBanned(address botAddress,bool isBanned)

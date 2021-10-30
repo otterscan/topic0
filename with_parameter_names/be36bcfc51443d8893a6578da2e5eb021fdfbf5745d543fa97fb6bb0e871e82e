@@ -1,0 +1,1 @@
+MintRewardClaimed(address indexed claimer,uint256 indexed amount)

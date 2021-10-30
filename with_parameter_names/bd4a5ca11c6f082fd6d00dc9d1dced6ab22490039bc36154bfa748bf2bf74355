@@ -1,0 +1,1 @@
+NewAccount(bytes32 commitment,bytes32 nullifier,bytes encryptedAccount,uint256 index)

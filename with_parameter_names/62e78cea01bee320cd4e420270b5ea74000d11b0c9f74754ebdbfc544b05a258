@@ -1,1 +1,1 @@
-Paused(address account)
+Paused(address account);Paused(address indexed account)

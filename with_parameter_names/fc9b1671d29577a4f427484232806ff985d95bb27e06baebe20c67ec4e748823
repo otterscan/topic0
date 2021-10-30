@@ -1,0 +1,1 @@
+UpdatedRoyalty(uint256 indexed tokenId,address recipient,uint256 bps)

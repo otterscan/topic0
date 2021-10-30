@@ -1,1 +1,1 @@
-Withdraw(address indexed account,uint256 amount);Withdraw(address user,uint256 amount);Withdraw(address indexed _reciever,uint256 indexed _amount)
+Withdraw(address indexed user,uint256 amount);Withdraw(address user,uint256 amount);Withdraw(address indexed _reciever,uint256 indexed _amount)

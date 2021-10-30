@@ -1,0 +1,1 @@
+ChangeGateway(address gateway,bool active)

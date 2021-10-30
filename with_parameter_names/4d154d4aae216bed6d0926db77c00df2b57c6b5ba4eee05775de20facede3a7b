@@ -1,1 +1,1 @@
-Contribution(address from,uint256 amount)
+Contribution(address indexed contributor,uint256 contribution);Contribution(address from,uint256 amount)

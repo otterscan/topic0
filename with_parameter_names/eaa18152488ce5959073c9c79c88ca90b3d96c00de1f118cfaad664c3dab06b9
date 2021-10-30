@@ -1,1 +1,1 @@
-Deposit(uint256 indexed _index,address indexed _to,uint256 _amount)
+Deposit(uint256 poolIdx,address indexed user,uint256 amount);Deposit(uint256 indexed _index,address indexed _to,uint256 _amount)

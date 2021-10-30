@@ -1,1 +1,1 @@
-MinterRemoved(address indexed account)
+MinterRemoved(address indexed account);MinterRemoved(address minter)

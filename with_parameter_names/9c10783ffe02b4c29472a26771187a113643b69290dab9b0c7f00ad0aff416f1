@@ -1,0 +1,1 @@
+SetMinimumBridgingDelay(uint256 indexed chainId,uint64 newMinimumBridgingDelay)

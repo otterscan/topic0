@@ -1,0 +1,1 @@
+Kicked(bytes32 indexed _ilk,address indexed _by,uint256 _art)

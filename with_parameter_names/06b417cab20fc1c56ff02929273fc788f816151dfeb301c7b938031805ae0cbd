@@ -1,0 +1,1 @@
+BUY_KITTEN(uint256 indexed id,address indexed origOwner,address indexed newOwner,uint256 tradeType,uint256 tradeAmt)

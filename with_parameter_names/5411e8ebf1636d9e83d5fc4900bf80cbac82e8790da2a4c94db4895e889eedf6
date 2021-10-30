@@ -1,1 +1,1 @@
-BaseURIChanged(string _baseURI)
+BaseURIChanged(string baseURI)

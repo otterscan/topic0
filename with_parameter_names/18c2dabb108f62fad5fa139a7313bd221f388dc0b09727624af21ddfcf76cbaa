@@ -1,0 +1,1 @@
+SetOptimisticOracleLiveness(uint32 indexed liveness)

@@ -1,0 +1,1 @@
+RateChanged(address indexed admin,uint8 rank,uint256 oldRate,uint256 newRate)

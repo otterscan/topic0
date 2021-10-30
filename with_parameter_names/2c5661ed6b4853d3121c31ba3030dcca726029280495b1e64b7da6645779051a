@@ -1,0 +1,1 @@
+StakeEvent(uint256 indexed pid,address indexed user,uint256 beginTime)

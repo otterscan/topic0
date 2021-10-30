@@ -1,0 +1,1 @@
+playerAddedToDatabase(address playerAddress,bool isAdded)

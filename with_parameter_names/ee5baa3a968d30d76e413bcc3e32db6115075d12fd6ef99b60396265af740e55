@@ -1,0 +1,1 @@
+UpdatePoolStatusEvent(uint256 indexed pid,bool closed)

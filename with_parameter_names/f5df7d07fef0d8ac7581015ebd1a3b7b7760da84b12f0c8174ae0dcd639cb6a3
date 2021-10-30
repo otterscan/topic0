@@ -1,1 +1,1 @@
-PresaleMint(address minter,uint256 count)
+PresaleMint(address minter,uint256 amountOfNfts)

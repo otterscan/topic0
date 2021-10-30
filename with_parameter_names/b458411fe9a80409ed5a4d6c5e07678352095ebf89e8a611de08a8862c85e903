@@ -1,0 +1,1 @@
+Minted(uint256 indexed sha256_of_the_nft_data,address indexed minter,uint256 preminted_at,uint256 indexed fixed_info_1,uint256 fixed_info_2)

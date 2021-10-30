@@ -1,0 +1,1 @@
+BuyOfferMade(uint256 indexed sha256_of_the_nft_data,address indexed from,uint256 requested_amount,uint256 wei_offered,uint256 expires_at,uint256 indexed slot_number)

@@ -1,0 +1,1 @@
+MintBurnAdminChanged(address indexed _account,bool _result)

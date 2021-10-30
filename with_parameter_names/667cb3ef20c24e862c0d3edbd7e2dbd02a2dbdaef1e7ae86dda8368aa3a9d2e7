@@ -1,0 +1,1 @@
+NewAuctionERC20(address indexed seller,uint256 indexed tokenId,uint256 price)

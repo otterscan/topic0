@@ -1,0 +1,1 @@
+Transferred(uint256 indexed sha256_of_the_nft_data,address indexed from,address indexed to,uint256 amount)

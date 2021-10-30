@@ -1,0 +1,1 @@
+Buy(uint256 id,uint256 amount,uint256 price,address buyer)

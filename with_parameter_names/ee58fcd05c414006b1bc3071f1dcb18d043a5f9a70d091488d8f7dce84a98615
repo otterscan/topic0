@@ -1,0 +1,1 @@
+CreateAmountWithLock(address beneficiary,tuple beneficiaryInfo)

@@ -1,0 +1,1 @@
+MinimumDepositChanged(uint256 indexed minDeposit,address indexed actor)

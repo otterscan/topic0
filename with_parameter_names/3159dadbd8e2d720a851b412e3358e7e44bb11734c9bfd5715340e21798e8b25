@@ -1,0 +1,1 @@
+BlacklistedUser(address botAddress,bool indexed value)

@@ -1,1 +1,1 @@
-Buy(address indexed buyer,uint256 indexed usdtAmount,uint256 indexed sotaAmount)
+Buy(address indexed buyer,uint256 indexed usdtAmount,uint256 indexed sotaAmount);Buy(address buyer,uint256 amountEther,uint256 amountToken)

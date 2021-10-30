@@ -1,0 +1,1 @@
+ClearDelegate(address indexed delegator,address indexed delegate)

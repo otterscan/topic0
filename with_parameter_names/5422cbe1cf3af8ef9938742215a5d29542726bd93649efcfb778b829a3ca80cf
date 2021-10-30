@@ -1,0 +1,1 @@
+AddPoolEvent(address indexed tokenAddress,uint256 indexed stakeAmount,uint256 stakeTime,address indexed nftAddress,uint256 leftCount,uint256 startTime)

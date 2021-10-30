@@ -1,1 +1,1 @@
-Claimed(uint256 index,uint256 amount,address indexed account,uint256 indexed week);Claimed(uint256 airdropId,uint256 index,address account,uint256 amount)
+Claimed(uint256 airdropId,uint256 index,address account,uint256 amount);Claimed(uint256 index,uint256 amount,address indexed account,uint256 indexed week)

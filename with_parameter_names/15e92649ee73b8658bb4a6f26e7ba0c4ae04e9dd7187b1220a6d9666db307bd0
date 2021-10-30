@@ -1,0 +1,1 @@
+NewTicket(address from,uint256 lineId,uint256 ticketIndex)

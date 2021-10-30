@@ -1,0 +1,1 @@
+TransferNFTOwnership(address indexed _nftAddress,address indexed _newOwner)

@@ -1,0 +1,1 @@
+ProjectEvent(address indexed poster,string indexed eventType,string content)

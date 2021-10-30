@@ -1,0 +1,1 @@
+StakeUpgraded(address indexed staker,uint256 amount,uint256 totalStake)

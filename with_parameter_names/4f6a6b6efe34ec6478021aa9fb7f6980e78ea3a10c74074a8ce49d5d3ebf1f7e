@@ -1,1 +1,1 @@
-IncludeInFee(address indexed account)
+IncludeInFee(address includedAddress);IncludeInFee(address indexed account)

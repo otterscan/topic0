@@ -1,0 +1,1 @@
+RoboNFTMinted(address indexed _user,uint256 indexed _tokenId,string _tokenURI)

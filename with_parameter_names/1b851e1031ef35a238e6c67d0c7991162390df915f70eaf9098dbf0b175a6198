@@ -1,1 +1,1 @@
-LogDeposit(address indexed token,uint256 tokenAmt)
+LogDeposit(address indexed token,uint256 tokenAmt);LogDeposit(address sender,uint256 amount)
