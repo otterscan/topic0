@@ -1,0 +1,1 @@
+priceChanged(address indexed _account,uint256 _price)

@@ -1,1 +1,1 @@
-BridgePoolsAdminTransferred(address[] bridgePools,address newAdmin)
+BridgePoolsAdminTransferred(address[] bridgePools,address newAdmin);BridgePoolsAdminTransferred(address[] bridgePools,address indexed newAdmin)

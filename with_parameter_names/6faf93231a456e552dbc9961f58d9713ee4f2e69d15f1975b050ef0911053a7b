@@ -1,1 +1,1 @@
-TokensPurchased(address indexed purchaser,address indexed beneficiary,uint256 value,uint256 amount)
+TokensPurchased(address indexed purchaser,address indexed beneficiary,uint256 value,uint256 amount);TokensPurchased(address purchaser,address beneficiary,uint256 value,uint256 amount)

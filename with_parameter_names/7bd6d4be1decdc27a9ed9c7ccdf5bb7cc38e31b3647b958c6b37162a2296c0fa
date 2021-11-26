@@ -1,1 +1,1 @@
-Airdropped(address indexed _userAddress,uint256 _amount)
+Airdropped(address to,uint256 tokenId);Airdropped(address indexed _userAddress,uint256 _amount)

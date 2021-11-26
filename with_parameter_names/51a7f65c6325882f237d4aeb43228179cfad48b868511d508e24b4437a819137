@@ -1,1 +1,1 @@
-Message(string message)
+Message(string message);Message(string indexed message)

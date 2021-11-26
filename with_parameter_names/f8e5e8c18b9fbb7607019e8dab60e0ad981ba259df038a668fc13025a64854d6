@@ -1,0 +1,1 @@
+UpdateAllowTokens(address token,bool allow)

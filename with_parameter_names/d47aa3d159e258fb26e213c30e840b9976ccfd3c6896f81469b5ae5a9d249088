@@ -1,0 +1,1 @@
+NewSwap(address token,address user,address oracle,uint256 amount,uint256 fee,int256 chainIdFrom,int256 chainIdTo,bytes32 hash)

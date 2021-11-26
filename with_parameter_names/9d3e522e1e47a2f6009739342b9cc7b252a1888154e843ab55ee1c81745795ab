@@ -1,1 +1,1 @@
-GovernanceUpdated(address governance)
+GovernanceUpdated(address governance);GovernanceUpdated(address indexed newGovernanceAddress)

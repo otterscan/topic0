@@ -1,1 +1,1 @@
-LiquidityAdded(uint256 tokenAmount,uint256 bnbAmount)
+LiquidityAdded(uint256 tokenAmount,uint256 ETHAmount)

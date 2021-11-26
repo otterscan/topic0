@@ -1,0 +1,1 @@
+liquidityWalletUpdated(address indexed newWallet,address indexed oldWallet)

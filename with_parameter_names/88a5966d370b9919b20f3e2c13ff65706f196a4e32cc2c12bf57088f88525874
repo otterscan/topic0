@@ -1,1 +1,1 @@
-Received(address ,uint256 );Received(address indexed from,uint256 value)
+Received(address ,uint256 );Received(address indexed sender,uint256 amount)

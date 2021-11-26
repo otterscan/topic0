@@ -1,0 +1,1 @@
+CreateLOKNFT(address indexed minter,uint256 indexed id)

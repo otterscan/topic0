@@ -1,0 +1,1 @@
+TWAPOracleChanged(address indexed previousTWAPOracle,address indexed newTWAPOracle)

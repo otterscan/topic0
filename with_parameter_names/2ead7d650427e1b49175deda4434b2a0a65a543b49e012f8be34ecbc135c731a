@@ -1,0 +1,1 @@
+rewardPaid(address indexed user,uint256 reward)

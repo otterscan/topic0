@@ -1,1 +1,1 @@
-Mint(address indexed _creator,uint256 indexed tokenId,string ipfsHash)
+Mint(address indexed _user,uint256 indexed _tokenId,string _tokenURI)

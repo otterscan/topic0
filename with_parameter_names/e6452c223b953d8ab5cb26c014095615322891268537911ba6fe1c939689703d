@@ -1,0 +1,1 @@
+NodeOperatorTotalStoppedValidatorsReported(uint256 indexed id,uint64 totalStopped)

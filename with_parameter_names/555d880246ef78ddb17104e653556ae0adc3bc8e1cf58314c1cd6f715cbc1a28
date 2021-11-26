@@ -1,0 +1,1 @@
+SetFundPercents(uint256 farmPercentage,uint256 stakePercent,uint256 multisigPercent)

@@ -1,0 +1,1 @@
+StateBatchDeleted(uint256 indexed _batchIndex,bytes32 _batchRoot)

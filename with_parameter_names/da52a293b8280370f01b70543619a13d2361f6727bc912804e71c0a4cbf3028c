@@ -1,0 +1,1 @@
+BindIntroLogs(address user_address,address intro_address,uint256 time)

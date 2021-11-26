@@ -1,0 +1,1 @@
+TicketPriceChanged(uint8 priceType,uint256 price)

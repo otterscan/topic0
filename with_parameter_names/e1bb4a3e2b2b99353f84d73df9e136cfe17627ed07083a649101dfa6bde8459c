@@ -1,0 +1,1 @@
+operationsWalletUpdated(address indexed newWallet,address indexed oldWallet)

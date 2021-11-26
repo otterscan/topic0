@@ -1,1 +1,1 @@
-Locked(address account);Locked(address indexed account)
+Locked(address indexed account);Locked(address account)

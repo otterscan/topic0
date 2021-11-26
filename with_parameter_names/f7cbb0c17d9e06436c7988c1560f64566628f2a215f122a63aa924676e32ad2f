@@ -1,0 +1,1 @@
+NewEthogen(uint256 indexed ethogenID,uint16 dtypeID,uint8 rarity)

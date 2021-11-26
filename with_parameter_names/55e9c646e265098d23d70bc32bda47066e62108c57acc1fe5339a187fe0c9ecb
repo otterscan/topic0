@@ -1,0 +1,1 @@
+Deposited(string tokendID,uint256 tokenID,string indexed asset_code)

@@ -1,0 +1,1 @@
+GiftReward(address indexed rewardRecipient,address indexed giftRecipient,uint256 indexed amount)

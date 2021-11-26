@@ -1,0 +1,1 @@
+ClaimRewardToDesiredWallet(address indexed rewardRecipient,address indexed desiredWallet)

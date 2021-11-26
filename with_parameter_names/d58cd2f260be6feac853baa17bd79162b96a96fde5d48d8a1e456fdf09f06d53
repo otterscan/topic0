@@ -1,0 +1,1 @@
+Voted(address indexed voter,uint256 indexed proposalId,uint256 indexed voteId,bool supporting,uint256 power)

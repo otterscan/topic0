@@ -1,1 +1,1 @@
-Sold(uint256 indexed _listingId);Sold(uint256 amount)
+Sold(uint256 amount);Sold(uint256 indexed _listingId)

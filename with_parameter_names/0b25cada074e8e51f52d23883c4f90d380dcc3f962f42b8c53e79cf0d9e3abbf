@@ -1,1 +1,1 @@
-AddInvestor(address indexed investor,uint256 rewardAmount)
+AddInvestor(address indexed investor,uint256 rewardAmount);AddInvestor(address indexed investor,uint256 indexed amount)

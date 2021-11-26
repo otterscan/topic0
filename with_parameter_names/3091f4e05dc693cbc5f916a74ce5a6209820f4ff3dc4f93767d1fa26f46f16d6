@@ -1,0 +1,1 @@
+TokenTraded(address buyer,uint256 tokenId,uint256 salesPrice)

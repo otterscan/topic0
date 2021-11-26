@@ -1,0 +1,1 @@
+NodeOperatorStakingLimitSet(uint256 indexed id,uint64 stakingLimit)

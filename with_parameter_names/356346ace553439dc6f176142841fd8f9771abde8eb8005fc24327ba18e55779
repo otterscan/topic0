@@ -1,0 +1,1 @@
+newSubscription(address indexed _subscriber,uint256 indexed _subscriptionDate,uint256 _fee)

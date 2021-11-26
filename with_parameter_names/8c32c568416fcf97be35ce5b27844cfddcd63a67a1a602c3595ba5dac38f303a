@@ -1,1 +1,1 @@
-Airdrop(address indexed user,uint256 _aid)
+Airdrop(address recipient,uint256 amount);Airdrop(address indexed user,uint256 _aid)

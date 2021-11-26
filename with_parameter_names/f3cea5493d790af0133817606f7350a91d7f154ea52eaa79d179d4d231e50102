@@ -1,1 +1,1 @@
-Mint(uint256 amount,address mintAddress)
+Mint(uint256 amount,address mintAddress);Mint(uint256 indexed index,address indexed minter)

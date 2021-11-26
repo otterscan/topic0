@@ -1,0 +1,1 @@
+AuctionBidded(uint256 indexed auctionId,uint256 indexed tokenId,uint256 newPrice,uint256 timestamp,address indexed bidder)

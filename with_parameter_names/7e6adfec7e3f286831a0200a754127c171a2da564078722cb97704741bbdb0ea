@@ -1,1 +1,1 @@
-Unlocked(address account);Unlocked(address indexed account)
+Unlocked(address indexed account);Unlocked(address account)

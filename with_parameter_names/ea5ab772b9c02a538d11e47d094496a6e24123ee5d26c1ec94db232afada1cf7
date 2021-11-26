@@ -1,0 +1,1 @@
+SaleCancelled(address indexed seller,bytes32 hash)

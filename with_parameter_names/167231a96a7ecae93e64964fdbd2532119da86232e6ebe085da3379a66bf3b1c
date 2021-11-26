@@ -1,0 +1,1 @@
+PoaToStake(uint256 poaAmount,uint256 stakeAmount,address indexed grantee)

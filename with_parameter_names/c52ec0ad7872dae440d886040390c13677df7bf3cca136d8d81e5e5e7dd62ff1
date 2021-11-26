@@ -1,0 +1,1 @@
+NodeOperatorAdded(uint256 id,string name,address rewardAddress,uint64 stakingLimit)

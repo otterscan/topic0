@@ -1,0 +1,1 @@
+NodeOperatorRewardAddressSet(uint256 indexed id,address rewardAddress)

@@ -1,0 +1,1 @@
+Staked(address indexed user,uint256 stake,bool peerAccepted,uint256 untEarned)

@@ -1,1 +1,1 @@
-OnSwapAndRedirectEthFees(uint256 tokensSwapped,uint256 ethToFeeWallet)
+OnSwapAndRedirectEthFees(uint256 tokensSwapped,uint256 ethToDevWallet)

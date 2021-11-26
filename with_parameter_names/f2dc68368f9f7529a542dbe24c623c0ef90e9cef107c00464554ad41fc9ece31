@@ -1,0 +1,1 @@
+RemoveRewardholder(address indexed rewardRecipient)

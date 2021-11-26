@@ -1,0 +1,1 @@
+SetMaxTxAmount(uint256 OldPercent,uint256 NewPercent)

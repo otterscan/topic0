@@ -1,0 +1,1 @@
+FeeAccountUpdated(address indexed previousFeeAccount,address indexed newFeeAccount)

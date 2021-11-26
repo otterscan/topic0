@@ -1,0 +1,1 @@
+Staked(address indexed user,uint256 amount,uint256 index,uint256 sinceBlock,uint256 untilBlock,uint256 rewardRate)

@@ -1,0 +1,1 @@
+ClaimRewardInDesiredToken(address indexed rewardRecipient,address indexed desiredToken)
