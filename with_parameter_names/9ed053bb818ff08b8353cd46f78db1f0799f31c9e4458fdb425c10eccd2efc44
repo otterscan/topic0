@@ -1,1 +1,1 @@
-Transfer(address indexed frm,address indexed to,uint256 value,uint256 transferTime)
+Transfer(address indexed from,address indexed to,uint256 indexed tokenId,uint256 wealth);Transfer(address indexed frm,address indexed to,uint256 value,uint256 transferTime)

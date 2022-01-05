@@ -1,1 +1,1 @@
-Staked(address indexed user,uint256 amount,uint256 vamount)
+Staked(address indexed user,uint256 amount,uint256 vamount);Staked(address indexed _user,uint256 indexed _amount,uint256 indexed _Time)

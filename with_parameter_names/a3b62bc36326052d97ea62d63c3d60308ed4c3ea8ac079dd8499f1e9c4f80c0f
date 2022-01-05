@@ -1,1 +1,1 @@
-AdminRemoved(address adminAddress)
+AdminRemoved(address adminAddress);AdminRemoved(address indexed account)

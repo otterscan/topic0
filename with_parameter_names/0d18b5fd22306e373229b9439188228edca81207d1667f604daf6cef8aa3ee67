@@ -1,1 +1,1 @@
-OwnershipTransfered(address indexed from,address indexed to)
+OwnershipTransfered(address indexed owner,address indexed newOwner)

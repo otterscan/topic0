@@ -1,0 +1,1 @@
+Seppuku(address indexed _address,uint256 indexed _generation,uint256 _tokenId1,uint256 _tokenId2)

@@ -1,1 +1,1 @@
-onDeposit(address lpToken,address user,uint256 amount,uint256 lockDate,uint256 unlockDate)
+onDeposit(address lpToken,address user,uint256 amount,uint256 lockDate,uint256 unlockDate);onDeposit(address indexed lpToken,address indexed user,uint256 amount,uint256 lockDate,uint256 unlockDate)

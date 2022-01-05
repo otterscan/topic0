@@ -1,0 +1,1 @@
+NFTCreated(address indexed nftAddress,string name,string symbol)

@@ -1,0 +1,1 @@
+AlphaDensityUpdate(uint256 indexed tokenId,uint256 alphaDensity)

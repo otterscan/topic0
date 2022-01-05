@@ -1,1 +1,1 @@
-Receive(address indexed _from,uint256 _value)
+Receive(address sender,uint256 amount);Receive(address indexed _from,uint256 _value)

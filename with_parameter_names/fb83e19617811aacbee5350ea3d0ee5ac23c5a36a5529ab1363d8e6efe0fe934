@@ -1,0 +1,1 @@
+Claimed(uint256 passId,address indexed account,uint32 amount)

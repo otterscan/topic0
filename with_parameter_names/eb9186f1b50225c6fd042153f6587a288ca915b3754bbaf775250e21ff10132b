@@ -1,0 +1,1 @@
+Trade(address indexed _bookToken,address indexed _execToken,bytes32 indexed _orderId,uint256 _bookAmount,uint256 _execAmount,uint256 _execFeeAmount,address _maker,address _taker)

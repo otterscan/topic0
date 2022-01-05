@@ -1,0 +1,1 @@
+Minted(uint256 indexed avatarID,uint256 indexed burnedMultipassID,address indexed to,uint256 initLevel,uint256 citySerial,uint256 personalSerial,uint256 randReceipt)

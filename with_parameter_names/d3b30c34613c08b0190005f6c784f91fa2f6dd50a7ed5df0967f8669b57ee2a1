@@ -1,0 +1,1 @@
+CityChanged(uint256 indexed avatarID,address operator,address holder,uint256 fromCityID,uint256 toCityID)

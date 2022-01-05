@@ -1,0 +1,1 @@
+NFTMinted(address indexed to,bytes32 handleHash,uint256 amount)

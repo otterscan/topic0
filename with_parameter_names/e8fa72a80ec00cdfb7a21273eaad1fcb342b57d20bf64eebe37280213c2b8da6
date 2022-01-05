@@ -1,0 +1,1 @@
+BidPlaced(string hash,address bidder,uint256 bid,address highestBidder,uint256 highestBid)

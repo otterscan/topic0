@@ -1,1 +1,1 @@
-Redeem(address token,address user,uint256 amount,uint256 fee)
+Redeem(address token,address user,uint256 amount,uint256 fee);Redeem(address indexed from,address indexed owner,uint256 amount,uint256 strike)

@@ -1,0 +1,1 @@
+tradeClosed(address indexed seller,uint256 id,uint256 amount)

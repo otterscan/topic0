@@ -1,0 +1,1 @@
+StakingFeeUpdated(uint256 indexed newStakingFee)

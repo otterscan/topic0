@@ -1,0 +1,1 @@
+NewCP(address baseToken,address quoteToken,address creator,address cp)

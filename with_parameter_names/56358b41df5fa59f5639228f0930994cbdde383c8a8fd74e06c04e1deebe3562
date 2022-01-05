@@ -1,0 +1,1 @@
+TokenCreated(address indexed owner,address indexed token,uint8 tokenType,uint256 version)

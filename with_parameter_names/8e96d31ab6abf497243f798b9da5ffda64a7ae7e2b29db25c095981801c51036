@@ -1,0 +1,1 @@
+AdminSet(address indexed _admin,bool _allowed,address indexed _caller)

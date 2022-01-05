@@ -1,1 +1,1 @@
-Mint(address indexed _user,uint256 indexed _tokenId,string _tokenURI)
+Mint(address indexed _user,uint256 indexed _tokenId,string _tokenURI);Mint(address indexed creator,uint256 indexed tokenId,string indexed tokenURI)

@@ -1,0 +1,1 @@
+_initICO(address indexed saleToken,address indexed quoteToken,uint256 idoId,uint256 time)

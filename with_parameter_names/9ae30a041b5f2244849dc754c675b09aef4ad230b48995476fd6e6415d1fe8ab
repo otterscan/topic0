@@ -1,1 +1,1 @@
-MintLimitChanged(uint256 _mintLimit)
+MintLimitChanged(uint256 _newMintLimit)

@@ -1,1 +1,1 @@
-Whitelisted(address indexed node);Whitelisted(address account)
+Whitelisted(address account);Whitelisted(address indexed node)

@@ -1,1 +1,1 @@
-Withdraw(uint256 amount,address recipient)
+Withdraw(uint256 amount,address recipient);Withdraw(uint256 indexed _share,address _shareholder)

@@ -1,0 +1,1 @@
+TokenMinted(uint256 indexed tokenId,string ipfsHash)

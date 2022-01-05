@@ -1,0 +1,1 @@
+ERC20PaymentSuccess(bool success,address from,address to,uint256 amount)

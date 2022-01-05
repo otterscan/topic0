@@ -1,0 +1,1 @@
+RaceJoined(uint256 indexed raceId,address indexed racer,uint256 indexed racerTokenId)

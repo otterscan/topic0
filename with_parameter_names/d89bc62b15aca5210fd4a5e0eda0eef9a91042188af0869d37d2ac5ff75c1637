@@ -1,0 +1,1 @@
+receivedMessageFromL1(address sentBy,uint16 tokenId)

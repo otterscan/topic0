@@ -1,0 +1,1 @@
+LogBid(uint256 tokenID,address bidder,uint256 amount)

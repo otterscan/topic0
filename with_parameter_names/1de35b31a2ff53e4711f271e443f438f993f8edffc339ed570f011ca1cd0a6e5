@@ -1,0 +1,1 @@
+depositedOther(address _user,uint256 _pid,uint256 _amount,address _token,uint256 _pAmount)

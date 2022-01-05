@@ -1,0 +1,1 @@
+SwapAndLiquifyEvent(uint256 coinsForSwapping,uint256 bnbIsReceived,uint256 coinsThatWasAddedIntoLiquidity)

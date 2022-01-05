@@ -1,0 +1,1 @@
+Permissioned(address addr,uint8 indexed status,bool result)

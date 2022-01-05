@@ -1,0 +1,1 @@
+GetPrice(bytes32 _id,string _query,uint256 _timestamp)

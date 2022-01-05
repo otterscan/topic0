@@ -1,1 +1,1 @@
-BioChange(uint256 indexed tokenId,string bio)
+BioChange(uint256 indexed tokenId,string bio);BioChange(uint256 tokenId_,string bio_)

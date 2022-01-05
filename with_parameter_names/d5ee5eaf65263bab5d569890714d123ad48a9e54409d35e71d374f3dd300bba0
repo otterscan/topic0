@@ -1,1 +1,1 @@
-ContractURIChanged(string contractURI)
+ContractURIChanged(string contractURL)

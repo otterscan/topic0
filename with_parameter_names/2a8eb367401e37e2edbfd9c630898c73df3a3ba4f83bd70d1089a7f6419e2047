@@ -1,0 +1,1 @@
+SphynxSwapPairClear(address indexed sponsor,address indexed erc20Addr,address indexed bep20Addr,string name,string symbol,uint8 decimals)

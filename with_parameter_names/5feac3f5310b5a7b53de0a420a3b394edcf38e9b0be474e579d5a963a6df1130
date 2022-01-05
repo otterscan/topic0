@@ -1,0 +1,1 @@
+AddFeeInfo(address wallet,uint256 feeRate)

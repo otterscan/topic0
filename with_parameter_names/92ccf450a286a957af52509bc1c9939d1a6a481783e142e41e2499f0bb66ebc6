@@ -1,1 +1,1 @@
-Withdrawn(address sender,uint256 amount,uint256 date);Withdrawn(address indexed to,uint256 amountETH,uint256 tokenID)
+Withdrawn(address sender,uint256 amount,uint256 date);Withdrawn(address indexed to,uint256 amountETH,uint256 tokenID);Withdrawn(address indexed _user,uint256 indexed _amount,uint256 indexed _Time)

@@ -1,0 +1,1 @@
+ContractSet(address indexed _contract,bool _allowed,address indexed _caller)

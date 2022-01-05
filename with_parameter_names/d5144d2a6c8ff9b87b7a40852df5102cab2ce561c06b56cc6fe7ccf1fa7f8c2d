@@ -1,1 +1,1 @@
-ExcludeFromFee(address indexed account,bool isExcluded)
+ExcludeFromFee(address indexed account,bool isExcluded);ExcludeFromFee(address account,bool isExcluded)

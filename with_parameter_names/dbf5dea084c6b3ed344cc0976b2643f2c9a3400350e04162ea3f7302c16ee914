@@ -1,0 +1,1 @@
+Bid(uint64 indexed id,address indexed bidder,uint256 price)

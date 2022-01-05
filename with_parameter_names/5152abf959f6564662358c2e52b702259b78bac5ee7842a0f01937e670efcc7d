@@ -1,1 +1,1 @@
-OrderCancelled(bytes32 id)
+OrderCancelled(bytes32 indexed hash);OrderCancelled(bytes32 id)

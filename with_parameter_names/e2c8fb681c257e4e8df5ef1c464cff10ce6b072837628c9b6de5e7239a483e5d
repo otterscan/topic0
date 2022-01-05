@@ -1,0 +1,1 @@
+DirectPriceUpdated(address token,uint256 oldPrice,uint256 newPrice)

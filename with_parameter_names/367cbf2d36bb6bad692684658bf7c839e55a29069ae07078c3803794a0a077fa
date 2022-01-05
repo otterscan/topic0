@@ -1,1 +1,1 @@
-LogCanceled(uint256 indexed tokenid)
+LogCanceled(uint256 tokenID);LogCanceled(uint256 indexed tokenid)

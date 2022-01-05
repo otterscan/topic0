@@ -1,0 +1,1 @@
+e_dfbtc_earning_record(address indexed _user,address indexed tokenAddress,uint256 addValue,uint256 _createTime)

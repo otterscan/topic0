@@ -1,1 +1,1 @@
-NewRewardPerBlock(uint256 newRewardPerBlock)
+NewRewardPerBlock(uint256 rewardPerBlock)

@@ -1,0 +1,1 @@
+IncomingTransaction(string memo,string packId,uint256 value,uint256 priceInEther,uint32 packsAmount,uint32 userTotalPacks)

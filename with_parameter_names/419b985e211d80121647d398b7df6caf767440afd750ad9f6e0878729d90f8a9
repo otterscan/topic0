@@ -1,0 +1,1 @@
+SupervisorSet(address indexed _supervisor,bool _allowed,address indexed _caller)

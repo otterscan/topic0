@@ -1,1 +1,1 @@
-RewardsTransferred(address holder,uint256 amount);RewardsTransferred(address indexed user,uint256 amount)
+RewardsTransferred(address holder,uint256 amount);RewardsTransferred(address indexed holder,uint256 amount)

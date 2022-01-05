@@ -1,1 +1,1 @@
-AirdropClaimed(address recipient,uint256 amount)
+AirdropClaimed(address recipient,uint256 amount);AirdropClaimed(address indexed by,uint256 amount)

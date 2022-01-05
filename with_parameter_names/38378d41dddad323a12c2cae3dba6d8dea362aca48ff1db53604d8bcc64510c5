@@ -1,0 +1,1 @@
+mintSuccessful(address indexed usr,uint16 cnt,uint8 indexed bt,uint8 indexed lvl)

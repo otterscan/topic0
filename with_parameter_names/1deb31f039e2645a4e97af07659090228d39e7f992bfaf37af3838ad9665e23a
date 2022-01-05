@@ -1,0 +1,1 @@
+StakeEnd(address indexed user,uint256 value,uint256 penalty,uint256 interest,uint256 index)

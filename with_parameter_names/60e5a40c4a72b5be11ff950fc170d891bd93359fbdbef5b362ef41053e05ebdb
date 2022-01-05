@@ -1,0 +1,1 @@
+CampaignFunded(bytes32 indexed id,uint256 amount)

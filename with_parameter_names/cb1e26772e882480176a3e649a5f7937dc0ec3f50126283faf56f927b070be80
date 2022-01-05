@@ -1,0 +1,1 @@
+TokenClaimed(address indexed claimer,uint256 indexed originalTokenId,uint256 indexed newTokenId)

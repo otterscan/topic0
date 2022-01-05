@@ -1,0 +1,1 @@
+RewardsWithdrawn(address indexed by,uint256 fundsWithdrawn)

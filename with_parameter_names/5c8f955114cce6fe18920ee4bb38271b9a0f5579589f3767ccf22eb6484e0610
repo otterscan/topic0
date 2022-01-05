@@ -1,0 +1,1 @@
+TokenStolen(address owner,uint16 tokenId,address thief)

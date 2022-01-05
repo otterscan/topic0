@@ -1,0 +1,1 @@
+Deposited(uint256 amount,uint256 duration,address indexed receiver,address indexed from)

@@ -1,0 +1,1 @@
+SetBridgeFee(uint256 indexed _fee)

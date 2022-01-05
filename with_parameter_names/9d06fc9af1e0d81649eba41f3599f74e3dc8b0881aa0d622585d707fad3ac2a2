@@ -1,0 +1,1 @@
+claimReward(address _user,uint256 _block,uint256 _ctype)

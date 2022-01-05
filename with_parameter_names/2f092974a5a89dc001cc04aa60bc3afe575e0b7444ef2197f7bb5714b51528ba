@@ -1,0 +1,1 @@
+BlockedAccountChange(address indexed holder,bool indexed status)

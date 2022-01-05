@@ -1,1 +1,1 @@
-PauserAdded(address indexed account)
+PauserAdded(address indexed account);PauserAdded(address account)

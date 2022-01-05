@@ -1,0 +1,1 @@
+OrderApprovedPartOne(bytes32 indexed hash,address exchange,address indexed maker,address taker,uint256 makerRelayerFee,uint256 takerRelayerFee,uint256 makerProtocolFee,uint256 takerProtocolFee,address indexed feeRecipient,uint8 feeMethod,uint8 side,uint8 saleKind,address target)

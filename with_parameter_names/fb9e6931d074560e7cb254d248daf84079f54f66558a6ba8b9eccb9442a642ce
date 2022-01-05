@@ -1,0 +1,1 @@
+RandomNumberRequested(address indexed sender,bytes32 indexed vrfRequestId)

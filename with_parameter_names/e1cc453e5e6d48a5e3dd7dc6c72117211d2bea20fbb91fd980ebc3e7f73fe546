@@ -1,0 +1,1 @@
+SetRouter(uint32 indexed domain,bytes32 previousRouter,bytes32 newRouter)

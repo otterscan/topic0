@@ -1,0 +1,1 @@
+BindAssetEvent(address fromAssetHash,uint64 toChainId,bytes targetProxyHash)

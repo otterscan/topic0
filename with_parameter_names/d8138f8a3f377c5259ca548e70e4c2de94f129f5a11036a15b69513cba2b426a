@@ -1,1 +1,1 @@
-Claimed(address indexed user,uint256 amount);Claimed(address indexed user,uint256 indexed amount);Claimed(address destination,uint256 amount)
+Claimed(address indexed user,uint256 amount);Claimed(address account,uint256 amount);Claimed(address indexed user,uint256 indexed amount)

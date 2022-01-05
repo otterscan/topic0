@@ -1,0 +1,1 @@
+evtMintFromPass(bool success,bytes data,uint256 _id)

@@ -1,0 +1,1 @@
+WeightAdjusted(uint256 indexed poolId,address indexed pool,uint256 newWeight)

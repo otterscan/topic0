@@ -1,0 +1,1 @@
+_ico(address indexed user,uint256 idoId,uint256 stakeId,uint256 amountOut,uint256 receivedToken,uint256 lockedToken,uint256 time)

@@ -1,0 +1,1 @@
+NewArtworkEdition(address indexed owner,uint256 indexed artworkID,uint256 indexed editionID)

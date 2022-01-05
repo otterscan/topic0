@@ -1,0 +1,1 @@
+AuctionBid(uint256 indexed furbId,address sender,uint256 value,bool extended)

@@ -1,0 +1,1 @@
+Securized(uint256 indexed _epoch,uint256 _epochLen,uint256 _blockMeta,uint256 _inflateRatio)

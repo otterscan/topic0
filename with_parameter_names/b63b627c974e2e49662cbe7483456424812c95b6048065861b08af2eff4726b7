@@ -1,0 +1,1 @@
+TokenStaked(address owner,uint16 tokenId,uint256 value)

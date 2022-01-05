@@ -1,0 +1,1 @@
+MassUpdate(uint256 indexed tokenIdBurned,uint256 indexed tokenIdPersist,uint256 mass)

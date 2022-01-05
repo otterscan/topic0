@@ -1,0 +1,1 @@
+CampaignCreated(bytes32 indexed id,uint64 startDate,uint64 endDate,string dataUrl)

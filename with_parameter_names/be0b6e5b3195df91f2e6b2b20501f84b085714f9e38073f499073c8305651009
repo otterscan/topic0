@@ -1,1 +1,1 @@
-Exit(address indexed account,uint256 price,uint256 amount)
+Exit(address indexed user,uint256 stakedTokens,uint256 reward)

@@ -1,0 +1,1 @@
+RandomNumber(bytes32 requestId,uint256 randomResult,uint256[] numbers)

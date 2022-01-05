@@ -1,0 +1,1 @@
+ProofOfBurn(address addr,address token,uint256 amount,uint256 amountAsFee,uint256 currentNonce,uint256 sourceChain,uint256 destinationChain,bytes32 transactionHash)

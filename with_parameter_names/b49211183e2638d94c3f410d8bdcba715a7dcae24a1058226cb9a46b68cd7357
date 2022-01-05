@@ -1,1 +1,1 @@
-IpfsRevealed(string indexed ipfsHash,bool locked)
+IpfsRevealed(string ipfsHash,bool locked);IpfsRevealed(string indexed ipfsHash,bool locked)

@@ -1,0 +1,1 @@
+RandomNumberCompleted(bytes32 indexed requestId,uint256 randomNumber)

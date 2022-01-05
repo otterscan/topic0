@@ -1,0 +1,1 @@
+Unstaked(address indexed voter,address indexed staker,address proxy,uint256 amount)

@@ -1,0 +1,1 @@
+SquidClaimed(uint16 tokenId,uint256 earned,bool unstaked)

@@ -1,0 +1,1 @@
+NotifyStake(uint256 pid,address sender,uint256 amount)

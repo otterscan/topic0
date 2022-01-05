@@ -1,0 +1,1 @@
+MarketItemSold(uint256 indexed itemId,address owner)

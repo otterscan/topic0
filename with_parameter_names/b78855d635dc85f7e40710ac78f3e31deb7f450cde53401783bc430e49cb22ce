@@ -1,0 +1,1 @@
+AuctionFinished(uint64 indexed id,address indexed nftRecipient,uint256 price)

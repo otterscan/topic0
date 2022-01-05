@@ -1,0 +1,1 @@
+FeesApplied(uint256 liquidityFee,uint256 marketingFee,uint256 devFee,uint256 foundationFee,uint256 burnFee,uint256 holdersFee,uint256 totalFee)

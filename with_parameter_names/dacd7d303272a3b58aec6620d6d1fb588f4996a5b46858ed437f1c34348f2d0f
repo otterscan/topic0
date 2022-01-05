@@ -1,0 +1,1 @@
+BindProxyEvent(uint64 toChainId,bytes targetProxyHash)

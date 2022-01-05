@@ -1,1 +1,1 @@
-NewOwner(address indexed previousOwner,address indexed newOwner);NewOwner(address oldOwner,address newOwner)
+NewOwner(address oldOwner,address newOwner);NewOwner(address indexed previousOwner,address indexed newOwner)

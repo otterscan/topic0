@@ -1,0 +1,1 @@
+HighestBidIncreased(uint256 id,address bidder,uint256 amount)
