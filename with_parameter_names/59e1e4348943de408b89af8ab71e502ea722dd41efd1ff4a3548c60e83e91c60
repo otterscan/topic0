@@ -1,0 +1,1 @@
+BridgeSupplyCapUpdated(address bridge,uint256 supplyCap)

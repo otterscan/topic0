@@ -1,0 +1,1 @@
+MaximumMembershipsSet(uint256 indexed oldMaxMemberships,uint256 indexed newMaxMemberships)

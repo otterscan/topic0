@@ -1,0 +1,1 @@
+AssetAllocated(address _asset,address _strategy,uint256 _amount)

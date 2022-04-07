@@ -1,0 +1,1 @@
+AssertionEventBytes32(bool passed,string message,string methodName,bytes32 returned,bytes32 expected)

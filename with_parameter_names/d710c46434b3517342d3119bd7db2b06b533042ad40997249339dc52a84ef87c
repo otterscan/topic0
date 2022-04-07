@@ -1,0 +1,1 @@
+CustomTargetFloatPercentUpdated(address indexed vault,uint256 newCustomTargetFloatPercent)

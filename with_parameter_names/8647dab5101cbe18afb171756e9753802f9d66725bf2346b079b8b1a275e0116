@@ -1,0 +1,1 @@
+PriceUpdate(address indexed owner,uint256 oldPrice,uint256 newPrice,uint256 nftID)

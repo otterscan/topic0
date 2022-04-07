@@ -1,0 +1,1 @@
+ProposalVote(uint8 indexed originChainID,uint64 indexed depositNonce,uint8 indexed status,bytes32 resourceID)

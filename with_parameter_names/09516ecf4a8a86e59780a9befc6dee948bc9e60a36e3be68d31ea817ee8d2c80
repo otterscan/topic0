@@ -1,0 +1,1 @@
+YieldDistribution(address _to,uint256 _yield,uint256 _fee)

@@ -1,0 +1,1 @@
+ProposalCancelled(address indexed proposer,uint256 indexed proposal)

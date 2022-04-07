@@ -1,0 +1,1 @@
+ToggleWhitelistSale(address _from,bool isActive)

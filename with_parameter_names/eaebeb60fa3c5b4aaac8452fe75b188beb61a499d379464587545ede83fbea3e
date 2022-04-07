@@ -1,0 +1,1 @@
+NewProposal(address indexed proposer,uint256 indexed proposal,uint8 indexed proposalType,string description,address[] accounts,uint256[] amounts,bytes[] payloads)

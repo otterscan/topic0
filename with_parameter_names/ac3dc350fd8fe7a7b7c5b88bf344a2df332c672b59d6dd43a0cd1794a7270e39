@@ -1,0 +1,1 @@
+OfferMade(address assetAddress,uint256 amount,address indexed lender,uint256 toBePaid,uint256 indexed did,bytes32 offer)

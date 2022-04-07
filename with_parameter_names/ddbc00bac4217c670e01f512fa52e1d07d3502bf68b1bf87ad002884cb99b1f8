@@ -1,0 +1,1 @@
+LogNewTransferOut(bytes32 transferId,address sender,address receiver,address token,uint256 amount,bytes32 hashlock,uint64 timelock,uint64 dstChainId,address dstAddress,uint64 bidId)

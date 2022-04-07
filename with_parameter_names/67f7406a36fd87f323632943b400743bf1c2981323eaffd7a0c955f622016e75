@@ -1,0 +1,1 @@
+TributeProposalCancelled(address indexed dao,uint256 indexed proposal)

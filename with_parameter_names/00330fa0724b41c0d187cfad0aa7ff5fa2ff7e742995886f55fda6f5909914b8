@@ -1,0 +1,1 @@
+RevokeVoter(address voter,uint256 votes,uint256 totalVotes)

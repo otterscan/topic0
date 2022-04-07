@@ -1,0 +1,1 @@
+ChangeFeesForNormalBuy(uint8 indexed liquidityFeeOnBuy,uint8 indexed marketingFeeOnBuy,uint8 indexed HuHdistributionFeeOnBuy)

@@ -1,0 +1,1 @@
+EatCircle(uint256 indexed predatorTokenId,uint256 indexed preyTokenId)

@@ -1,0 +1,1 @@
+ExtensionCalled(address indexed dao,address indexed purchaser,uint256 amountOut);ExtensionCalled(address indexed dao,address indexed member,uint256 indexed amountBurned)

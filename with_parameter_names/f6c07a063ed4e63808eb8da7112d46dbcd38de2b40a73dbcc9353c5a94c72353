@@ -1,0 +1,1 @@
+RewardTokenCollected(address recipient,address rewardToken,uint256 amount)

@@ -1,0 +1,1 @@
+mintEvent(address indexed recipient,uint256 tokenId,uint256 metadataId)

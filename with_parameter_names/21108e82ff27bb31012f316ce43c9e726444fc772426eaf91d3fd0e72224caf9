@@ -1,0 +1,1 @@
+Subscription(address _address,tuple plan,uint256 timestamp,uint256 expiresAt,uint256 subscriptionCounter)

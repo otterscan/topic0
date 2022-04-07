@@ -1,0 +1,1 @@
+hostileBankUpdated(address indexed newWallet,address indexed oldWallet)

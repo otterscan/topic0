@@ -1,0 +1,1 @@
+ProposalFinished(uint256 indexed id,uint256 _for,uint256 _against,bool quorumReached)

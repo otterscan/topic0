@@ -1,0 +1,1 @@
+eventFillTrade(bytes32 tradeId,address user0,uint8 status,uint256 fillCount,uint256 token0AmountFilled,address filler,address fillToken,uint256 fillAmount)

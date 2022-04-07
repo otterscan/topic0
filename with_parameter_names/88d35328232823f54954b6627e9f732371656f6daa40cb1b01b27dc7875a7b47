@@ -1,0 +1,1 @@
+Vote(uint256 indexed id,address indexed voter,bool vote,uint256 weight)

@@ -1,0 +1,1 @@
+TargetCustomAuthorityUpdated(address indexed target,address indexed authority)

@@ -1,1 +1,1 @@
-EtherWithdrawn(address sender,uint256 amount)
+EtherWithdrawn(address sender,uint256 amount);EtherWithdrawn(address indexed _to,uint256 _value)

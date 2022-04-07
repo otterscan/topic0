@@ -1,0 +1,1 @@
+LogTokenBulkSent(address token,address from,uint256 total)

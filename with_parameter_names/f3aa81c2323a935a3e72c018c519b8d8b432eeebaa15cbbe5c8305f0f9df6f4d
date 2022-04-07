@@ -1,0 +1,1 @@
+NewProposal(uint256 id,address creator,uint256 start,uint256 duration,address executor)

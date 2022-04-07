@@ -1,1 +1,1 @@
-ExcludeFromReflection(address excludedAddress)
+ExcludeFromReflection(address excludedAddress);ExcludeFromReflection(address indexed account)

@@ -1,0 +1,1 @@
+PublicCapabilityUpdated(bytes4 indexed functionSig,bool enabled)

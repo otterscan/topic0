@@ -1,0 +1,1 @@
+CustomFeePercentUpdated(address indexed vault,uint256 newCustomFeePercent)

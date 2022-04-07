@@ -1,0 +1,1 @@
+CustomHarvestDelayUpdated(address indexed vault,uint256 newCustomHarvestDelay)

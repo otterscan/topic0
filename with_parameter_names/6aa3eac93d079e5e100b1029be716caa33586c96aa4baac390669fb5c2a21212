@@ -1,1 +1,1 @@
-Claimed(uint256 index,address account)
+Claimed(uint256 tokenId,address indexed account);Claimed(uint256 index,address account)

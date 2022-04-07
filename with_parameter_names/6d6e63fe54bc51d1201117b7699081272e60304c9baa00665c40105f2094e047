@@ -1,0 +1,1 @@
+Mint(address indexed _address,uint8 amount,uint16 supplyLeft)

@@ -1,0 +1,1 @@
+NFT_Purchased(address _nftContract,address _exOwner,address _newOwner,uint256 indexed _tokenId,uint256 _itemId,uint256 _price)

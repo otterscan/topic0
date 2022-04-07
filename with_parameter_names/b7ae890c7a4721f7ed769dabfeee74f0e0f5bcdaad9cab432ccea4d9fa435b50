@@ -1,0 +1,1 @@
+LogTransferConfirmed(bytes32 transferId,bytes32 preimage)

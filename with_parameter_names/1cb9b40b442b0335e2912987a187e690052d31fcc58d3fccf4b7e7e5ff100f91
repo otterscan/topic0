@@ -1,0 +1,1 @@
+eventCreateNewTrade(bytes32 tradeId,address user0,address token0,uint256 token0Amount,address[] acceptedTokens,uint256[] tokenPrices,uint256 createdAt,uint8 status,uint256 fillCount,uint256 token0AmountFilled)

@@ -1,1 +1,1 @@
-LogWithdrawal(address _to,uint256 _amountStrong)
+LogWithdrawal(address SentToAddress,uint256 AmountTransferred)

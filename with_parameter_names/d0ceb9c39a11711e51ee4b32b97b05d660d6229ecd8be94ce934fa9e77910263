@@ -1,0 +1,1 @@
+StakesTransfered(address indexed fromUser,address toUser,uint256 numStakes)

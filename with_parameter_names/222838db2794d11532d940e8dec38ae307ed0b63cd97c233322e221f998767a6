@@ -1,1 +1,1 @@
-Redeem(address indexed user,uint256 amount);Redeem(address owner,uint256 amount)
+Redeem(address indexed user,uint256 amount);Redeem(address _addr,uint256 _value)

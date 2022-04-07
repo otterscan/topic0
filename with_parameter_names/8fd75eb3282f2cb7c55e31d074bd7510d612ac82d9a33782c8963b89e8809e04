@@ -1,0 +1,1 @@
+eventCreateNewTransaction(bytes32 transactionId,uint8 transactionType,uint256 createdAt,uint256 expiresAt,address user0,address token0,uint256 token0Amount,address user1,address token1,uint256 token1Amount)

@@ -1,0 +1,1 @@
+NewTokenLock(address tokenHolder,uint256 amountLocked,uint256 vestTime,uint256 cliffTime,uint256 period)

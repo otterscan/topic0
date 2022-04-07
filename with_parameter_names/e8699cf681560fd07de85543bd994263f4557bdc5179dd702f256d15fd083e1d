@@ -1,1 +1,1 @@
-Paused(address alchemistAddress,bool isPaused)
+Paused(address alchemistAddress,bool isPaused);Paused(address indexed user,bool yes)

@@ -1,0 +1,1 @@
+ExtensionSet(address indexed dao,uint256 listId,address purchaseToken,uint8 purchaseMultiplier,uint96 purchaseLimit,uint32 saleEnds,string details)

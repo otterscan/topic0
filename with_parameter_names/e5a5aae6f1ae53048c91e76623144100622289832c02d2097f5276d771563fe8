@@ -1,0 +1,1 @@
+PoolCreated(address indexed pool,bytes32 poolId,string name,string symbol,address[] tokens,uint256[] weights,bool isCorrectOrder,uint256 swapFeePercentage,address owner,bool swapEnabledOnStart)

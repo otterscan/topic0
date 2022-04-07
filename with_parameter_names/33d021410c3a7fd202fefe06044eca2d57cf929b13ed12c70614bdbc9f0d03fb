@@ -1,0 +1,1 @@
+NXTPBridgeStarted(bytes32 indexed lifiTransactionId,bytes32 nxtpTransactionId,tuple txData)

@@ -1,0 +1,1 @@
+MaxTransactionExclusion(address _address,bool excluded)

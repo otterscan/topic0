@@ -1,1 +1,1 @@
-SaleMint(address minter,uint256 count)
+SaleMint(address minter,uint256 count);SaleMint(address indexed _minter,uint256 _amount)

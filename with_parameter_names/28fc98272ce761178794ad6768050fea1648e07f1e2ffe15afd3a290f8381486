@@ -1,1 +1,1 @@
-SwapAndLiquify(uint256 tokensSwapped,uint256 ethReceived)
+SwapAndLiquify(uint256 tokensSwapped,uint256 ethReceived);SwapAndLiquify(uint256 indexed ethReceived,uint256 indexed tokensIntoLiqudity)

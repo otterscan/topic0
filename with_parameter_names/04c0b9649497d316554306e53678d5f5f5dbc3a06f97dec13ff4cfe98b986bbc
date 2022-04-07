@@ -1,0 +1,1 @@
+RewardTokenAddressesUpdated(address[] _oldAddresses,address[] _newAddresses)

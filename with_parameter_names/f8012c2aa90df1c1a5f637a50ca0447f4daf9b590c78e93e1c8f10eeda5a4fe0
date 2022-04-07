@@ -1,0 +1,1 @@
+AddFundingReceiver(address indexed receiver,bytes4 targetFunctionSignature,uint256 updateDelay,uint256 gasAmountForExecution,uint256 fixedRewardMultiplier)

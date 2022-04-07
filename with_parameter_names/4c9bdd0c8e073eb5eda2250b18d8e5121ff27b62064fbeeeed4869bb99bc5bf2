@@ -1,0 +1,1 @@
+UserRoleUpdated(address indexed user,uint8 indexed role,bool enabled)

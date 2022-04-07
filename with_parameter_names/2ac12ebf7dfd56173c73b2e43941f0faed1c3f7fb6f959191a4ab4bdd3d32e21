@@ -1,0 +1,1 @@
+UpdatedTreasury(address indexed previousTreasury,address indexed newTreasury)

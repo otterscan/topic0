@@ -1,1 +1,1 @@
-MinterChanged(address minter,address newMinter)
+MinterChanged(address minter,address newMinter);MinterChanged(address indexed minter,address indexed newMinter)

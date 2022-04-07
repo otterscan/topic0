@@ -1,1 +1,1 @@
-UpdatedDevAddress(address dev)
+UpdatedDevAddress(address indexed newWallet);UpdatedDevAddress(address dev)

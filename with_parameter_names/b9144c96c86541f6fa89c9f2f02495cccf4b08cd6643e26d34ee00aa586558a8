@@ -1,1 +1,1 @@
-TokenMinted(address receiver,uint256 tokenId)
+TokenMinted(address owner,uint256 tokenId)

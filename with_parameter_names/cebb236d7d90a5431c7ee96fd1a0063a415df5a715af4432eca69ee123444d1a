@@ -1,0 +1,1 @@
+MaximumMintBatchSizeSet(uint256 indexed oldMaxMintBatchSize,uint256 indexed newMaxMintBatchSize)

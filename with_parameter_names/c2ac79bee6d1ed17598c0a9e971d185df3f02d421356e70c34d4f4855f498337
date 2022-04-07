@@ -1,0 +1,1 @@
+RentalFeeUpdated(int256 _oldNumerator,int256 _oldDenominator,int256 _newNumerator,int256 _newDenominator)

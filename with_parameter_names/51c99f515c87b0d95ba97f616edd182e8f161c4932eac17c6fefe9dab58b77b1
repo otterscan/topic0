@@ -1,1 +1,1 @@
-BondRedeemed(address indexed recipient,uint256 payout,uint256 remaining)
+BondRedeemed(address indexed recipient,uint256 payout,uint256 remaining);BondRedeemed(address recipient,uint256 payout,uint256 remaining)

@@ -1,0 +1,1 @@
+ProposalProcessed(uint256 indexed proposal,bool indexed didProposalPass)

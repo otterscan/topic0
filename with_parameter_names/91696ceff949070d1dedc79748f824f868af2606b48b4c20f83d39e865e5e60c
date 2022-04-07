@@ -1,0 +1,1 @@
+rerollEvent(address indexed requestor,uint256 tokenId,uint256 newMetadataId)

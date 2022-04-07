@@ -1,0 +1,1 @@
+WhitelistPartner(address partner,uint256 mintLimit,uint256 burnLimit,uint256 fee)

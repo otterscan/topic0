@@ -1,0 +1,1 @@
+DeedCreated(address indexed assetAddress,uint8 category,uint256 id,uint256 amount,uint32 duration,uint256 indexed did)

@@ -1,0 +1,1 @@
+JoinedPool(address indexed pool,address[] tokens,uint256[] amounts,bytes userData)

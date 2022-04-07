@@ -1,0 +1,1 @@
+NewAirDropRootHash(uint8 stakeType,bytes32 rootHash,uint256 proofDepth)

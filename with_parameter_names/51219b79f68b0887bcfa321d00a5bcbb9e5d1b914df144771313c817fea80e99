@@ -1,0 +1,1 @@
+NewTemplate(bytes32 indexed key,address template,address beacon)

@@ -1,0 +1,1 @@
+AuthorityUpdated(address indexed user,address indexed newAuthority)

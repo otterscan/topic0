@@ -1,1 +1,1 @@
-Minted(address account,uint256 amount,uint256 cost)
+Minted(address account,uint256 amount,uint256 cost);Minted(address indexed minter,uint256 price,uint256 count)

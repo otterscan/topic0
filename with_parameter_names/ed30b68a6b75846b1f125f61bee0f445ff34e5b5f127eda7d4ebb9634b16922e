@@ -1,0 +1,1 @@
+RenterSet(uint256 indexed _tokenId,address indexed _renter,uint256 _rentalExpiryBlock)

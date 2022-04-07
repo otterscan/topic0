@@ -1,0 +1,1 @@
+NewRates(address indexed user,uint256[] rates)

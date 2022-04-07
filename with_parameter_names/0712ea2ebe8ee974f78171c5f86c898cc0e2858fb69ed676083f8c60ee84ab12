@@ -1,0 +1,1 @@
+DAOdeployed(address indexed kaliDAO,string name,string symbol,string docs,bool paused,address[] extensions,bytes[] extensionsData,address[] voters,uint256[] shares,uint32[16] govSettings)

@@ -1,0 +1,1 @@
+NewTributeProposal(address indexed dao,address indexed proposer,uint256 indexed proposal,address asset,bool nft,uint256 value)

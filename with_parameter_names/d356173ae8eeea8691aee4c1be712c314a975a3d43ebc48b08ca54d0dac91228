@@ -1,0 +1,1 @@
+VoteCast(address indexed voter,uint256 indexed proposal,bool indexed approve)
