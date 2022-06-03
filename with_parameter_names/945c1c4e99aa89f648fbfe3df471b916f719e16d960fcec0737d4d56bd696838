@@ -1,1 +1,1 @@
-PriceUpdated(uint256 indexed tokenId,uint256 price)
+PriceUpdated(uint256 previousValue,uint256 value);PriceUpdated(uint256 indexed tokenId,uint256 price)

@@ -1,0 +1,1 @@
+UpdateBurner(address indexed _burner,bool _value)

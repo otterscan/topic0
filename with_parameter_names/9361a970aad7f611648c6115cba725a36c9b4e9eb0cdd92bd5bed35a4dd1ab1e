@@ -1,0 +1,1 @@
+NFTMinted(uint256 startId,uint256 mintAmount,address recipient,uint256 price,address contractAddress)

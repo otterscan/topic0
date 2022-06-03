@@ -1,0 +1,1 @@
+NewMinimumTCAP(address indexed _owner,uint256 _minimumTCAP)

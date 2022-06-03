@@ -1,0 +1,1 @@
+RewardsDenylistUpdated(bytes32 indexed subgraphDeploymentID,uint256 sinceBlock)

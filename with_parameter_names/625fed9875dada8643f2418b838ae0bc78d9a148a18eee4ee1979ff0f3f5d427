@@ -1,1 +1,1 @@
-Lock(address indexed to,uint256 value)
+Lock(address indexed to,uint256 value);Lock(address _to,uint256 _amount)
