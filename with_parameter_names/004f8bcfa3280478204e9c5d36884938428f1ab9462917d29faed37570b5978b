@@ -1,0 +1,1 @@
+ClaimedIntoStable(bytes32 batchId,uint8 stableCoinIndex,uint256 threeCurveAmount,uint256 stableCoinAmount,address account)

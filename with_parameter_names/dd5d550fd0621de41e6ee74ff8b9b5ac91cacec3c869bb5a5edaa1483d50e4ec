@@ -1,0 +1,1 @@
+ZappedOutOfBatch(bytes32 batchId,int128 stableCoinIndex,uint256 inputAmount,uint256 outputAmount,address account)

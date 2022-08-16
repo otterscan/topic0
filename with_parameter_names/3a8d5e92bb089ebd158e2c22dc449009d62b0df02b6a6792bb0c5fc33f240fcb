@@ -1,0 +1,1 @@
+AssetHolderUpdate(address indexed caller,address indexed assetHolder,bool allowed)

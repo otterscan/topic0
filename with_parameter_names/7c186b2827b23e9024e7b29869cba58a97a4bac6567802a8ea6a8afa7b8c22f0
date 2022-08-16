@@ -1,0 +1,1 @@
+FlashLoan(address indexed receiver,uint8 tokenIndex,uint256 amount,uint256 amountFee,uint256 protocolFee)

@@ -1,0 +1,1 @@
+MaxWalletClaimCountUpdated(uint256 tokenId,uint256 count)

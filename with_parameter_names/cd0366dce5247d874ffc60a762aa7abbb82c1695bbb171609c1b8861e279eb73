@@ -1,0 +1,1 @@
+StakeDelegated(address indexed indexer,address indexed delegator,uint256 tokens,uint256 shares)

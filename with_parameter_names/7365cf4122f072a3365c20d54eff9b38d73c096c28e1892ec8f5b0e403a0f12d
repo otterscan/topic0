@@ -1,0 +1,1 @@
+RoyaltyForToken(uint256 indexed tokenId,address indexed royaltyRecipient,uint256 royaltyBps)

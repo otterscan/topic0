@@ -1,0 +1,1 @@
+KickReward(address indexed _user,address indexed _kicked,uint256 _reward)

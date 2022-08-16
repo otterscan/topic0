@@ -1,0 +1,1 @@
+BatchCooldownUpdated(uint256 previousCooldown,uint256 newCooldown)

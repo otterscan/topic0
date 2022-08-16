@@ -1,0 +1,1 @@
+SlasherUpdate(address indexed caller,address indexed slasher,bool allowed)

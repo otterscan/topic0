@@ -1,0 +1,1 @@
+AuctionStarted(uint256 indexed loanId,address indexed borrower)

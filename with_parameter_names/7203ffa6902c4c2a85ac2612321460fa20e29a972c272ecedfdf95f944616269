@@ -1,0 +1,1 @@
+AllocationClosed(address indexed indexer,bytes32 indexed subgraphDeploymentID,uint256 epoch,uint256 tokens,address indexed allocationID,uint256 effectiveAllocation,address sender,bytes32 poi,bool isPublic)

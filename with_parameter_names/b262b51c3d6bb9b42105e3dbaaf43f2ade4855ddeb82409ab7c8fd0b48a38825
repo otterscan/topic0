@@ -1,0 +1,1 @@
+CustomParamChanged(uint256 indexed param,bytes32 value)

@@ -1,1 +1,1 @@
-AuctionCancelled(uint256 tokenId,address seller)
+AuctionCancelled(uint256 tokenId,address seller);AuctionCancelled(uint256 indexed loanId,address indexed borrower)

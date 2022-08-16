@@ -1,0 +1,1 @@
+AllocationCreated(address indexed indexer,bytes32 indexed subgraphDeploymentID,uint256 epoch,uint256 tokens,address indexed allocationID,bytes32 metadata)

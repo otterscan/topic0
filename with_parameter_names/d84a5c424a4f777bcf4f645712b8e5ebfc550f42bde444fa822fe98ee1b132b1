@@ -1,0 +1,1 @@
+ClaimMany(address operator,address beneficiary,uint256[] ticketTokenIds,address claimToken,uint256 releasedAmount)

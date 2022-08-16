@@ -1,0 +1,1 @@
+StakeDeposited(address indexed indexer,uint256 tokens)

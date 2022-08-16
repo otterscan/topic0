@@ -1,0 +1,1 @@
+WithdrawnFromBatch(bytes32 batchId,uint256 amount,address indexed to)

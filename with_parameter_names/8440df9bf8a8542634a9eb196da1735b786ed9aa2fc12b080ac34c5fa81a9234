@@ -1,0 +1,1 @@
+ReplicaEnrolled(uint32 indexed domain,address replica)

@@ -1,0 +1,1 @@
+BaseCurrencySet(address indexed baseCurrency,uint256 baseCurrencyUnit)

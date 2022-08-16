@@ -1,0 +1,1 @@
+SetOperator(address indexed indexer,address indexed operator,bool allowed)

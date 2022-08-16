@@ -1,0 +1,1 @@
+RewardDistributorUpdated(address indexed distributor,bool approved)

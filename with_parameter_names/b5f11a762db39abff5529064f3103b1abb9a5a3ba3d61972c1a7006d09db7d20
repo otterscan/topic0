@@ -1,0 +1,1 @@
+RebateClaimed(address indexed indexer,bytes32 indexed subgraphDeploymentID,address indexed allocationID,uint256 epoch,uint256 forEpoch,uint256 tokens,uint256 unclaimedAllocationsCount,uint256 delegationFees)

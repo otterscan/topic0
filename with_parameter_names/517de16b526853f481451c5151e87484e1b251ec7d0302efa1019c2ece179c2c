@@ -1,0 +1,1 @@
+WatcherPermissionSet(uint32 indexed domain,address watcher,bool access)

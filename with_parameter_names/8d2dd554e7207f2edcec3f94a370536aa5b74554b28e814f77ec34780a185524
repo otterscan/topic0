@@ -1,0 +1,1 @@
+Claimed(address indexed account,uint8 batchType,uint256 shares,uint256 claimedToken)

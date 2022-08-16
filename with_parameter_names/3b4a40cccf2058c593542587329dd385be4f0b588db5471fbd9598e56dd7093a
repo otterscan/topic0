@@ -1,1 +1,1 @@
-ManagerAdded(address indexed account)
+ManagerAdded(address indexed account);ManagerAdded(address manager)

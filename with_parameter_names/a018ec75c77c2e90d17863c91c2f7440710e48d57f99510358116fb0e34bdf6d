@@ -1,0 +1,1 @@
+BatchMinted(bytes32 batchId,uint256 suppliedTokenAmount,uint256 outputAmount)

@@ -1,0 +1,1 @@
+StakeDelegatedWithdrawn(address indexed indexer,address indexed delegator,uint256 tokens)

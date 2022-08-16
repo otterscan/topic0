@@ -1,0 +1,1 @@
+AddedPool(uint256 _pid,address _lpToken,address _token,address _gauge,address _baseRewardsPool,address _stash)
