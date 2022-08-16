@@ -7,7 +7,7 @@
 This repository is:
 
 1. A public database of Ethereum event log signatures.
-2. A set of scripts to generate the database from a [Sourcify](https://github.com/ethereum/sourcify) repository backup. We were able to extract almost __5.6K event signatures__ from mainnet verified contracts 🎉🎉🎉
+2. A set of scripts to generate the database from a [Sourcify](https://github.com/ethereum/sourcify) repository backup. We were able to extract almost __7.8K event signatures__ from mainnet verified contracts 🎉🎉🎉
 
 ## Event what?
 
