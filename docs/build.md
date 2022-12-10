@@ -23,7 +23,7 @@ Run:
 
 ### Wait, where does this backup come from?
 
-It downloads the content `/ipns/k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p` from IPFS. This is the public Sourcify repository production root hash.
+It downloads the content `/ipns/repo.sourcify.dev` from IPFS. This is the public Sourcify repository production root hash.
 
 ## Rebuild the signature database
 

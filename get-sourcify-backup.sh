@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-SOURCIFY_IPNS_ROOT="k51qzi5uqu5dll0ocge71eudqnrgnogmbr37gsgl12uubsinphjoknl6bbi41p"
+SOURCIFY_IPNS_ROOT="repo.sourcify.dev"
 
 echo "Removing previous snapshot..."
 rm -fr sourcify-snapshot && mkdir -p sourcify-snapshot
