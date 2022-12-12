@@ -1,1 +1,1 @@
-ExcludeFromMaxWallet(address account,bool indexed isExcluded)
+ExcludeFromMaxWallet(address account,bool indexed isExcluded);ExcludeFromMaxWallet(address indexed account,bool isExcluded)

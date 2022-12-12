@@ -1,0 +1,1 @@
+CallOnExternalPositionExecutedForFund(address indexed caller,address indexed comptrollerProxy,address indexed externalPosition,uint256 actionId,bytes actionArgs,address[] assetsToTransfer,uint256[] amountsToTransfer,address[] assetsToReceive)

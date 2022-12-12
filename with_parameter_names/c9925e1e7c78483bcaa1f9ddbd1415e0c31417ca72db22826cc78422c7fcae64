@@ -1,0 +1,1 @@
+PermissionAdded(address indexed from,address indexed target,uint8 indexed permissionType)

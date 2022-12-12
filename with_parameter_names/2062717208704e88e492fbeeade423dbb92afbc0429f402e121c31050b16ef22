@@ -1,0 +1,1 @@
+TraderOperatorsContractChanged(address indexed caller,address indexed traderOperatorsAddress)

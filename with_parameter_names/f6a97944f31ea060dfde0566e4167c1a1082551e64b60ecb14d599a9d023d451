@@ -1,0 +1,1 @@
+NewTransmission(uint32 indexed aggregatorRoundId,int192 answer,address transmitter,int192[] observations,bytes observers,bytes32 rawReportContext)

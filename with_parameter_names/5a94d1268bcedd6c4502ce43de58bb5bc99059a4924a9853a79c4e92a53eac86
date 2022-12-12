@@ -1,0 +1,1 @@
+MaxTransactionChanged(uint256 pPercent,uint256 percent,uint256 previosAmount,uint256 amount)

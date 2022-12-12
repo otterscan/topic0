@@ -1,0 +1,1 @@
+VaultUnlocked(address indexed vault,uint256 timestamp,bool isCompletelyUnlocked)

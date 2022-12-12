@@ -1,0 +1,1 @@
+NewSale(uint256 indexed listingId,address indexed assetContract,address indexed lister,address buyer,uint256 quantityBought,uint256 totalPricePaid)

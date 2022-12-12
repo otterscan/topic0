@@ -1,1 +1,1 @@
-RouterAdded(address indexed addedRouter,address indexed caller)
+RouterAdded(address indexed addedRouter,address indexed caller);RouterAdded(address indexed router,address caller)

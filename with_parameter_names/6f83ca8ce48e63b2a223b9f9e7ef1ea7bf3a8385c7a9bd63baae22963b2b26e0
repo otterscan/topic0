@@ -1,0 +1,1 @@
+IntegratorTokenFeeCollected(uint256 amount,address indexed integrator,address token)

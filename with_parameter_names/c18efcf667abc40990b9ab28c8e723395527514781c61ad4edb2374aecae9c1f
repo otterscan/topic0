@@ -1,0 +1,1 @@
+WagerCreated(uint256 indexed wagerId,address indexed userA,address userB,address wagerToken,int256 wagerPrice)

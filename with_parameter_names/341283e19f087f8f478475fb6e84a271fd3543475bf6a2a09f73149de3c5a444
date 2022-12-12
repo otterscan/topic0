@@ -1,0 +1,1 @@
+VaultCreated(address indexed vault,uint256 indexed key,address benefactor,address indexed beneficiary,uint256 unlockTimestamp,tuple[] fungibleTokenDeposits,tuple[] nonFungibleTokenDeposits,tuple[] multiTokenDeposits,bool isVesting)

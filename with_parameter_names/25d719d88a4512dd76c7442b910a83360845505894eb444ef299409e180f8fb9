@@ -1,0 +1,1 @@
+ConfigSet(uint32 previousConfigBlockNumber,uint64 configCount,address[] signers,address[] transmitters,uint8 threshold,uint64 encodedConfigVersion,bytes encoded)

@@ -1,0 +1,1 @@
+PurchasedEC(address indexed buyer,uint256 indexed ostSpent,uint256 ecId,uint256 ecsLeft)

@@ -1,0 +1,1 @@
+Registered(address indexed group,address pool,bytes32 indexed name,bytes32 indexed symbol,bytes32 id)

@@ -1,0 +1,1 @@
+SetTokenPrice(uint256 tokenID,uint256 price)

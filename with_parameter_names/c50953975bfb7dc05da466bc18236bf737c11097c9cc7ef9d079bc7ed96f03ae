@@ -1,0 +1,1 @@
+UpdateDividendToken(address indexed oldDividendToken,address indexed newDividendToken)

@@ -1,0 +1,1 @@
+NewOffer(uint256 indexed listingId,address indexed offeror,uint8 indexed listingType,uint256 quantityWanted,uint256 totalOfferAmount,address currency)

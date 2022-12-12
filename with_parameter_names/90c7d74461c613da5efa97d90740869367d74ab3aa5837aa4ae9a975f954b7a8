@@ -1,1 +1,1 @@
-UpdateDividendTracker(address indexed newAddress,address indexed oldAddress)
+UpdateDividendTracker(address indexed newAddress,address indexed oldAddress);UpdateDividendTracker(address oldDividendTracker,address newDividendTracker)

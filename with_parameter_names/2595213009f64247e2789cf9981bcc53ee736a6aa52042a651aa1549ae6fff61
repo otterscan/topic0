@@ -1,0 +1,1 @@
+SetTokenRoyalty(uint256 tokenID,address receiver,uint96 fee)

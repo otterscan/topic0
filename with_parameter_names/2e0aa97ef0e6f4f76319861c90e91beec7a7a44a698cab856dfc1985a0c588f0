@@ -1,0 +1,1 @@
+JobOffer(address indexed worker,address indexed user)

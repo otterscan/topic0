@@ -1,0 +1,1 @@
+FixedCryptoFee(uint256 RubicPart,uint256 integratorPart,address indexed integrator)

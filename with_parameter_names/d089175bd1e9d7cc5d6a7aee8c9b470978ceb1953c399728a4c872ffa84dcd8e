@@ -1,0 +1,1 @@
+NewWinner(address indexed _owner,uint256 _prize,uint256[] _stickers)

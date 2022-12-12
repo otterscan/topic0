@@ -1,0 +1,1 @@
+PackOpened(uint256 indexed packId,address indexed opener,uint256 numOfPacksOpened,tuple[] rewardUnitsDistributed)

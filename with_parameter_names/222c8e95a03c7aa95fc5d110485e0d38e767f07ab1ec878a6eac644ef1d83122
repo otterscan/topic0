@@ -1,0 +1,1 @@
+AdministratorUpdated(address indexed previousAdministrator,address indexed newAdministrator)

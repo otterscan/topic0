@@ -1,0 +1,1 @@
+ProxyDeployed(address indexed implementation,address proxy,address indexed deployer)

@@ -1,0 +1,1 @@
+WagerFilled(uint256 indexed wagerId,address indexed userA,address indexed userB,address wagerToken,int256 wagerPriceA,int256 wagerPriceB)

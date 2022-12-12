@@ -1,0 +1,1 @@
+TokenDeployed(uint32 indexed domain,bytes32 indexed id,address indexed representation)

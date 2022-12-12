@@ -1,0 +1,1 @@
+ClaimApprove(address indexed _approver,uint256 indexed _pid,address indexed _beneficiary,uint256 _severity,address _tokenLock,tuple _claimReward)

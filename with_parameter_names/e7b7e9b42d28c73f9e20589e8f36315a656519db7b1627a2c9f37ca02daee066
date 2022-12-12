@@ -1,0 +1,1 @@
+NFTBought(address _buyer,uint256 _price)

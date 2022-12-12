@@ -1,0 +1,1 @@
+ExcludeFromMaxTrade(address indexed account,bool isExcluded)

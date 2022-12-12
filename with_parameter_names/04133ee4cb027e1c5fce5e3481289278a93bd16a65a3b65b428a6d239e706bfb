@@ -1,0 +1,1 @@
+TokensMinted(address indexed mintedTo,uint256 indexed tokenIdMinted,string uri,uint256 quantityMinted)

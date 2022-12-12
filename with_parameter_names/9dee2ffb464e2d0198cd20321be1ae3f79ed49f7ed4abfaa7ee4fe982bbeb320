@@ -1,0 +1,1 @@
+SetOperator(address indexed operator,address indexed account,uint256 indexed domain,uint256[] permissionIndexes,uint256 packed)

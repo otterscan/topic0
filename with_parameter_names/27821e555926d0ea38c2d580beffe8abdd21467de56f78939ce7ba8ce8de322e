@@ -1,0 +1,1 @@
+Undenylist(address indexed denylister,address indexed denylistee)

@@ -1,0 +1,1 @@
+SwapFeesSet(bytes32 indexed key,uint256 newSwapFee,address caller)

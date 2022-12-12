@@ -1,0 +1,1 @@
+ClaimMintBatch(address indexed creatorContract,uint256 indexed claimIndex,uint16 mintCount)

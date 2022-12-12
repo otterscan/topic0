@@ -1,1 +1,1 @@
-PointsCorrectionUpdated(address indexed account,int256 points)
+PointsCorrectionUpdated(address indexed account,int256 points);PointsCorrectionUpdated(address account,int256 pointsCorrection)

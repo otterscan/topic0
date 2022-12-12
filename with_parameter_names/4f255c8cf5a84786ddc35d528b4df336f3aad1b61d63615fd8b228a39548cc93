@@ -1,0 +1,1 @@
+SwapAndBurn(uint256 indexed _pid,uint256 indexed _amountSwaped,uint256 indexed _amountBurned)

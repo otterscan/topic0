@@ -1,0 +1,1 @@
+DestroyDenylistedFunds(address indexed denylister,address indexed denylistee,uint256 indexed amount)

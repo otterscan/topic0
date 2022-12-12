@@ -1,0 +1,1 @@
+SetRewardsSplit(uint256 indexed _pid,tuple _rewardsSplit)

@@ -1,0 +1,1 @@
+RouterLiquidityRemoved(address indexed router,address to,address local,bytes32 key,uint256 amount,address caller)

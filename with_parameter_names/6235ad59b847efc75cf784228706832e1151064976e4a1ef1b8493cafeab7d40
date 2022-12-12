@@ -1,1 +1,1 @@
-ProxyAdminChanged(address )
+ProxyAdminChanged(address indexed _newCollectionAdmin);ProxyAdminChanged(address )

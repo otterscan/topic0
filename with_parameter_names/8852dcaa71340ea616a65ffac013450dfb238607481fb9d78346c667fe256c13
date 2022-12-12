@@ -1,0 +1,1 @@
+ValidatedVaultProxySetForFund(address indexed comptrollerProxy,address indexed vaultProxy)

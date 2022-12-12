@@ -1,0 +1,1 @@
+TakerAsk(bytes32 orderHash,uint256 orderNonce,address indexed taker,address indexed maker,address indexed strategy,address currency,address collection,uint256 tokenId,uint256 amount,uint256 price)

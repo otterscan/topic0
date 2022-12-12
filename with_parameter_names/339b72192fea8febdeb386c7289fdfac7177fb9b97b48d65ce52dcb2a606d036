@@ -1,0 +1,1 @@
+AddPool(uint256 indexed _pid,uint256 indexed _allocPoint,address indexed _lpToken,address _committee,string _descriptionHash,uint256[] _rewardsLevels,tuple _rewardsSplit,uint256 _rewardVestingDuration,uint256 _rewardVestingPeriods)

@@ -1,0 +1,1 @@
+JobAccepted(address indexed worker,address indexed user)

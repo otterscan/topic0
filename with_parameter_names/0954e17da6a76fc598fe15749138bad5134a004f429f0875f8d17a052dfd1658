@@ -1,0 +1,1 @@
+FeeCollection(uint16 currentUnlock,uint120 totalFee,uint120 extraFee,uint120 burned)

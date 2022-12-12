@@ -1,0 +1,1 @@
+ListingRemoved(uint256 indexed listingId,address indexed listingCreator)

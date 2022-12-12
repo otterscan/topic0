@@ -1,0 +1,1 @@
+Deposited(bytes32 depositId,address depositor,address token,uint256 amount,uint64 mintChainId,address mintAccount,uint64 nonce)

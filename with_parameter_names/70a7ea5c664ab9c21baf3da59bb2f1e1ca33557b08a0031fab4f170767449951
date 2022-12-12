@@ -1,0 +1,1 @@
+FundsRecipientChanged(address indexed newAddress,address indexed changedBy)

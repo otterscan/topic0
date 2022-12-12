@@ -1,0 +1,1 @@
+MinerStart(uint256 data0,uint256 data1,address indexed account,uint40 indexed minerId)

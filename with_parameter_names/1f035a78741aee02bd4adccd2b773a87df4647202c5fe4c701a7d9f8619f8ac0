@@ -1,0 +1,1 @@
+SwapInitialized(bytes32 indexed key,tuple swap,address caller)

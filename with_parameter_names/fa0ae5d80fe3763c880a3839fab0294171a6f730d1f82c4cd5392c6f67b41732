@@ -1,0 +1,1 @@
+CancelMultipleOrders(address indexed user,uint256[] orderNonces)

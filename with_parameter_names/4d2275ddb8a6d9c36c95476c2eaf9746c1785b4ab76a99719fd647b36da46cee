@@ -1,0 +1,1 @@
+Deauthorization(address indexed user,address indexed worker,address indexed dapp)

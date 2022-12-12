@@ -1,0 +1,1 @@
+StableSwapAdded(bytes32 indexed key,bytes32 indexed canonicalId,uint32 indexed domain,address swapPool,address caller)

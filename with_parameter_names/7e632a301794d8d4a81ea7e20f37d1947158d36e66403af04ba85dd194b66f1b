@@ -1,1 +1,1 @@
-NameChange(uint256 indexed tokenId,string newName);NameChange(uint256 tokenId_,string name_)
+NameChange(uint256 indexed maskIndex,string newName);NameChange(uint256 tokenId_,string name_)

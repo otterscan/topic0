@@ -1,0 +1,1 @@
+Minted(address _buyer,uint256 _paid,uint256 _quantity,uint256 _tokenId,string _word,uint256 _round)

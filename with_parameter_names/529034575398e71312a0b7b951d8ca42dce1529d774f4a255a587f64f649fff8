@@ -1,0 +1,1 @@
+PackCreated(uint256 indexed packId,address recipient,uint256 totalPacksCreated)
