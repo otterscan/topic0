@@ -1,0 +1,1 @@
+NewSale(bytes32 indexed saleId,bytes32 indexed merkleRoot,address indexed recipient,address admin,uint256 saleBuyLimit,uint256 userBuyLimit,uint256 purchaseMinimum,uint256 maxQueueTime,uint256 startTime,uint256 endTime,string uri,uint256 price,uint8 decimals)

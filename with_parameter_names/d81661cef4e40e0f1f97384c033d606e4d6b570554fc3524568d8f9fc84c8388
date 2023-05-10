@@ -1,0 +1,1 @@
+Adjust(address indexed beneficiary,int256 amount)

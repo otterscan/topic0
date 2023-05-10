@@ -1,0 +1,1 @@
+GlobalOfferAcceptance(uint256 txnId,uint256 nftId,address from,address caller)

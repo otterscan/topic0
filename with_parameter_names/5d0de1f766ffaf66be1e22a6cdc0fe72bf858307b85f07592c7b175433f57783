@@ -1,0 +1,1 @@
+ChainProgress(address indexed challenger,uint256 chainLength,bytes32 oldHash,bytes32 newHash,uint256 nextMint,string tag)

@@ -1,0 +1,1 @@
+pointsUpdated(uint256 indexed id,uint256 points)

@@ -1,0 +1,1 @@
+AddDistributor(address indexed _distro,bool _valid)

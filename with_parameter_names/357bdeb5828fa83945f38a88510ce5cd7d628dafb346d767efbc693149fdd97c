@@ -1,1 +1,1 @@
-OwnershipAccepted(address indexed previousOwner,address indexed newOwner)
+OwnershipAccepted(address indexed previousOwner_,address indexed newOwner_)

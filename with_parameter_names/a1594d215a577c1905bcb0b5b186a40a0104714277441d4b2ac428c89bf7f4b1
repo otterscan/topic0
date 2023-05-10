@@ -1,0 +1,1 @@
+DividendClaimed(uint256 indexed dividendId,address indexed holder,uint256 amount)

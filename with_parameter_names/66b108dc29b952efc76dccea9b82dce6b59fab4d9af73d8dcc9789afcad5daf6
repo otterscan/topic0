@@ -1,0 +1,1 @@
+LogLiquidation(address indexed from,address indexed user,address indexed to,uint256 collateralShare,uint256 borrowAmount,uint256 borrowPart)

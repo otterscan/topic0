@@ -1,0 +1,1 @@
+TimeRangeSet(address indexed edition,uint128 indexed mintId,uint32 startTime,uint32 endTime)

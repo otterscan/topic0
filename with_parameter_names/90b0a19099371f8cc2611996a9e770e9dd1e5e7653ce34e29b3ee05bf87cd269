@@ -1,0 +1,1 @@
+DirectOfferAcceptance(uint256 txnId,uint256 nftId,address to_accepter,address from)

@@ -1,0 +1,1 @@
+Merge(uint256 indexed consumerTokenId,uint256[] consumedTokenIds)

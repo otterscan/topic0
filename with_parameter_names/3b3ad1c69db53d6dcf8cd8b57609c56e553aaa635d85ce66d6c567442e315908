@@ -1,0 +1,1 @@
+BetPlaced(tuple indexed matchInfo,address indexed sender,bytes32 betSlipID,uint16 gameType,uint16 _target,address contractAddress,uint256 amount,uint32 odds)

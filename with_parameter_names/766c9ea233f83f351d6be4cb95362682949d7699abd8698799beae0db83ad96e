@@ -1,0 +1,1 @@
+RewardAdded(address indexed _reward,address indexed _distributor)

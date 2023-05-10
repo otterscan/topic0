@@ -1,0 +1,1 @@
+AppConfigUpdated(address indexed userApplication,uint256 indexed configType,bytes newConfig);AppConfigUpdated(address userApplication,uint256 configType,bytes newConfig)

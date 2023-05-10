@@ -1,0 +1,1 @@
+ProposalCreated(address proposer,uint256 proposalId,tuple[] actions,uint256 startBlockOrTime,uint256 endBlockOrTime,string description)

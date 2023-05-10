@@ -1,0 +1,1 @@
+Initialized(address indexed underlyingAsset,address indexed pool,address treasury,address incentivesController,uint8 aTokenDecimals,string aTokenName,string aTokenSymbol,bytes params)

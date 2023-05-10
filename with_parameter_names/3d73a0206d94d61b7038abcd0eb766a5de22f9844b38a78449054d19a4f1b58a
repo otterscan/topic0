@@ -1,0 +1,1 @@
+Minted(address indexed edition,uint128 indexed mintId,address indexed buyer,uint32 fromTokenId,uint32 quantity,uint128 requiredEtherValue,uint128 platformFee,uint128 affiliateFee,address affiliate,bool affiliated)

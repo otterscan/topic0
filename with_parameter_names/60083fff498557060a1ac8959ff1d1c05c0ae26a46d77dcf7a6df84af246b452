@@ -1,0 +1,1 @@
+BorderRemoved(uint256 indexed baseParcelKey,uint256 indexed borderKey,uint256 removalStartTime,uint256 removalExpirationTime)

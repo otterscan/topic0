@@ -1,0 +1,1 @@
+TicketsClaim(address indexed claimer,uint256 amount,uint256 indexed lotteryId,uint256 numberTickets)

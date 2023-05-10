@@ -1,0 +1,1 @@
+SetMinDstGas(uint16 _dstChainId,uint16 _type,uint256 _minDstGas)

@@ -1,0 +1,1 @@
+MerkleDropMintCreated(address indexed edition,uint128 indexed mintId,bytes32 merkleRootHash,uint96 price,uint32 startTime,uint32 endTime,uint16 affiliateFeeBPS,uint32 maxMintable,uint32 maxMintablePerAccount)

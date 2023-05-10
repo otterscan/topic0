@@ -1,0 +1,1 @@
+AnticFeeCollectorTransferred(address indexed previousCollector,address indexed newCollector)

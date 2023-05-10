@@ -1,0 +1,1 @@
+OUSDTransferred(address indexed receiver,uint256 amountSent)

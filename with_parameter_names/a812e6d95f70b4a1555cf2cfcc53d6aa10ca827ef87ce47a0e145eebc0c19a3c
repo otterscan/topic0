@@ -1,0 +1,1 @@
+SetDstPrice(uint16 chainId,uint128 dstPriceRatio,uint128 dstGasPriceInWei)

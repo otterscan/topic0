@@ -1,0 +1,1 @@
+BidCanceled(address indexed bidder,uint256 bidNonce)

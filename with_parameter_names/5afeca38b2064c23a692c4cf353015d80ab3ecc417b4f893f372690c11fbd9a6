@@ -1,1 +1,1 @@
-Payout(address indexed user,uint256 value)
+Payout(address indexed user,uint256 value);Payout(address to,uint256 amount)

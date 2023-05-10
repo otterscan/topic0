@@ -1,0 +1,1 @@
+MintFrom(address indexed minter,address indexed asset,uint256 amount)

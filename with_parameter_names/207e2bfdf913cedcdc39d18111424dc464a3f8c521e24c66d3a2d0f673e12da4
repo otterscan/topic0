@@ -1,0 +1,1 @@
+BorderRegistered(uint256 indexed baseParcelKey,uint256 indexed borderKey,uint256 borderRegistrationFee,address beneficiary)

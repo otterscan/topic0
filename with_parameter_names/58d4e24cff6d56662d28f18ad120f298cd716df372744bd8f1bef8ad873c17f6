@@ -1,0 +1,1 @@
+DividendIssued(uint256 indexed dividendId,uint256 amountIssued,uint256 withdrawDeadline,string note)

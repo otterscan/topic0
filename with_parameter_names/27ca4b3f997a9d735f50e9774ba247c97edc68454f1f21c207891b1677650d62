@@ -1,0 +1,1 @@
+PhygitalClaimed(address indexed receiver,uint256 indexed tokenId,bytes32 userId)

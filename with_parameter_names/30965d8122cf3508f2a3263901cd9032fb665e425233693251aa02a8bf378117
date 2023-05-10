@@ -1,0 +1,1 @@
+Feed(address indexed user,uint256 campaignId,uint256 amountIn,uint256 amountOutWithReward,uint256 lockPeriod,uint256 multiplier)

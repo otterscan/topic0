@@ -1,1 +1,1 @@
-TokensStaked(address payer,uint256 amount,uint256 timestamp)
+TokensStaked(address payer,uint256 amount,uint256 timestamp);TokensStaked(address indexed staker,uint256 indexed tokenId,uint256 amount)

@@ -1,0 +1,1 @@
+AffiliateFeeSet(address indexed edition,uint128 indexed mintId,uint16 bps)

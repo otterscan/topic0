@@ -1,0 +1,1 @@
+WithdrawnFromInsuranceFund(address withdrawer,uint96 amount,bytes32 collateralName)

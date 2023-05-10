@@ -1,0 +1,1 @@
+OnlyUserCanWithdraw(address indexed user,bool onlyUserCanWithdraw,bool prevOnlyUserCanWithdraw)

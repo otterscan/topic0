@@ -1,0 +1,1 @@
+NewBid(uint256 indexed auctionId,address indexed bidder,address indexed assetContract,uint256 bidAmount,tuple auction)

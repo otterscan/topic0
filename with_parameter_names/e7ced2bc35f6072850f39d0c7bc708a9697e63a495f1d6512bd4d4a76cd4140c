@@ -1,0 +1,1 @@
+SetupNewContract(address indexed newContract,address indexed creator,address indexed defaultAdmin,string contractURI,string name,tuple defaultRoyaltyConfiguration)

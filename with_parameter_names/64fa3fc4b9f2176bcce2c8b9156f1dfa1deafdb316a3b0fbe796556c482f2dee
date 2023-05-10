@@ -1,0 +1,1 @@
+Register(address indexed addressRegistered,bytes4[] interfaceIds,address registeredBy)

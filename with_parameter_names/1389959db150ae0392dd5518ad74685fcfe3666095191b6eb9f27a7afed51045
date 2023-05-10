@@ -1,0 +1,1 @@
+InitializeDistributor(address indexed token,uint256 total,uint256 weightBips,string uri)

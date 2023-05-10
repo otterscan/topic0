@@ -1,0 +1,1 @@
+SetConditions(uint256[] expiresAfter,uint256[] percent,bytes32[] hashes)

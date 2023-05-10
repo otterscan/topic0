@@ -1,0 +1,1 @@
+SetDstConfig(uint16 chainId,uint16 outboundProofType,uint128 dstNativeAmtCap,uint64 baseGas,uint64 gasPerByte)

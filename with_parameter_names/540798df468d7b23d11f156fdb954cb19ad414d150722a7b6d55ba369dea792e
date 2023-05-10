@@ -1,1 +1,1 @@
-RewardPaid(address indexed vault,address indexed user,uint256 reward)
+RewardPaid(address indexed _user,address indexed _rewardsToken,uint256 _reward)

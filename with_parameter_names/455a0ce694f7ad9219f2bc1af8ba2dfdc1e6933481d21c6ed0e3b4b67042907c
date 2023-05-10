@@ -1,0 +1,1 @@
+CreatedCollection(uint256 indexed collectionId,uint256 maxSupply,uint8 maxPerTx,uint8 maxPerWallet,uint256 price,uint8 status)

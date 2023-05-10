@@ -1,0 +1,1 @@
+AirdropPayment(address indexed recipient,tuple content)

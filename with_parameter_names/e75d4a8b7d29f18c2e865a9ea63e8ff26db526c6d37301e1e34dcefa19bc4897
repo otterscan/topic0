@@ -1,0 +1,1 @@
+LotteryRun(uint256 id,bytes32 lotteryHash,uint256 blockNumber)

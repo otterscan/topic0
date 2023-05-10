@@ -1,0 +1,1 @@
+PoolCreated(uint256 id,uint256 APR,uint256 minimumStakeAmount,uint256 maximumStakedByUser,uint256 maxSize,uint256 claimTimeLock,uint256 unstakeTimeLock)

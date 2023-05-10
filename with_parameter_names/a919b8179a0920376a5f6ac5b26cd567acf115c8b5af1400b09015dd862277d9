@@ -1,0 +1,1 @@
+SetDstGas(uint16 _dstChainId,uint16 _outboundProofType,uint64 _gas)

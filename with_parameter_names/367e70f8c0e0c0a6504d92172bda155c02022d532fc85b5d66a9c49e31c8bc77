@@ -1,0 +1,1 @@
+LotteryOpen(uint256 indexed lotteryId,uint256 startTime,uint256 endTime,uint256 priceTicketInYDT,uint256 firstTicketId,uint256 injectedAmount)

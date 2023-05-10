@@ -1,1 +1,1 @@
-Claim(address indexed to,uint256 amount);Claim(address staker,uint256 amount);Claim(address indexed user,uint256 indexed pid)
+Claim(address indexed beneficiary,uint256 amount);Claim(address staker,uint256 amount);Claim(address indexed user,uint256 indexed pid)

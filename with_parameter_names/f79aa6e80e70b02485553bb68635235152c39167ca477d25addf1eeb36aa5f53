@@ -1,0 +1,1 @@
+BidEvent(address bidder,uint256 ethAmountInWei,uint256 ticketAmount,uint256 usdValue,uint256 timestamp)

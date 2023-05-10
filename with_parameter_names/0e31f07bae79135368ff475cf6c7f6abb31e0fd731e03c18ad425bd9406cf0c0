@@ -1,0 +1,1 @@
+Lock(address _receiver,uint256 _releaseTime,uint256 _split,uint256 _amount)

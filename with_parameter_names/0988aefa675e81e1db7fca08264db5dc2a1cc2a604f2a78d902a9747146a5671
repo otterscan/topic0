@@ -1,0 +1,1 @@
+ExitRateChanged(address indexed token,int96 exitRate)

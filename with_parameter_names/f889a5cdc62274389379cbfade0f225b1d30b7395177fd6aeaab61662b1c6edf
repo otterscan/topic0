@@ -1,0 +1,1 @@
+EditionInitialized(address indexed target,string description,string imageURI,string animationURI)

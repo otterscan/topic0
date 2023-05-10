@@ -1,0 +1,1 @@
+UpdateMinter(address indexed minter,bool canMint,bool canBurn)

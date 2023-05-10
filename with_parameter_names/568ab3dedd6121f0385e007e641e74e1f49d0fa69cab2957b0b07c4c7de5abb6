@@ -1,0 +1,1 @@
+RecoveryAddressChanged(address previousRecoveryAddress,address newRecoveryAddress)

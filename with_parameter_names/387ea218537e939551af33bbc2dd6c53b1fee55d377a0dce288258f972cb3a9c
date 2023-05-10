@@ -1,1 +1,1 @@
-NewContract(address owner)
+NewContract(address contractAddress)

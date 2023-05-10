@@ -1,1 +1,1 @@
-TokensPurchased(address indexed purchaser,uint256 value,uint256 amount);TokensPurchased(address purchaser,uint256 btclAmount,uint256 usdAmount);TokensPurchased(address indexed _purchaser,uint256 indexed weis,uint256 indexed vanilla)
+TokensPurchased(address indexed buyer,uint256 usdAmount,uint256 tokenAmount);TokensPurchased(address purchaser,uint256 btclAmount,uint256 usdAmount);TokensPurchased(address indexed _purchaser,uint256 indexed weis,uint256 indexed vanilla)

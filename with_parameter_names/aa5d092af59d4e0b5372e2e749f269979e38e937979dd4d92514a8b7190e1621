@@ -1,0 +1,1 @@
+NewSale(address indexed implementation,address indexed clone,tuple config,string baseCurrency,address nativeOracle,bool nativePaymentsEnabled)

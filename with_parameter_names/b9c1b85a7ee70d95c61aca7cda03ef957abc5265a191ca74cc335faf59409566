@@ -1,0 +1,1 @@
+BondIncreased(address indexed token,uint256 additionalBond)

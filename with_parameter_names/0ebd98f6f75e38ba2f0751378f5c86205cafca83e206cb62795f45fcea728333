@@ -1,0 +1,1 @@
+UpgradeRemoved(address indexed baseImpl,address indexed upgradeImpl)

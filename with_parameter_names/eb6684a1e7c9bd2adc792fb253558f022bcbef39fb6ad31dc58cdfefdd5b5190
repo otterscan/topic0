@@ -1,0 +1,1 @@
+UpdatedRewardRatio(uint256 oldNumerator,uint256 newNumerator,uint256 oldDenominator,uint256 newDenominator)

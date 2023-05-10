@@ -1,0 +1,1 @@
+StakedTeam(address indexed user,uint16 indexed leaderId,uint16[] boostId)

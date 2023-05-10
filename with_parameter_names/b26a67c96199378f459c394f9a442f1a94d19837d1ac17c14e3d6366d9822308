@@ -1,0 +1,1 @@
+DepositMinted(uint256 indexed id,uint256 groupId,uint256 amount,uint256 shares,address indexed depositor,address indexed claimer,address claimerId,uint64 lockedUntil,bytes data,string name)

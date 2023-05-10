@@ -1,0 +1,1 @@
+BenefitAdded(address indexed target,uint256 from,uint256 to,uint256 price,uint16 id,uint8 amount,uint8 level)

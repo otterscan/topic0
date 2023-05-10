@@ -1,0 +1,1 @@
+BuyBackFromL1Initiated(address indexed depositor,address indexed receiver,uint256 burnTokenAmount,uint256 totalAmountBurnt)

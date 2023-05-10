@@ -1,0 +1,1 @@
+SetTrustedRemoteAddress(uint16 _remoteChainId,bytes _remoteAddress)

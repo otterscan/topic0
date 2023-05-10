@@ -1,0 +1,1 @@
+Whitelisted(address addr,bool status,uint256 minCap,uint256 maxCap)

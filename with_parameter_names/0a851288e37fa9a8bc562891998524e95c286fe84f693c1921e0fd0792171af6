@@ -1,0 +1,1 @@
+EventHooksUpdated(address onKeyPurchaseHook,address onKeyCancelHook,address onValidKeyHook,address onTokenURIHook,address onKeyTransferHook,address onKeyExtendHook,address onKeyGrantHook)

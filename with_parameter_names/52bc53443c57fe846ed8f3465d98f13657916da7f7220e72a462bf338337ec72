@@ -1,0 +1,1 @@
+AssignJob(uint16 dstChainId,uint16 outboundProofType,address userApplication,uint256 totalFee)

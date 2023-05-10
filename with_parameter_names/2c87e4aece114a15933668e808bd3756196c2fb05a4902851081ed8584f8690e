@@ -1,0 +1,1 @@
+AssetCapUpdated(uint256 assetId,uint256 pendingCap,uint256 dailyCap)

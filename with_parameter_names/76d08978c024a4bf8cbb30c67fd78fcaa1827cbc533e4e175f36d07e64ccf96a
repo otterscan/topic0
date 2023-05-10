@@ -1,0 +1,1 @@
+ValsetUpdatedEvent(uint256 indexed _newValsetNonce,uint256 _eventNonce,uint256 _rewardAmount,address _rewardToken,address[] _validators,uint256[] _powers)

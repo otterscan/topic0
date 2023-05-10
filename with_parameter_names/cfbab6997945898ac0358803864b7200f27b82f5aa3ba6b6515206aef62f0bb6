@@ -1,0 +1,1 @@
+NewOffer(address indexed offeror,uint256 indexed offerId,address indexed assetContract,tuple offer)

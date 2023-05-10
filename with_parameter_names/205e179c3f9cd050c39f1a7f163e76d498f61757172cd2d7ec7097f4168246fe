@@ -1,0 +1,1 @@
+LogRepayForAll(uint256 amount,uint128 previousElastic,uint128 newElastic)

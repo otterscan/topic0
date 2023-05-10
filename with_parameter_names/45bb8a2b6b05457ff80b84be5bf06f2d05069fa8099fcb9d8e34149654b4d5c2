@@ -1,0 +1,1 @@
+SetDefaultConfigForChainId(uint16 chainId,uint16 inboundProofLib,uint64 inboundBlockConfirm,address relayer,uint16 outboundProofType,uint16 outboundBlockConfirm,address oracle)

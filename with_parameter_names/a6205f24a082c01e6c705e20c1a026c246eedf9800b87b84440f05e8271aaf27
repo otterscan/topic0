@@ -1,1 +1,1 @@
-Fee(uint256 fee,uint256 subsidy)
+Fee(uint256 oldFee,uint256 newFee)

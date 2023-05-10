@@ -1,0 +1,1 @@
+UniverseOperator(uint256 indexed universeId,address indexed operator,address indexed prevOperator)

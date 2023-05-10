@@ -1,0 +1,1 @@
+BidWithdrawn(uint256 tokenId,address bidder)

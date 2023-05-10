@@ -1,0 +1,1 @@
+TokenAdded(address indexed tokenAddress,uint128 indexed decimals,address indexed priceFeedAddress,string symbol,bool isChainLinkFeed,uint128 priceFeedPrecision)

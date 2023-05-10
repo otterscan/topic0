@@ -1,0 +1,1 @@
+SetTranche(uint256 indexed index,uint128 time,uint128 VestedFraction)

@@ -1,1 +1,1 @@
-Blocked(address indexed _account);Blocked(address account)
+Blocked(address indexed account);Blocked(address account)

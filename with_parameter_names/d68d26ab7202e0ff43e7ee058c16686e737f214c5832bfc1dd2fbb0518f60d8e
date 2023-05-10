@@ -1,0 +1,1 @@
+CancelledAuction(address indexed auctionCreator,uint256 indexed auctionId)

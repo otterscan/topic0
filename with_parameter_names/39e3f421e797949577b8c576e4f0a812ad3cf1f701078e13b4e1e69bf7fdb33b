@@ -1,0 +1,1 @@
+NewPremiumSubscription(uint256 newPrice,address newPaymentToken,address exchangePair)

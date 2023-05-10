@@ -1,0 +1,1 @@
+RaffleClaim(uint64 indexed _raffleId,address indexed _user,uint8 _type)

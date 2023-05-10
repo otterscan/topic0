@@ -1,0 +1,1 @@
+BridgeInEvent(address _tokenAddress,address _from,address _to,string _memoText,uint256 _amount,string _ticket,uint256 _sourceChain)

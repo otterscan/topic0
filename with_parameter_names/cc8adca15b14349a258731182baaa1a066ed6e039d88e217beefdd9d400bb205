@@ -1,0 +1,1 @@
+PluginUpdated(bytes4 indexed functionSelector,address indexed oldPluginAddress,address indexed newPluginAddress)

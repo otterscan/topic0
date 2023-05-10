@@ -1,0 +1,1 @@
+Buy(bytes32 indexed saleId,address indexed buyer,uint256 value,bool native,bytes32[] proof)

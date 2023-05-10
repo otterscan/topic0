@@ -1,0 +1,1 @@
+VoteCastWithParams(address indexed voter,uint256 proposalId,uint8 support,uint256 weight,string reason,bytes params)

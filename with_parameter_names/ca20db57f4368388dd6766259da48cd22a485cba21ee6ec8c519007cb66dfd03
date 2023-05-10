@@ -1,1 +1,1 @@
-UniswapUpdated(address _address)
+UniswapUpdated(address _address);UniswapUpdated(address indexed _address)

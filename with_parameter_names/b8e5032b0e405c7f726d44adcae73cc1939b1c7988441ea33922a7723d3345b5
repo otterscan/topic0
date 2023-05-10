@@ -1,0 +1,1 @@
+FeeChanged(address indexed receiver,uint96 collectionOwnerFeeNumerator,uint96 firstOwnerFeeNumerator)

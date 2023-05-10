@@ -1,0 +1,1 @@
+BetResolved(bytes32 indexed roomId,address indexed sender,bytes32 indexed betSlipID,uint16 target,uint8 result,address contractAddress,uint256 amount,uint256 payout)

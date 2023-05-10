@@ -1,0 +1,1 @@
+RangeEditionMintCreated(address indexed edition,uint128 indexed mintId,uint96 price,uint32 startTime,uint32 cutoffTime,uint32 endTime,uint16 affiliateFeeBPS,uint32 maxMintableLower,uint32 maxMintableUpper,uint32 maxMintablePerAccount)

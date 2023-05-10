@@ -1,0 +1,1 @@
+LockConfig(uint256 expirationDuration,uint256 maxNumberOfKeys,uint256 maxKeysPerAcccount)

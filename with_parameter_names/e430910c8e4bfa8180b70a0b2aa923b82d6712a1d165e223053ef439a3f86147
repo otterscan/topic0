@@ -1,0 +1,1 @@
+MintPausedSet(address indexed edition,uint128 mintId,bool paused)

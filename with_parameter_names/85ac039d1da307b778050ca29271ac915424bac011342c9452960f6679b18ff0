@@ -1,0 +1,1 @@
+AssetAdded(uint256 indexed assetId,address indexed assetAddress,uint256 assetGasLimit)

@@ -1,1 +1,1 @@
-Pause(bool isPaused)
+Pause(bool paused)

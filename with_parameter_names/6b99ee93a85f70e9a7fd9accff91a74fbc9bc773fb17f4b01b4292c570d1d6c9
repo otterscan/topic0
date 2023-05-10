@@ -1,0 +1,1 @@
+EnableOrDisableWhitelist(bool IsWhitelist)

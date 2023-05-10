@@ -1,0 +1,1 @@
+AsyncDefiBridgeProcessed(uint256 indexed encodedBridgeCallData,uint256 indexed nonce,uint256 totalInputValue)

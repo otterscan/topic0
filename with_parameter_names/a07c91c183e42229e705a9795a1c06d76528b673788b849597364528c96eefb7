@@ -1,1 +1,1 @@
-TokenSet(address token)
+TokenSet(address indexed token);TokenSet(address token)

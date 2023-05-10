@@ -1,1 +1,1 @@
-ExcludeFromDividends(address indexed account)
+ExcludeFromDividends(address indexed wallet)

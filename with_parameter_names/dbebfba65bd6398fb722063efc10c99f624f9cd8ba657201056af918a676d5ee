@@ -1,1 +1,1 @@
-SetOperator(address indexed operator)
+SetOperator(address operator);SetOperator(address indexed operator)

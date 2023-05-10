@@ -1,0 +1,1 @@
+Supernova(uint256 tokenId,uint256[] burntTokens,uint256 burntTotal,string character,uint256 hype)

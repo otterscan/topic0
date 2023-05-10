@@ -1,0 +1,1 @@
+NftItemCreated(uint256 tokenId,uint32 qty,address creator,bool isGallery,uint32 galleryFee,address galleryAddress,address[] collaborators,uint32[] collaboratorsFee)

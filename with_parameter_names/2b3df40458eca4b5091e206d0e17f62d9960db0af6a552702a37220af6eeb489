@@ -1,0 +1,1 @@
+BorderVisibilityChanged(uint256 indexed baseParcelKey,uint256 indexed borderKey,bool visibility)

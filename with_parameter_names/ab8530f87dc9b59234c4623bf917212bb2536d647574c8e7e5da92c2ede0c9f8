@@ -1,1 +1,1 @@
-Mint(address indexed owner,address indexed spender,uint256 value);Mint(address from,address ,uint256 tokens);Mint(address indexed from,address indexed to,uint256 indexed tokenId)
+Mint(address indexed minter,address indexed to,uint256 amount);Mint(address from,address ,uint256 tokens);Mint(address indexed from,address indexed to,uint256 indexed tokenId)

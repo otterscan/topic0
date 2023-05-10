@@ -1,1 +1,1 @@
-Buy(address user,address registrar,uint256 registrarAmount,uint256 collateralAmount,uint256 feeAmount)
+Buy(address user,address registrar,uint256 registrarAmount,uint256 collateralAmount,uint256 feeAmount);Buy(address indexed buyer,address indexed token,uint256 baseCurrencyValue,uint256 tokenValue,uint256 tokenFee)

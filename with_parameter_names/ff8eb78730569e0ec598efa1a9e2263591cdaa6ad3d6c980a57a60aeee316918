@@ -1,0 +1,1 @@
+ArbitrageExecuted(address indexed caller,uint16[] exchangeIds,address[] tokenPath,uint256 sourceAmount,uint256 burnAmount,uint256 rewardAmount)

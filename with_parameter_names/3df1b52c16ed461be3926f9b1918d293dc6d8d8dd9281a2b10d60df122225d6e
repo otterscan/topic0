@@ -1,0 +1,1 @@
+UpdatedRoyalties(uint256 indexed tokenId,address indexed user,tuple configuration)

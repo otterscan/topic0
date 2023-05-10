@@ -1,1 +1,1 @@
-RewardAdded(address indexed user,uint256 reward)
+RewardAdded(address indexed _token,uint256 _reward)

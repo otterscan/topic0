@@ -1,0 +1,1 @@
+MediaURIsUpdated(address indexed target,address sender,string imageURI,string animationURI)

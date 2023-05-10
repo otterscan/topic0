@@ -1,0 +1,1 @@
+LogChangeBlacklistedCallee(address indexed account,bool blacklisted)

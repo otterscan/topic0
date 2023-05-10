@@ -1,0 +1,1 @@
+StandardCallbackRegistered(bytes4 interfaceId,bytes4 callbackSelector,bytes4 magicNumber)

@@ -1,0 +1,1 @@
+SetDefaultAdapterParamsForChainId(uint16 indexed chainId,uint16 indexed proofType,bytes adapterParams);SetDefaultAdapterParamsForChainId(uint16 chainId,uint16 proofType,bytes adapterParams)

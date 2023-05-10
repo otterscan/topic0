@@ -1,0 +1,1 @@
+Liquidation(address indexed user,address indexed product,address liquidator,uint256 fee)

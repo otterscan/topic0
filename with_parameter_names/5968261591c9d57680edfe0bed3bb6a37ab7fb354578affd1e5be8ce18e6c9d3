@@ -1,0 +1,1 @@
+ExtensionRemoved(address indexed extensionAddress,bytes4 indexed functionSelector,string functionSignature)

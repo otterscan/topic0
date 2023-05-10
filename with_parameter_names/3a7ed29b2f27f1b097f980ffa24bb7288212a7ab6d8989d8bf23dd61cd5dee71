@@ -1,0 +1,1 @@
+RaffleCreate(uint64 indexed _raffleId,address indexed _nftAddress,uint32 indexed _nftId)

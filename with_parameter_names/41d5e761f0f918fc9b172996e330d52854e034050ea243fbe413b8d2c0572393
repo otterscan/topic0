@@ -1,0 +1,1 @@
+MaxWithdrawalSlippageUpdated(uint256 _prevMaxSlippagePercentage,uint256 _newMaxSlippagePercentage)

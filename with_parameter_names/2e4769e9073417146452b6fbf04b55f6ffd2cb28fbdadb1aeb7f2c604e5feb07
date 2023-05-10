@@ -1,0 +1,1 @@
+ClosePosition(address indexed account,tuple position)

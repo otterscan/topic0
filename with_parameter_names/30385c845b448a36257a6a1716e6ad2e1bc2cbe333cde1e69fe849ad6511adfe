@@ -1,1 +1,1 @@
-Minted(address sender,uint256 count);Minted(address indexed user,uint256 amount);Minted(address indexed minter,uint256 indexed tokenId)
+Minted(address sender,uint256 tokenId);Minted(address indexed user,uint256 amount);Minted(address indexed minter,uint256 indexed tokenId)

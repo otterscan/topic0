@@ -1,0 +1,1 @@
+Activity(address userAddress,uint8 userLevel,uint256 expirationDate)

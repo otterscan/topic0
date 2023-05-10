@@ -1,0 +1,1 @@
+AssignJob(uint16 _dstChainId,uint16 _outboundProofType,uint256 _outboundBlockConfirmations,address _userApplication,uint256 _fee)

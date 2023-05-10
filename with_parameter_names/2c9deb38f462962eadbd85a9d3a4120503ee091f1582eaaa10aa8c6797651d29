@@ -1,0 +1,1 @@
+VoteCast(address voter,uint256 proposalId,uint8 voteType,uint256 votingPower)

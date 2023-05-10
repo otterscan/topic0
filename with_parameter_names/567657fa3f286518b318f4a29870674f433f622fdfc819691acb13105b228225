@@ -1,1 +1,1 @@
-NewTreasury(address indexed _owner,address _tresury)
+NewTreasury(address indexed _owner,address _tresury);NewTreasury(address oldTreasury,address newTreasury)

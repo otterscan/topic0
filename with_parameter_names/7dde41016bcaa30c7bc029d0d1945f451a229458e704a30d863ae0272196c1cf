@@ -1,0 +1,1 @@
+StakedToInsuranceFund(address staker,uint96 amount,bytes32 collateralName)

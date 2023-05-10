@@ -1,0 +1,1 @@
+Initialize(tuple config,string baseCurrency,address nativeOracle,bool nativePaymentsEnabled)

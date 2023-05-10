@@ -1,0 +1,1 @@
+AuctionClosed(uint256 tokenId,address seller,address caller)

@@ -1,0 +1,1 @@
+Auction_Initialized(uint256 indexed _auctionID,uint256 indexed _tokenID,address indexed _contractAddress,bytes4 _tokenKind)

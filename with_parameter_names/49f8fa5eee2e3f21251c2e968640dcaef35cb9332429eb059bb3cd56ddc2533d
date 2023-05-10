@@ -1,1 +1,1 @@
-Joined(address indexed who,uint256 amount)
+Joined(address indexed who,uint256 amount);Joined(address account,uint256 ownershipUnits)

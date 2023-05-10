@@ -1,0 +1,1 @@
+UniverseAuctionConfig(uint256 indexed universeId,uint256 minIncreasePercentage,uint256 timeToExtend,uint256 extendableBy,uint256 prevMinIncreasePercentage,uint256 prevTimeToExtend,uint256 prevExtendableBy)

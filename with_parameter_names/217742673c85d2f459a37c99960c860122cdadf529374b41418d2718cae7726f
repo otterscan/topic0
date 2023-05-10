@@ -1,1 +1,1 @@
-UpdatedLiquidityAddress(address liquidity)
+UpdatedLiquidityAddress(address liquidity);UpdatedLiquidityAddress(address indexed newWallet)

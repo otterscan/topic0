@@ -1,0 +1,1 @@
+YieldClaimed(address claimerId,address indexed to,uint256 amount,uint256 burnedShares,uint256 perfFee,uint256 totalUnderlying,uint256 totalShares)

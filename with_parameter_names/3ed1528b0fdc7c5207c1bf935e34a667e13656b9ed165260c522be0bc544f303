@@ -1,1 +1,1 @@
-Claim(uint256 indexed i,address indexed user,uint256 reward)
+Claim(uint256 indexed i,address indexed user,uint256 reward);Claim(uint256 poolId,address indexed staker,uint256 rewards)

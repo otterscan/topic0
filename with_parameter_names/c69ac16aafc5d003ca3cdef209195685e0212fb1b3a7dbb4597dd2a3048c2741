@@ -1,0 +1,1 @@
+NewAuction(address indexed auctionCreator,uint256 indexed auctionId,address indexed assetContract,tuple auction)

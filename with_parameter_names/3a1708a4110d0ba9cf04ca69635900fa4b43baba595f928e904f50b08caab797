@@ -1,0 +1,1 @@
+MultichainRouterRegistered(address indexed router,bool allowed)

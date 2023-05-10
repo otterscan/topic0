@@ -1,0 +1,1 @@
+VaultPushFrom(tuple asset,address indexed origin,address indexed beneficiary)

@@ -1,0 +1,1 @@
+AuctionClosed(uint256 indexed auctionId,address indexed assetContract,address indexed closer,uint256 tokenId,address auctionCreator,address winningBidder)

@@ -1,1 +1,1 @@
-TokensMinted(address to,uint256 numOfToken)
+TokensMinted(address to,uint256 numOfToken);TokensMinted(address indexed to,uint256 amount)

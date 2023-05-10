@@ -1,0 +1,1 @@
+InsuranceFundCollateralAdded(bytes32 collateralName,address underlyingToken,address collateralToken,uint8 flavor)

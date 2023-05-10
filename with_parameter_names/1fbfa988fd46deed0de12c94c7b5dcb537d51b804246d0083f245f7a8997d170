@@ -1,0 +1,1 @@
+LiFiTransferRecovered(bytes32 indexed transactionId,address receivingAssetId,address receiver,uint256 amount,uint256 timestamp)

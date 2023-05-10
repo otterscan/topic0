@@ -1,0 +1,1 @@
+SubscriptionSet(address indexed buyer,uint256 id,uint256 acquisitionTimestamp,address currency,uint256 cost)

@@ -1,0 +1,1 @@
+CreateTestament(address user,uint256 priceInPaymentToken,tuple newTestament)

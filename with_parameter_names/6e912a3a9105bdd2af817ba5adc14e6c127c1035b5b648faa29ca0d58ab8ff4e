@@ -1,1 +1,1 @@
-AuctionExtended(uint256 indexed furbId,uint256 endTime)
+AuctionExtended(uint256 oldEndTime,uint256 newEndTime);AuctionExtended(uint256 indexed furbId,uint256 endTime)

@@ -1,1 +1,1 @@
-OperatorRemoved(address indexed account)
+OperatorRemoved(address operator);OperatorRemoved(address indexed account)

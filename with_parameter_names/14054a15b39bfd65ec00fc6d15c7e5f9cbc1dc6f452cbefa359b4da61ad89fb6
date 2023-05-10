@@ -1,0 +1,1 @@
+RollupProcessed(uint256 indexed rollupId,bytes32[] nextExpectedDefiHashes,address sender)

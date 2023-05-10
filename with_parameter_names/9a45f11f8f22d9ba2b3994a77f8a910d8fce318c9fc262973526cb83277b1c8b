@@ -1,0 +1,1 @@
+NewNote(address indexed from,uint256 timestamp,string name,string message)

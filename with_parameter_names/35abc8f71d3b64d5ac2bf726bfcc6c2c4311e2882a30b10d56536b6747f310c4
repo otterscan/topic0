@@ -1,0 +1,1 @@
+PluginRemoved(bytes4 indexed functionSelector,address indexed pluginAddress)

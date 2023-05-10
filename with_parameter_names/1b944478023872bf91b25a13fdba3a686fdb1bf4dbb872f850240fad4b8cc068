@@ -1,0 +1,1 @@
+SetupNewToken(uint256 indexed tokenId,address indexed sender,string newURI,uint256 maxSupply)
